@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FONDUE-MLT-ART
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Béatrice
+    email: Beatrice.Joyeux-Prunel@unige.ch
+    family-names: Joyeux-Prunel
+    affiliation: CJM
+    orcid: 'https://orcid.org/0000-0003-1046-7002'
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-MLT-ART'
+url: 'https://github.com/FoNDUE-HTR/FONDUE-MLT-ART'
+abstract: >-
+  Transcription corpora for training HTR models for
+  Swiss exhibition catalogues
+keywords:
+  - HTR
+  - Catalogues
+license: CC-BY-4.0
+version: Artlas 0.8.0
+date-released: '2022-12-12'
