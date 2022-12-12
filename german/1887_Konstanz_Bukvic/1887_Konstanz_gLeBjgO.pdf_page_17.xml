@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Konstanz_gLeBjgO.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1337"
+          HEIGHT="2122"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1337"
+                  HEIGHT="2122">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_2c7be6c9"
+                    
+                    BASELINE="468 311 986 314" 
+                    HPOS="466"
+                    VPOS="267"
+                    WIDTH="520"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="472 279 468 311 466 318 983 321 986 314 985 279 778 268 776 268 774 268 764 274 753 277 741 272 728 267 726 267 725 267 723 267 710 272 702 275 640 270 599 267 597 267 595 267 594 267 594 268 592 268 585 277 518 277 482 268 472 279"/></Shape>
+	    <String CONTENT="Hans Baur in Konstanz."
+                    HPOS="466"
+                    VPOS="267"
+                    WIDTH="520"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_470857dc"
+                    
+                    BASELINE="235 366 1092 362" 
+                    HPOS="233"
+                    VPOS="320"
+                    WIDTH="859"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="427 327 410 327 406 332 401 328 392 328 374 330 357 330 339 327 325 325 313 332 304 323 304 321 302 321 300 321 245 321 244 321 242 321 240 321 240 323 238 323 233 327 235 366 235 373 491 381 493 381 495 381 521 373 525 373 528 373 576 381 578 381 580 381 581 381 581 380 590 373 1091 373 1092 362 1089 332 985 332 949 320 947 320 946 320 944 320 942 320 926 330 859 321 857 321 808 330 753 320 751 320 680 330 666 320 664 320 663 320 661 320 599 332 585 321 583 321 581 321 580 321 578 321 576 321 562 332 505 332 496 325 496 323 495 323 493 323 491 323 489 323 456 332 436 325 427 327"/></Shape>
+	    <String CONTENT="328. Ekkehard auf Hohentwiel, der Herzogin Hadewig aus Virgil vortragend. Gruppe in gebranntem Ton 300"
+                    HPOS="233"
+                    VPOS="320"
+                    WIDTH="859"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_592925a4"
+                    
+                    BASELINE="330 419 1092 419" 
+                    HPOS="330"
+                    VPOS="376"
+                    WIDTH="762"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="330 419 330 431 426 431 442 443 442 445 443 445 445 445 447 447 475 447 475 445 477 445 479 445 479 443 493 431 650 445 652 445 654 445 695 431 728 431 744 443 744 445 746 445 748 445 749 447 886 447 886 445 887 445 889 445 907 431 988 445 990 445 1092 429 1092 419 1092 383 330 376 330 419"/></Shape>
+	    <String CONTENT="329. Männlicher Studienkopf, Medaillon —"
+                    HPOS="330"
+                    VPOS="376"
+                    WIDTH="762"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db2d04b0"
+                    
+                    BASELINE="332 472 1228 468" 
+                    HPOS="328"
+                    VPOS="431"
+                    WIDTH="899"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="330 470 330 484 1225 473 1227 466 1222 435 774 445 652 445 631 435 622 431 620 431 541 431 539 431 537 431 535 431 535 433 532 435 528 440 519 435 511 431 509 431 507 431 328 435 330 470"/></Shape>
+	    <String CONTENT="Alb. Dietz in Konstanz."
+                    HPOS="328"
+                    VPOS="431"
+                    WIDTH="899"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a2549ec"
+                    
+                    BASELINE="233 532 1236 524" 
+                    HPOS="229"
+                    VPOS="484"
+                    WIDTH="1005"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="231 530 231 537 279 548 281 548 909 544 946 537 983 532 1230 537 1234 523 1229 496 1068 496 1064 495 1050 486 1048 486 1046 486 1045 486 1043 486 1022 495 1018 498 912 498 901 495 870 484 868 484 866 484 811 495 799 496 776 495 703 488 702 488 700 488 698 488 698 489 691 495 684 500 627 495 555 488 553 488 519 495 507 496 488 495 438 488 436 488 406 495 394 496 385 495 367 488 366 488 364 488 229 493 231 530"/></Shape>
+	    <String CONTENT="330. Parthie in Lorettowald, Abendstimmung —"
+                    HPOS="229"
+                    VPOS="484"
+                    WIDTH="1005"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b669eaa5"
+                    
+                    BASELINE="468 595 988 595" 
+                    HPOS="468"
+                    VPOS="548"
+                    WIDTH="520"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="468 595 468 604 988 604 988 595 988 560 901 558 893 549 893 548 891 548 889 548 887 548 886 548 863 558 801 548 799 548 682 558 656 548 654 548 652 548 650 548 649 548 636 557 622 548 620 548 618 548 493 548 491 548 489 548 468 558 468 595"/></Shape>
+	    <String CONTENT=""
+                    HPOS="468"
+                    VPOS="548"
+                    WIDTH="520"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acf61a68"
+                    
+                    BASELINE="235 645 1218 642" 
+                    HPOS="231"
+                    VPOS="601"
+                    WIDTH="985"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="233 643 233 689 314 700 316 700 318 700 320 700 332 691 366 670 597 670 680 693 682 693 687 694 725 696 726 696 728 696 733 694 781 675 818 694 827 700 829 700 831 702 942 702 942 700 944 700 946 700 949 696 983 671 1052 696 1054 696 1061 698 1146 700 1147 700 1149 700 1151 700 1151 698 1153 698 1163 687 1214 698 1216 641 1213 615 341 601 339 601 337 601 309 613 263 601 261 601 259 601 258 601 231 613 233 643"/></Shape>
+	    <String CONTENT=""
+                    HPOS="231"
+                    VPOS="601"
+                    WIDTH="985"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
