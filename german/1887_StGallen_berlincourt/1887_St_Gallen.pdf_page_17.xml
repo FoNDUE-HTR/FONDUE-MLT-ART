@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_St_Gallen.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1331"
+          HEIGHT="2105"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1331"
+                  HEIGHT="2105">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3eda8338"
+                    
+                    BASELINE="463 271 1002 271" 
+                    HPOS="463"
+                    VPOS="231"
+                    WIDTH="539"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="990 236 935 236 920 236 902 236 884 236 867 236 849 235 832 235 814 235 797 235 779 235 762 235 744 235 726 233 709 233 691 233 674 233 656 233 639 233 621 233 618 233 612 236 605 233 604 233 586 231 570 231 539 236 502 231 498 231 481 231 463 254 463 271 463 282 1002 280 1002 271 1000 263 990 236"/></Shape>
+	    <String CONTENT="Eduard Pfyffer in Zürich."
+                    HPOS="463"
+                    VPOS="231"
+                    WIDTH="539"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36bfbe35"
+                    
+                    BASELINE="247 329 832 329 1111 331 1204 331" 
+                    HPOS="244"
+                    VPOS="285"
+                    WIDTH="958"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="245 328 244 342 337 335 431 342 451 343 453 343 1201 335 1202 329 1201 294 1146 285 1144 285 1143 285 1120 292 1100 301 832 301 798 292 770 285 769 285 767 285 751 292 741 296 737 292 732 287 732 285 730 285 728 285 669 285 667 285 665 285 663 285 663 287 658 291 651 298 640 291 632 285 630 285 628 285 521 285 519 285 460 291 400 296 370 291 352 287 351 287 349 287 347 287 344 291 333 298 324 291 323 289 323 287 321 287 319 287 317 287 245 289 245 328"/></Shape>
+	    <String CONTENT="293. Kartenspielende Arbeiter 1200"
+                    HPOS="244"
+                    VPOS="285"
+                    WIDTH="958"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d501115"
+                    
+                    BASELINE="563 396 899 399" 
+                    HPOS="561"
+                    VPOS="347"
+                    WIDTH="338"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="563 396 561 403 895 406 899 399 899 361 888 350 888 349 886 349 884 349 883 349 837 357 816 349 814 349 812 349 811 349 809 349 791 361 788 361 672 361 669 356 660 349 660 347 658 347 656 347 654 347 653 347 626 356 612 359 563 354 563 396"/></Shape>
+	    <String CONTENT="Veillon in Genf."
+                    HPOS="561"
+                    VPOS="347"
+                    WIDTH="338"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a397feb0"
+                    
+                    BASELINE="245 457 649 454 1136 457 1201 457" 
+                    HPOS="242"
+                    VPOS="413"
+                    WIDTH="957"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="244 456 242 463 1195 464 1199 456 1197 417 1134 415 1132 415 1130 415 1129 415 1129 417 1127 417 1115 431 765 431 746 422 730 417 728 417 726 417 672 424 644 428 633 424 598 413 597 413 521 413 519 413 518 413 516 413 516 415 503 426 484 413 482 413 481 413 479 413 477 413 449 426 417 413 416 413 349 413 347 413 345 413 344 413 344 415 331 426 319 415 319 413 317 413 316 413 256 413 254 413 252 413 251 413 251 415 244 422 244 456"/></Shape>
+	    <String CONTENT="294. L’ile de Philae 700"
+                    HPOS="242"
+                    VPOS="413"
+                    WIDTH="957"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da3a6157"
+                    
+                    BASELINE="468 524 981 529" 
+                    HPOS="467"
+                    VPOS="475"
+                    WIDTH="514"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="978 487 974 484 962 478 960 478 958 478 956 478 955 478 944 487 923 478 921 478 920 478 918 478 900 487 888 478 886 478 884 478 883 478 751 485 742 478 742 477 741 477 739 477 737 477 735 477 733 477 721 485 719 485 658 477 656 477 654 477 653 477 640 485 628 475 626 475 625 475 623 475 468 482 468 524 467 535 978 536 981 529 981 489 978 487"/></Shape>
+	    <String CONTENT="Frau Hoffmann in Basel."
+                    HPOS="467"
+                    VPOS="475"
+                    WIDTH="514"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aa4f8b6"
+                    
+                    BASELINE="247 587 338 587 409 642 1202 644" 
+                    HPOS="244"
+                    VPOS="571"
+                    WIDTH="957"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="244 620 351 622 352 624 361 633 361 635 363 635 365 635 366 635 368 635 370 635 379 627 405 649 407 649 409 649 458 650 460 650 1199 647 1201 643 1201 608 1151 596 1150 596 1148 596 1146 596 1146 598 1137 605 1122 620 1007 620 997 610 997 608 995 608 993 608 992 608 990 608 969 619 827 610 825 610 823 610 802 619 712 619 702 608 700 608 698 608 697 608 695 608 677 613 661 599 661 598 660 598 658 598 656 598 570 601 551 585 551 584 549 584 547 584 546 584 544 584 461 605 426 596 403 573 402 573 402 571 400 571 398 571 347 571 245 585 244 620"/></Shape>
+	    <String CONTENT="295. Blumenstücke"
+                    HPOS="244"
+                    VPOS="571"
+                    WIDTH="957"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e8285f5"
+                    
+                    BASELINE="247 642 335 642" 
+                    HPOS="247"
+                    VPOS="596"
+                    WIDTH="88"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="247 642 247 649 335 649 335 642 335 606 261 596 259 596 258 596 256 596 247 601 247 642"/></Shape>
+	    <String CONTENT="296."
+                    HPOS="247"
+                    VPOS="596"
+                    WIDTH="88"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8261618"
+                    
+                    BASELINE="249 692 335 692" 
+                    HPOS="249"
+                    VPOS="656"
+                    WIDTH="86"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="249 692 249 703 335 703 335 692 335 656 249 656 249 692"/></Shape>
+	    <String CONTENT="297."
+                    HPOS="249"
+                    VPOS="656"
+                    WIDTH="86"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b9aa7c0"
+                    
+                    BASELINE="546 764 913 770" 
+                    HPOS="544"
+                    VPOS="722"
+                    WIDTH="369"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="899 731 855 727 844 727 827 727 809 726 791 726 776 726 772 729 755 726 739 726 721 724 709 724 681 729 669 724 651 724 633 722 619 722 560 727 547 754 546 764 544 775 909 777 913 770 909 757 899 731"/></Shape>
+	    <String CONTENT="Böcklin in Basel."
+                    HPOS="544"
+                    VPOS="722"
+                    WIDTH="369"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21027edb"
+                    
+                    BASELINE="245 824 465 824 941 826 1195 826" 
+                    HPOS="242"
+                    VPOS="780"
+                    WIDTH="952"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="244 822 242 827 1190 836 1194 824 1190 784 1100 791 1093 784 1092 784 1092 782 1090 782 1088 782 955 782 953 782 951 782 949 782 949 784 946 785 934 798 862 789 860 789 858 789 856 789 856 791 848 799 484 799 475 792 460 780 458 780 456 780 256 780 254 780 252 780 251 780 251 782 249 782 244 787 244 822"/></Shape>
+	    <String CONTENT="298. Ruine (Privatbesitz)"
+                    HPOS="242"
+                    VPOS="780"
+                    WIDTH="952"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84fc31b6"
+                    
+                    BASELINE="491 892 956 896" 
+                    HPOS="489"
+                    VPOS="847"
+                    WIDTH="467"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="491 892 489 898 953 901 956 896 955 859 893 849 892 849 798 856 753 857 742 854 725 847 723 847 721 847 719 847 718 847 711 852 707 856 491 849 491 892"/></Shape>
+	    <String CONTENT="Schweizer in Dresden."
+                    HPOS="489"
+                    VPOS="847"
+                    WIDTH="467"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b88aa38"
+                    
+                    BASELINE="249 949 997 952 1127 952 1201 952" 
+                    HPOS="245"
+                    VPOS="906"
+                    WIDTH="954"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="247 947 245 952 410 957 442 975 444 975 446 977 544 977 544 975 546 975 547 975 547 973 563 959 619 956 623 956 626 956 661 957 683 975 684 975 686 975 688 977 748 977 748 975 749 975 751 975 779 956 805 977 807 977 809 977 811 977 812 977 858 957 900 977 902 977 904 978 960 978 960 977 962 977 964 977 995 957 997 957 1195 957 1199 950 1197 915 995 920 942 915 879 910 877 910 876 910 863 917 856 920 853 917 848 912 848 910 846 910 844 910 842 910 841 910 816 917 811 917 805 917 755 908 753 908 751 908 733 917 728 919 711 917 642 908 640 908 639 908 605 917 598 919 582 917 495 908 493 908 446 919 440 919 437 919 377 906 375 906 328 917 317 908 317 906 316 906 314 906 261 906 259 906 258 906 256 906 247 913 247 947"/></Shape>
+	    <String CONTENT="299. Bronce-Büste: Conr. Ferd. Meyer 300"
+                    HPOS="245"
+                    VPOS="906"
+                    WIDTH="954"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
