@@ -2,27 +2,27 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 authors:
-  - name: Joyeux-Prunel
-    surname: Béatrice
-    orcid: 0000-0003-1046-7002
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-  - name: Gabay
-    surname: Simon
-    orcid: 0000-0001-9094-4475
-    roles:
-      - quality-control
-      - support
+- name: Joyeux-Prunel
+  surname: "B\xE9atrice"
+  orcid: 0000-0003-1046-7002
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+- name: Gabay
+  surname: Simon
+  orcid: 0000-0001-9094-4475
+  roles:
+  - quality-control
+  - support
 institutions: []
 description: Swiss art exhibitions catalogues
 project-name: FoNDUE
 language:
-  - deu
+- deu
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1842'
@@ -31,10 +31,100 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: pages
-    count: 60
+- metric: characters
+  count: 29464
+- metric: files
+  count: 42
+- metric: lines
+  count: 1191
+- metric: pages
+  count: 60
+- metric: regions
+  count: 42
 citation-file-link: https://raw.githubusercontent.com/FoNDUE-HTR/FONDUE-MLT-ART/main/CITATION.cff
+characters:
+  mode: NFD
+  members:
+  - e
+  - n
+  - .
+  - r
+  - a
+  - i
+  - l
+  - '0'
+  - s
+  - t
+  - u
+  - h
+  - o
+  - d
+  - c
+  - '1'
+  - g
+  - '2'
+  - m
+  - '5'
+  - '3'
+  - f
+  - b
+  - "\u0308"
+  - M
+  - G
+  - B
+  - S
+  - '4'
+  - A
+  - '8'
+  - '6'
+  - L
+  - '7'
+  - F
+  - v
+  - D
+  - (
+  - )
+  - '9'
+  - P
+  - p
+  - W
+  - z
+  - y
+  - H
+  - K
+  - E
+  - C
+  - k
+  - V
+  - ','
+  - T
+  - R
+  - w
+  - J
+  - N
+  - Z
+  - '-'
+  - I
+  - O
+  - "\u0301"
+  - q
+  - U
+  - x
+  - "\xAC"
+  - "\u0300"
+  - "\u2019"
+  - ;
+  - X
+  - "\u0302"
+  - ':'
+  - j
+  - '['
+  - ']'
+  - "\u2014"
+  - Q
+  - ''''
+  - Y
