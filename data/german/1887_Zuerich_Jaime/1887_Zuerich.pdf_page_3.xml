@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Zuerich.pdf_page_3.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1356"
+          HEIGHT="2244"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1356"
+                  HEIGHT="2244">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bf16ec26"
+                    
+                    BASELINE="551 323 996 323" 
+                    HPOS="551"
+                    VPOS="261"
+                    WIDTH="445"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="963 267 944 267 935 276 923 267 922 267 920 267 918 267 817 276 804 265 794 265 776 265 757 263 738 263 720 263 701 263 682 263 663 274 654 265 654 263 652 263 650 263 609 261 607 261 589 261 570 261 551 291 551 323 553 345 995 334 996 323 996 280 981 273"/></Shape>
+	    <String CONTENT="Reglement."
+                    HPOS="551"
+                    VPOS="261"
+                    WIDTH="445"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bedc8ce9"
+                    
+                    BASELINE="331 454 1305 454" 
+                    HPOS="331"
+                    VPOS="411"
+                    WIDTH="974"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1266 411 1247 411 1228 411 1226 413 1215 418 1195 413 1187 411 1172 411 1163 411 1161 413 1154 420 1069 420 1062 413 1060 411 1045 411 1039 413 1028 418 998 413 983 411 966 411 948 411 937 411 922 415 905 418 899 415 895 411 892 411 873 411 854 411 836 411 817 411 798 411 781 411 778 415 774 418 761 415 746 411 742 411 723 411 705 411 684 415 669 418 658 417 641 411 630 411 619 411 613 417 609 418 592 417 559 411 555 411 536 411 521 411 506 417 499 418 491 417 471 411 461 411 447 411 441 417 439 418 432 417 400 411 387 411 375 411 331 417 331 418 331 454 331 467 338 474 340 474 342 474 344 474 346 474 347 474 362 465 531 465 546 474 548 474 549 474 551 474 1305 463 1305 454 1305 413 1283 411 1266 411"/></Shape>
+	    <String CONTENT="§ 1. Die Ausstellung ist täglich geöffnet vom 24. Mai"
+                    HPOS="331"
+                    VPOS="411"
+                    WIDTH="974"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e192b1b"
+                    
+                    BASELINE="245 506 907 503" 
+                    HPOS="243"
+                    VPOS="460"
+                    WIDTH="664"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="261 469 243 474 245 506 245 514 905 510 907 503 903 471 708 471 708 469 699 461 699 460 697 460 695 460 693 460 624 469 620 469 617 469 574 460 572 460 570 460 568 460 568 461 559 469 557 471 544 469 499 461 497 461 495 461 480 469 475 471 469 469 452 461 450 461 448 461 263 467 261 469"/></Shape>
+	    <String CONTENT="bis und mit dem 14. Juni, und zwar:"
+                    HPOS="243"
+                    VPOS="460"
+                    WIDTH="664"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62f2901f"
+                    
+                    BASELINE="245 559 1299 559" 
+                    HPOS="245"
+                    VPOS="523"
+                    WIDTH="1054"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="245 559 245 568 1298 574 1299 559 1299 523 245 523 245 559"/></Shape>
+	    <String CONTENT="An den Sonntagen von 10 Uhr Vormittags bis 6 Uhr Abends,"
+                    HPOS="245"
+                    VPOS="523"
+                    WIDTH="1054"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51beb58f"
+                    
+                    BASELINE="256 609 1245 609" 
+                    HPOS="256"
+                    VPOS="570"
+                    WIDTH="989"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="256 609 256 615 1243 618 1245 609 1243 574 705 581 693 577 677 570 675 570 673 570 671 570 656 577 647 583 570 583 514 577 383 570 381 570 379 570 377 570 377 572 368 579 366 581 256 581 256 609"/></Shape>
+	    <String CONTENT="» » Werktagen »  9 »   »   » 6 »  »"
+                    HPOS="256"
+                    VPOS="570"
+                    WIDTH="989"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88b53fcd"
+                    
+                    BASELINE="245 663 1299 658" 
+                    HPOS="243"
+                    VPOS="624"
+                    WIDTH="1056"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="245 663 245 676 1298 673 1299 658 1294 624 243 628 245 663"/></Shape>
+	    <String CONTENT="(mit Ausnahme der Börsenstunden an den Freitagen von 2 bis 4 Uhr)."
+                    HPOS="243"
+                    VPOS="624"
+                    WIDTH="1056"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8581bf40"
+                    
+                    BASELINE="329 718 1301 714" 
+                    HPOS="327"
+                    VPOS="669"
+                    WIDTH="974"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="329 718 329 729 1299 727 1301 714 1298 682 1236 669 1234 669 1232 669 1230 669 1215 680 1163 671 1161 671 1081 680 1011 669 1009 669 1008 669 976 680 918 669 916 669 914 669 886 680 845 669 843 669 841 669 839 669 809 682 770 671 768 671 766 671 712 680 697 671 695 671 693 671 692 671 690 671 669 682 660 673 660 671 658 671 656 671 536 671 534 671 533 671 531 671 512 682 448 671 447 671 445 671 405 682 379 671 377 671 375 671 374 671 372 671 372 673 362 682 340 671 338 671 336 671 334 671 332 671 332 673 331 673 327 676 329 718"/></Shape>
+	    <String CONTENT="§ 2. Der Eintritt beträgt für jede Person 60 Cts.,"
+                    HPOS="327"
+                    VPOS="669"
+                    WIDTH="974"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fafb211"
+                    
+                    BASELINE="243 762 1301 766" 
+                    HPOS="241"
+                    VPOS="721"
+                    WIDTH="1060"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="243 762 241 774 297 785 299 785 1299 779 1301 766 1301 734 1260 723 1258 723 1118 723 1116 723 1114 723 1112 723 1101 733 1049 723 1047 723 1045 723 1013 733 998 723 996 723 995 723 993 723 991 723 957 733 953 733 952 733 901 723 899 723 729 731 706 721 705 721 703 721 701 721 671 731 658 721 656 721 654 721 652 721 650 721 611 731 540 721 538 721 536 721 503 731 501 731 499 731 415 721 413 721 411 721 390 731 389 733 286 733 284 731 269 721 267 721 265 721 263 721 261 721 243 729 243 762"/></Shape>
+	    <String CONTENT="Sonntag Nachmittags 30 Cts., für Kinder 20 Cts., für Schulen"
+                    HPOS="241"
+                    VPOS="721"
+                    WIDTH="1060"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_170bee56"
+                    
+                    BASELINE="245 819 1096 819" 
+                    HPOS="245"
+                    VPOS="776"
+                    WIDTH="851"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="245 819 245 824 336 835 338 835 340 835 374 826 385 835 387 835 389 835 390 835 1096 824 1096 819 1096 785 1054 776 1053 776 1051 776 1049 776 1024 785 1011 776 1009 776 1008 776 1006 776 1004 776 970 785 811 776 809 776 807 776 774 785 750 776 748 776 746 776 744 776 742 776 742 777 733 787 675 787 639 776 637 776 635 776 583 785 467 776 465 776 360 785 316 776 314 776 312 776 310 776 297 785 258 776 256 776 254 776 252 776 250 776 250 777 245 783 245 819"/></Shape>
+	    <String CONTENT="20 Cts. per Schüler. Preis des Katalogs 40 Cts."
+                    HPOS="245"
+                    VPOS="776"
+                    WIDTH="851"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2558858d"
+                    
+                    BASELINE="332 871 1301 867" 
+                    HPOS="331"
+                    VPOS="824"
+                    WIDTH="970"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="332 871 332 878 1299 875 1301 867 1298 837 1243 826 1241 826 1200 835 1198 835 1183 824 1182 824 1180 824 1178 824 1176 824 1139 835 1135 835 1101 835 916 826 914 826 912 826 910 826 901 834 895 837 789 837 776 832 759 826 757 826 755 826 753 826 751 826 746 832 738 837 714 832 695 826 693 826 692 826 690 826 688 826 682 830 675 837 637 830 615 826 613 826 611 826 609 826 604 830 596 835 587 830 583 826 581 826 579 826 490 826 488 826 486 826 484 826 484 828 482 828 473 837 445 828 437 826 435 826 433 826 432 826 424 828 396 837 331 828 332 871"/></Shape>
+	    <String CONTENT="Die Tit. Mitglieder des Kunstvereins und der Künstler-"
+                    HPOS="331"
+                    VPOS="824"
+                    WIDTH="970"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c434169"
+                    
+                    BASELINE="243 923 1301 923" 
+                    HPOS="243"
+                    VPOS="880"
+                    WIDTH="1058"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="243 923 243 935 562 931 566 935 572 938 572 940 574 940 576 940 577 942 645 942 645 940 682 933 693 931 695 933 703 938 703 940 705 940 706 940 708 942 877 942 877 940 879 940 880 940 890 933 892 931 970 931 991 931 1122 940 1124 940 1228 931 1256 940 1258 940 1260 940 1262 940 1301 929 1301 923 1301 891 693 880 692 880 690 880 688 880 688 882 678 891 512 891 452 880 450 880 448 880 447 880 435 890 370 880 368 880 366 880 364 880 364 882 355 890 319 880 317 880 316 880 243 890 243 923"/></Shape>
+	    <String CONTENT="gesellschaft haben gegen Vorweisung der Mitgliederkarte pro"
+                    HPOS="243"
+                    VPOS="880"
+                    WIDTH="1058"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_647a85f0"
+                    
+                    BASELINE="245 976 605 972" 
+                    HPOS="243"
+                    VPOS="925"
+                    WIDTH="362"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="523 925 504 925 486 925 475 925 415 936 402 925 392 925 374 925 355 925 336 925 317 925 299 925 280 925 261 925 256 925 243 935 245 976 245 981 605 978 605 972 602 936 538 925 523 925"/></Shape>
+	    <String CONTENT="1887 freien Eintritt."
+                    HPOS="243"
+                    VPOS="925"
+                    WIDTH="362"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1624fb27"
+                    
+                    BASELINE="329 1030 1299 1022" 
+                    HPOS="327"
+                    VPOS="968"
+                    WIDTH="972"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="589 974 570 974 551 974 533 974 514 974 506 974 504 974 503 974 493 983 471 974 469 974 467 974 465 974 463 974 433 996 400 996 389 985 389 983 387 983 385 983 383 983 381 983 357 992 346 981 346 979 344 979 342 979 340 979 338 979 336 979 336 981 334 981 327 989 329 1030 329 1037 1298 1030 1299 1022 1296 991 1114 991 1056 968 1054 968 1053 968 1051 968 1017 985 1002 972 1002 970 1000 970 998 970 963 970 961 970 959 970 901 989 821 970 819 970 817 970 815 970 789 992 753 978 751 978 750 978 748 978 714 992 693 974 693 972 692 972 690 972 688 972 628 983 611 972 609 972 607 972 605 972 589 972 589 974"/></Shape>
+	    <String CONTENT="§ 3. Die Verloosung geschieht am Schlusse des Aus-"
+                    HPOS="327"
+                    VPOS="968"
+                    WIDTH="972"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50c67ccc"
+                    
+                    BASELINE="241 1077 1301 1080" 
+                    HPOS="239"
+                    VPOS="1035"
+                    WIDTH="1062"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="241 1077 239 1082 1298 1086 1301 1080 1301 1050 1251 1037 1249 1037 1247 1037 1159 1047 1118 1037 1116 1037 1114 1037 1112 1037 1110 1037 1094 1049 1092 1049 1026 1037 1024 1037 1023 1037 1021 1037 1009 1049 972 1037 970 1037 968 1037 966 1037 965 1037 952 1049 950 1049 916 1037 914 1037 912 1037 910 1037 882 1049 879 1049 877 1049 839 1037 837 1037 791 1037 789 1037 787 1037 785 1037 785 1039 776 1049 774 1049 605 1049 605 1047 594 1037 594 1035 592 1035 591 1035 589 1035 531 1047 527 1047 521 1047 407 1035 405 1035 357 1047 353 1047 349 1047 314 1035 312 1035 310 1035 241 1045 241 1077"/></Shape>
+	    <String CONTENT="stellungs-Turnus und zwar so, dass alle in den sämmtlichen"
+                    HPOS="239"
+                    VPOS="1035"
+                    WIDTH="1062"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f1e9ad2"
+                    
+                    BASELINE="243 1131 1301 1131" 
+                    HPOS="243"
+                    VPOS="1088"
+                    WIDTH="1058"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="243 1131 243 1140 1301 1140 1301 1131 1301 1103 1225 1088 1223 1088 1221 1088 1191 1101 1099 1090 1097 1090 1096 1090 1094 1090 1081 1101 1066 1090 1064 1090 1062 1090 1060 1090 1058 1090 1056 1090 1056 1092 1049 1099 1038 1090 1038 1088 1036 1088 1034 1088 963 1088 961 1088 959 1088 957 1088 940 1099 864 1092 862 1092 860 1092 858 1092 858 1093 849 1101 794 1088 793 1088 791 1088 742 1101 740 1101 720 1101 692 1101 680 1090 680 1088 678 1088 677 1088 628 1088 626 1088 624 1088 622 1088 622 1090 609 1101 609 1103 368 1103 364 1101 317 1088 316 1088 254 1088 252 1088 250 1088 248 1088 248 1090 243 1095 243 1131"/></Shape>
+	    <String CONTENT="Städten genommenen Aktien gleich daran Theil haben; ebenso"
+                    HPOS="243"
+                    VPOS="1088"
+                    WIDTH="1058"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76c37878"
+                    
+                    BASELINE="245 1181 1301 1185" 
+                    HPOS="243"
+                    VPOS="1138"
+                    WIDTH="1058"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="245 1181 243 1189 1298 1191 1301 1185 1299 1155 1238 1140 1236 1140 1234 1140 1197 1153 1195 1153 1193 1153 1146 1140 1144 1140 1038 1140 1036 1140 1034 1140 1032 1140 1032 1142 1023 1151 1019 1153 944 1153 942 1150 933 1142 933 1140 931 1140 929 1140 927 1140 836 1150 781 1153 755 1148 716 1138 645 1138 643 1138 641 1138 620 1146 604 1151 579 1146 548 1138 546 1138 544 1138 531 1144 518 1151 488 1144 475 1142 473 1142 471 1142 469 1142 467 1144 452 1153 302 1153 245 1142 245 1181"/></Shape>
+	    <String CONTENT="kommen auch alle von den verschiedenen Vereinen hiezu"
+                    HPOS="243"
+                    VPOS="1138"
+                    WIDTH="1058"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_571bcb65"
+                    
+                    BASELINE="245 1239 864 1236" 
+                    HPOS="243"
+                    VPOS="1183"
+                    WIDTH="621"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="592 1183 591 1183 589 1183 589 1185 572 1200 439 1185 437 1185 435 1185 433 1185 433 1187 415 1204 387 1204 362 1187 360 1187 359 1187 314 1185 312 1185 310 1185 308 1185 308 1187 289 1204 243 1204 245 1239 245 1251 862 1245 864 1236 860 1202 594 1183 592 1183"/></Shape>
+	    <String CONTENT="gewählten Bilder in die Verloosung."
+                    HPOS="243"
+                    VPOS="1183"
+                    WIDTH="621"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bec0181"
+                    
+                    BASELINE="331 1292 1303 1292" 
+                    HPOS="331"
+                    VPOS="1237"
+                    WIDTH="972"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="768 1237 331 1245 331 1292 331 1299 1303 1299 1303 1292 1303 1249 1213 1237 1211 1237 1210 1237 1178 1247 1178 1249 1103 1249 1103 1247 1092 1237 1090 1237 1088 1237 1086 1237 1084 1237 1066 1247 1062 1247 938 1237 937 1237 882 1247 879 1247 873 1247 770 1237 768 1237"/></Shape>
+	    <String CONTENT="§ 4. Mittheilungen und Anfragen bezüglich Ankäufe von"
+                    HPOS="331"
+                    VPOS="1237"
+                    WIDTH="972"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c91f1c4d"
+                    
+                    BASELINE="243 1344 1299 1338" 
+                    HPOS="241"
+                    VPOS="1292"
+                    WIDTH="1058"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="895 1294 877 1294 858 1294 839 1294 821 1294 802 1294 783 1294 764 1294 746 1294 727 1294 708 1294 690 1294 671 1294 652 1294 634 1294 615 1294 596 1294 577 1294 559 1294 540 1294 521 1294 503 1294 491 1294 433 1301 248 1292 246 1292 245 1292 243 1292 243 1294 241 1294 243 1344 243 1352 1298 1348 1299 1338 1296 1295 901 1294 895 1294"/></Shape>
+	    <String CONTENT="Kunstwerken sind gefälligst schriftlich unter genauer Angabe"
+                    HPOS="241"
+                    VPOS="1292"
+                    WIDTH="1058"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dff68d0"
+                    
+                    BASELINE="243 1393 1301 1393" 
+                    HPOS="243"
+                    VPOS="1348"
+                    WIDTH="1058"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="243 1393 243 1404 1301 1404 1301 1393 1301 1355 718 1348 716 1348 714 1348 682 1357 680 1357 677 1357 645 1348 643 1348 641 1348 639 1348 637 1348 637 1350 628 1357 628 1359 542 1359 542 1357 518 1348 516 1348 514 1348 512 1348 493 1357 491 1359 473 1359 276 1359 265 1348 263 1348 261 1348 259 1348 258 1348 256 1348 243 1355 243 1393"/></Shape>
+	    <String CONTENT=" der Adresse zu Handen der Ausstellungskommission dem Kassier"
+                    HPOS="243"
+                    VPOS="1348"
+                    WIDTH="1058"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9b3ff55"
+                    
+                    BASELINE="243 1445 744 1445" 
+                    HPOS="243"
+                    VPOS="1400"
+                    WIDTH="501"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="243 1445 243 1454 744 1454 744 1445 744 1411 430 1400 428 1400 282 1409 259 1400 258 1400 256 1400 254 1400 252 1400 243 1406 243 1445"/></Shape>
+	    <String CONTENT=" der Ausstellung einzureichen."
+                    HPOS="243"
+                    VPOS="1400"
+                    WIDTH="501"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40187736"
+                    
+                    BASELINE="329 1499 1299 1494" 
+                    HPOS="327"
+                    VPOS="1451"
+                    WIDTH="972"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="329 1499 329 1509 1298 1503 1299 1494 1296 1462 1131 1462 1118 1451 1116 1451 1114 1451 1112 1451 991 1462 972 1462 952 1462 851 1452 849 1452 847 1452 826 1462 824 1462 822 1462 806 1452 804 1452 802 1452 327 1460 329 1499"/></Shape>
+	    <String CONTENT="§ 5. Verkaufte Gegenstände können erst nach der Aus-"
+                    HPOS="327"
+                    VPOS="1451"
+                    WIDTH="972"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_139fd425"
+                    
+                    BASELINE="241 1550 673 1546" 
+                    HPOS="239"
+                    VPOS="1509"
+                    WIDTH="434"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="241 1550 241 1559 671 1555 673 1546 669 1516 263 1509 261 1509 259 1509 239 1516 241 1550"/></Shape>
+	    <String CONTENT="stellung bezogen werden."
+                    HPOS="239"
+                    VPOS="1509"
+                    WIDTH="434"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37ee6961"
+                    
+                    BASELINE="329 1604 1301 1600" 
+                    HPOS="327"
+                    VPOS="1559"
+                    WIDTH="974"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="329 1604 329 1617 1299 1611 1301 1600 1298 1565 336 1559 334 1559 332 1559 331 1559 331 1561 329 1561 327 1561 329 1604"/></Shape>
+	    <String CONTENT="§ 6 Das Berühren der Kunstgegenstände, Rauchen und"
+                    HPOS="327"
+                    VPOS="1559"
+                    WIDTH="974"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a170cc93"
+                    
+                    BASELINE="243 1651 1301 1656" 
+                    HPOS="241"
+                    VPOS="1613"
+                    WIDTH="1060"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="243 1651 241 1656 1298 1662 1301 1656 1299 1619 243 1613 243 1651"/></Shape>
+	    <String CONTENT="Mitbringen von Hunden ist strengstens untersagt. Stöcke und"
+                    HPOS="241"
+                    VPOS="1613"
+                    WIDTH="1060"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cb8ebf8"
+                    
+                    BASELINE="243 1703 1191 1707" 
+                    HPOS="241"
+                    VPOS="1669"
+                    WIDTH="950"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="243 1703 241 1712 1187 1724 1191 1707 1189 1673 243 1669 243 1703"/></Shape>
+	    <String CONTENT="Schirme sind an der Garderobe im Korridor abzugeben."
+                    HPOS="241"
+                    VPOS="1669"
+                    WIDTH="950"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec02ef73"
+                    
+                    BASELINE="331 1817 1298 1825" 
+                    HPOS="329"
+                    VPOS="1780"
+                    WIDTH="969"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1286 1785 417 1780 405 1782 387 1782 368 1783 349 1783 331 1785 331 1817 329 1828 1294 1832 1298 1825 1296 1791 1286 1785"/></Shape>
+	    <String CONTENT="Es wird höflichst ersucht, Reklamationen, allfällige"
+                    HPOS="329"
+                    VPOS="1780"
+                    WIDTH="969"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71bc436d"
+                    
+                    BASELINE="245 1873 1298 1870" 
+                    HPOS="243"
+                    VPOS="1826"
+                    WIDTH="1055"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="243 1834 245 1873 245 1879 1298 1877 1298 1870 1294 1840 1096 1828 1094 1828 1043 1838 1038 1838 1034 1838 998 1826 996 1826 867 1826 865 1826 864 1826 836 1836 830 1838 824 1836 791 1826 789 1826 787 1826 785 1826 783 1826 770 1836 766 1840 763 1836 753 1828 751 1828 750 1828 574 1828 572 1828 570 1828 568 1828 568 1830 562 1834 557 1840 248 1834 243 1834"/></Shape>
+	    <String CONTENT="Wünsche u. s. w. betreffend die Ausstellung dem Aktuar"
+                    HPOS="243"
+                    VPOS="1826"
+                    WIDTH="1055"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3710ad75"
+                    
+                    BASELINE="245 1922 1296 1926" 
+                    HPOS="243"
+                    VPOS="1879"
+                    WIDTH="1053"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="245 1922 243 1935 1292 1939 1296 1926 1294 1892 1008 1881 1006 1881 1004 1881 1002 1881 1002 1883 993 1890 993 1892 933 1892 925 1890 873 1881 871 1881 832 1890 824 1890 817 1890 755 1879 753 1879 751 1879 712 1888 673 1879 671 1879 669 1879 667 1879 665 1879 652 1888 630 1879 628 1879 626 1879 624 1879 594 1888 585 1881 585 1879 583 1879 581 1879 579 1879 577 1879 559 1888 546 1879 544 1879 542 1879 540 1879 538 1879 506 1888 504 1888 499 1888 420 1879 418 1879 417 1879 390 1888 387 1888 383 1888 347 1879 346 1879 344 1879 245 1886 245 1922"/></Shape>
+	    <String CONTENT="der Künstlergesellschaft in Zürich: Herrn Albert Heizmann,"
+                    HPOS="243"
+                    VPOS="1879"
+                    WIDTH="1053"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea64b3bd"
+                    
+                    BASELINE="245 1974 733 1970" 
+                    HPOS="243"
+                    VPOS="1929"
+                    WIDTH="490"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="729 1941 699 1931 697 1931 695 1931 643 1941 626 1929 624 1929 622 1929 620 1929 619 1929 617 1929 617 1931 605 1942 430 1942 405 1931 403 1931 402 1931 400 1931 364 1942 351 1931 349 1931 347 1931 252 1931 250 1931 243 1937 245 1974 245 1985 729 1987 733 1970 731 1969 729 1941"/></Shape>
+	    <String CONTENT="direkt zukommen zu lassen."
+                    HPOS="243"
+                    VPOS="1929"
+                    WIDTH="490"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

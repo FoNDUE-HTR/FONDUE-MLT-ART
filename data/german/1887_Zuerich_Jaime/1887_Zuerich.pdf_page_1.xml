@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Zuerich.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1419"
+          HEIGHT="2281"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1419"
+                  HEIGHT="2281">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_8e5f04b6"
+                    
+                    BASELINE="357 370 882 370" 
+                    HPOS="357"
+                    VPOS="311"
+                    WIDTH="525"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="836 325 821 311 819 311 817 311 816 311 814 311 766 323 612 313 610 313 608 313 606 313 606 315 591 320 481 325 467 311 466 311 464 311 452 311 433 311 414 311 395 311 376 311 370 311 369 311 367 311 365 311 365 313 357 321 357 370 357 382 882 382 882 370 882 328 874 325"/></Shape>
+	    <String CONTENT="Schweizerische"
+                    HPOS="357"
+                    VPOS="311"
+                    WIDTH="525"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74bc95b0"
+                    
+                    BASELINE="125 503 1123 510" 
+                    HPOS="121"
+                    VPOS="412"
+                    WIDTH="1001"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="121 517 1120 537 1122 509 1122 439 1091 429 1089 429 1088 429 1044 439 1038 439 1036 437 1027 429 1025 429 1023 429 1021 429 968 435 941 439 935 435 918 420 916 420 914 420 873 418 871 418 869 418 819 431 798 437 791 431 776 418 774 418 772 418 770 418 768 418 766 418 751 429 741 437 570 437 559 423 551 418 551 416 549 416 547 416 545 416 544 416 523 423 483 437 458 437 443 420 441 420 441 418 439 418 437 418 435 418 433 418 427 420 399 435 243 435 224 416 224 414 222 414 220 414 123 412 123 501"/></Shape>
+	    <String CONTENT="Kunst-Ausstellung."
+                    HPOS="121"
+                    VPOS="412"
+                    WIDTH="1001"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faa09189"
+                    
+                    BASELINE="602 606 641 606" 
+                    HPOS="602"
+                    VPOS="562"
+                    WIDTH="39"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="602 606 602 623 641 623 641 606 641 562 602 562 602 606"/></Shape>
+	    <String CONTENT="in"
+                    HPOS="602"
+                    VPOS="562"
+                    WIDTH="39"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23138f87"
+                    
+                    BASELINE="469 728 757 724" 
+                    HPOS="469"
+                    VPOS="669"
+                    WIDTH="288"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="753 686 734 676 715 669 696 669 686 669 667 678 648 669 639 669 620 669 614 669 597 680 583 669 582 669 563 669 544 669 524 669 505 669 490 669 485 670 469 710 469 728 469 743 755 743 757 724 755 688 753 686"/></Shape>
+	    <String CONTENT="Zürich"
+                    HPOS="469"
+                    VPOS="669"
+                    WIDTH="288"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c782de7f"
+                    
+                    BASELINE="587 836 654 832" 
+                    HPOS="583"
+                    VPOS="802"
+                    WIDTH="71"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="623 832 604 813 601 802 583 802 587 836 587 849 654 849 654 832 650 804 642 802 642 830"/></Shape>
+	    <String CONTENT="vom"
+                    HPOS="583"
+                    VPOS="802"
+                    WIDTH="71"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f14555e4"
+                    
+                    BASELINE="173 937 1055 937" 
+                    HPOS="173"
+                    VPOS="902"
+                    WIDTH="882"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="173 902 173 937 173 944 1053 946 1055 937 1053 923 1048 902"/></Shape>
+	    <String CONTENT="24. Mai bis und mit 14. Juni 1887."
+                    HPOS="173"
+                    VPOS="902"
+                    WIDTH="882"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_160fe82d"
+                    
+                    BASELINE="427 1041 800 1041" 
+                    HPOS="427"
+                    VPOS="996"
+                    WIDTH="373"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="656 996 637 996 622 996 608 1007 551 996 542 996 523 996 511 1007 462 997 460 997 458 997 443 1003 427 1037 427 1041 427 1049 798 1053 800 1041 800 1009 669 996 656 996"/></Shape>
+	    <String CONTENT="in der Börse."
+                    HPOS="427"
+                    VPOS="996"
+                    WIDTH="373"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1884e2a4"
+                    
+                    BASELINE="338 1295 900 1302" 
+                    HPOS="334"
+                    VPOS="1220"
+                    WIDTH="565"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="334 1303 895 1305 899 1300 899 1250 732 1220 705 1243 694 1233 692 1233 690 1233 688 1233 652 1241 618 1230 447 1236 336 1229 336 1294"/></Shape>
+	    <String CONTENT="Verzeichniss"
+                    HPOS="334"
+                    VPOS="1220"
+                    WIDTH="565"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db89a079"
+                    
+                    BASELINE="587 1391 648 1391" 
+                    HPOS="587"
+                    VPOS="1362"
+                    WIDTH="61"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="625 1364 606 1362 587 1362 587 1391 587 1402 648 1402 648 1391 644 1366 625 1364"/></Shape>
+	    <String CONTENT="der."
+                    HPOS="587"
+                    VPOS="1362"
+                    WIDTH="61"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4598b3eb"
+                    
+                    BASELINE="152 1503 1069 1507" 
+                    HPOS="150"
+                    VPOS="1444"
+                    WIDTH="919"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1065 1463 1046 1457 1027 1452 1019 1450 994 1444 989 1444 943 1457 941 1457 939 1457 827 1446 825 1446 823 1446 821 1446 821 1448 812 1457 772 1457 715 1457 713 1457 699 1446 699 1444 698 1444 696 1444 694 1444 547 1456 513 1444 513 1444 494 1444 490 1444 414 1454 397 1444 382 1444 351 1456 349 1456 152 1456 152 1503 150 1513 272 1528 273 1528 698 1518 720 1530 722 1530 724 1530 814 1518 1067 1518 1069 1507 1067 1463 1065 1463"/></Shape>
+	    <String CONTENT="ausgestellten Kunstwerke."
+                    HPOS="150"
+                    VPOS="1444"
+                    WIDTH="919"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5491f3d3"
+                    
+                    BASELINE="468 1675 756 1689" 
+                    HPOS="466"
+                    VPOS="1640"
+                    WIDTH="289"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="467 1674 466 1684 751 1693 755 1687 755 1659 635 1640 633 1640 631 1640 606 1648 597 1651 589 1648 580 1640 578 1640 576 1640 467 1640 467 1674"/></Shape>
+	    <String CONTENT="Preis 40 Cts."
+                    HPOS="466"
+                    VPOS="1640"
+                    WIDTH="289"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_490b1c26"
+                    
+                    BASELINE="559 1857 667 1857" 
+                    HPOS="559"
+                    VPOS="1824"
+                    WIDTH="108"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="654 1832 635 1832 616 1832 597 1832 578 1832 559 1828 559 1857 559 1872 667 1872 667 1857 667 1824 654 1824 654 1832"/></Shape>
+	    <String CONTENT="ZÜRICH."
+                    HPOS="559"
+                    VPOS="1824"
+                    WIDTH="108"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76b7b1e5"
+                    
+                    BASELINE="348 1893 882 1890" 
+                    HPOS="344"
+                    VPOS="1853"
+                    WIDTH="536"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="346 1891 346 1898 880 1897 880 1889 876 1864 572 1864 570 1862 547 1853 545 1853 544 1853 344 1860 346 1891"/></Shape>
+	    <String CONTENT="Druck von Ulrich &amp; Co. im Berichthaus."
+                    HPOS="344"
+                    VPOS="1853"
+                    WIDTH="536"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdd842da"
+                    
+                    BASELINE="578 1929 644 1929" 
+                    HPOS="578"
+                    VPOS="1897"
+                    WIDTH="66"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="578 1929 578 1938 642 1940 644 1929 644 1897 578 1897 578 1929"/></Shape>
+	    <String CONTENT="1887."
+                    HPOS="578"
+                    VPOS="1897"
+                    WIDTH="66"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

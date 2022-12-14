@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Zuerich.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1364"
+          HEIGHT="2258"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1364"
+                  HEIGHT="2258">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c0ef3189"
+                    
+                    BASELINE="378 286 825 282" 
+                    HPOS="378"
+                    VPOS="240"
+                    WIDTH="447"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="810 246 791 246 772 246 753 244 734 244 715 244 697 242 678 242 674 244 668 242 659 242 640 242 631 240 627 244 619 240 602 240 595 240 593 244 587 240 584 240 565 240 546 240 527 242 508 242 489 242 470 244 457 244 427 246 423 244 414 246 395 246 378 276 378 286 378 291 599 301 600 301 602 301 627 291 629 291 825 291 825 282 821 246 811 244 810 246"/></Shape>
+	    <String CONTENT="Hans Hoerbst in Zürich."
+                    HPOS="378"
+                    VPOS="240"
+                    WIDTH="447"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d395449"
+                    
+                    BASELINE="73 340 589 336" 
+                    HPOS="71"
+                    VPOS="293"
+                    WIDTH="518"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="373 306 354 306 335 306 316 306 297 306 278 304 259 304 241 304 222 304 203 302 184 302 167 302 146 304 120 301 109 301 90 301 73 297 71 301 73 340 73 346 589 342 589 336 584 302 478 302 454 293 452 293 450 293 448 293 427 302 397 293 395 293 393 293 391 293 389 293 389 295 380 302 374 301 373 306"/></Shape>
+	    <String CONTENT="270. Weiblicher Studienkopf."
+                    HPOS="71"
+                    VPOS="293"
+                    WIDTH="518"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39589b82"
+                    
+                    BASELINE="333 421 870 417" 
+                    HPOS="331"
+                    VPOS="370"
+                    WIDTH="539"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="859 378 608 370 606 370 604 370 602 370 593 380 591 381 331 381 333 421 333 429 868 427 870 417 868 410 859 378"/></Shape>
+	    <String CONTENT="Urs Eggenschwiler in Zürich."
+                    HPOS="331"
+                    VPOS="370"
+                    WIDTH="539"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85104143"
+                    
+                    BASELINE="73 476 391 472" 
+                    HPOS="71"
+                    VPOS="432"
+                    WIDTH="320"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="316 436 297 436 278 436 259 436 241 436 222 436 203 436 184 436 169 436 145 438 133 436 128 436 109 436 90 436 75 432 71 436 73 476 73 479 160 491 162 491 216 489 308 485 325 494 331 500 333 500 335 500 337 500 391 498 391 472 388 438 320 432 316 436"/></Shape>
+	    <String CONTENT="271. Löwenmodell"
+                    HPOS="71"
+                    VPOS="432"
+                    WIDTH="320"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a03634c8"
+                    
+                    BASELINE="331 555 894 551" 
+                    HPOS="329"
+                    VPOS="504"
+                    WIDTH="565"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="879 509 866 504 864 504 862 504 672 513 619 504 617 504 616 504 614 504 614 506 604 513 595 506 593 506 591 506 589 506 587 506 567 515 472 506 470 506 391 515 339 506 337 506 335 506 333 506 333 508 331 508 329 509 331 555 331 564 893 560 894 551 893 541 879 509"/></Shape>
+	    <String CONTENT="Emma Bindschedler in Zürich."
+                    HPOS="329"
+                    VPOS="504"
+                    WIDTH="565"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a46ccf73"
+                    
+                    BASELINE="73 607 388 607 1055 607 1130 604" 
+                    HPOS="69"
+                    VPOS="568"
+                    WIDTH="1059"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="71 605 71 611 849 619 851 619 1126 607 1128 602 1124 570 1056 568 1055 568 1053 568 1051 568 1051 570 1049 570 1039 581 382 581 371 577 329 568 173 568 171 568 169 568 167 568 152 577 143 570 143 568 141 568 139 568 81 568 79 568 77 568 75 568 75 570 69 573 71 605"/></Shape>
+	    <String CONTENT="273. Waldblumen 250"
+                    HPOS="69"
+                    VPOS="568"
+                    WIDTH="1059"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1df4200"
+                    
+                    BASELINE="73 652 540 647" 
+                    HPOS="71"
+                    VPOS="605"
+                    WIDTH="469"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="226 609 224 609 222 609 212 619 178 609 177 609 175 609 173 609 146 619 84 609 82 609 81 609 79 609 79 611 71 617 73 652 73 662 540 656 540 647 536 617 412 605 410 605 408 605 378 617 227 609 226 609"/></Shape>
+	    <String CONTENT="274. Porträt eines Knaben"
+                    HPOS="71"
+                    VPOS="605"
+                    WIDTH="469"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd210bee"
+                    
+                    BASELINE="339 733 885 730" 
+                    HPOS="337"
+                    VPOS="684"
+                    WIDTH="548"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="339 733 339 743 883 739 885 730 881 694 616 684 614 684 612 684 610 684 610 686 608 686 602 694 602 696 337 696 339 733"/></Shape>
+	    <String CONTENT="Jenny Hippenmeyer in Zürich."
+                    HPOS="337"
+                    VPOS="684"
+                    WIDTH="548"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9eb2e2c"
+                    
+                    BASELINE="73 788 503 784" 
+                    HPOS="71"
+                    VPOS="741"
+                    WIDTH="432"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="73 788 73 797 501 799 503 784 499 750 305 741 303 741 71 752 73 788"/></Shape>
+	    <String CONTENT="275. Weibliches Porträt"
+                    HPOS="71"
+                    VPOS="741"
+                    WIDTH="432"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0e3b234"
+                    
+                    BASELINE="322 869 887 865" 
+                    HPOS="320"
+                    VPOS="816"
+                    WIDTH="567"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="874 826 761 816 759 816 757 816 721 826 712 818 712 816 710 816 708 816 706 816 661 826 629 816 627 816 625 816 623 816 600 827 597 827 587 827 531 818 529 818 527 818 525 818 514 827 512 827 510 827 491 818 489 818 487 818 320 826 322 869 322 876 885 882 887 865 885 861 874 826"/></Shape>
+	    <String CONTENT="Emma Bindschedler in Zürich."
+                    HPOS="320"
+                    VPOS="816"
+                    WIDTH="567"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f9c744c"
+                    
+                    BASELINE="75 923 770 918" 
+                    HPOS="75"
+                    VPOS="876"
+                    WIDTH="695"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="755 878 751 876 749 876 747 876 746 876 621 886 567 876 565 876 563 876 533 888 410 878 408 878 346 888 333 878 331 878 329 878 327 878 325 878 301 890 92 880 90 880 75 923 75 937 137 937 152 950 152 952 154 952 156 952 158 952 160 952 203 937 205 937 207 937 271 952 273 952 275 952 305 942 395 950 397 950 399 950 401 950 401 948 412 938 416 935 454 935 469 938 501 950 503 950 504 950 610 944 612 944 614 944 619 940 633 933 768 940 770 918 768 914 755 878"/></Shape>
+	    <String CONTENT="276. Porträt eines Knaben (Privatbesitz)"
+                    HPOS="75"
+                    VPOS="876"
+                    WIDTH="695"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58433e26"
+                    
+                    BASELINE="75 963 276 967 435 967 702 963" 
+                    HPOS="71"
+                    VPOS="933"
+                    WIDTH="629"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="73 961 73 970 148 991 150 991 152 991 154 991 156 991 156 989 173 972 177 970 414 970 423 976 459 1006 461 1006 463 1006 465 1008 633 1008 633 1006 634 1006 636 1006 636 1004 644 997 665 1006 666 1006 668 1006 670 1006 672 1006 700 982 700 961 695 933 71 933 73 961"/></Shape>
+	    <String CONTENT="277. dito  dito dito"
+                    HPOS="71"
+                    VPOS="933"
+                    WIDTH="629"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Zuerich.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1394"
+          HEIGHT="2241"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1394"
+                  HEIGHT="2241">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_37e11f32"
+                    
+                    BASELINE="168 298 1143 298" 
+                    HPOS="168"
+                    VPOS="263"
+                    WIDTH="975"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1139 295 1123 265 181 263 168 268 168 298 168 306 426 310 461 326 463 326 465 328 676 328 676 326 678 326 680 326 700 313 734 326 736 326 738 328 824 328 824 326 825 326 827 326 827 324 842 310 1143 306 1143 298 1139 293 1139 295"/></Shape>
+	    <String CONTENT="Zur Unterstützung der Bestrebungen der zürcherischen"
+                    HPOS="168"
+                    VPOS="263"
+                    WIDTH="975"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01abaee2"
+                    
+                    BASELINE="82 349 545 349" 
+                    HPOS="82"
+                    VPOS="308"
+                    WIDTH="463"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="100 310 82 349 82 360 545 360 545 349 545 317 515 308 513 308 512 308 510 308 508 308 491 317 295 308 293 308 227 317 175 308 173 308 171 308 151 317 108 308 100 310"/></Shape>
+	    <String CONTENT="Künstlergesellschaft ist ein"
+                    HPOS="82"
+                    VPOS="308"
+                    WIDTH="463"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93532c45"
+                    
+                    BASELINE="373 466 850 463" 
+                    HPOS="373"
+                    VPOS="403"
+                    WIDTH="477"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="777 408 764 408 760 408 730 420 586 408 584 408 583 408 538 422 446 412 444 412 442 412 440 412 437 410 422 409 397 403 378 417 375 444 373 466 373 474 848 470 850 463 848 450 839 422"/></Shape>
+	    <String CONTENT="Kunstverein"
+                    HPOS="373"
+                    VPOS="403"
+                    WIDTH="477"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_368162e9"
+                    
+                    BASELINE="82 562 1141 556" 
+                    HPOS="80"
+                    VPOS="513"
+                    WIDTH="1061"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1126 528 1108 528 1089 526 1070 526 1052 524 1033 524 1014 522 995 522 977 521 958 521 939 519 921 519 902 517 883 517 874 515 850 522 825 513 824 513 822 513 820 513 775 524 577 515 575 515 573 515 571 515 558 526 480 526 433 515 431 515 429 515 427 515 411 526 250 519 248 521 229 522 211 522 192 524 173 526 155 528 136 530 117 532 99 534 80 535 82 562 82 573 1139 563 1141 556 1137 528 1126 528"/></Shape>
+	    <String CONTENT="gegründet worden, der unter der Leitung des Vorstandes der"
+                    HPOS="80"
+                    VPOS="513"
+                    WIDTH="1061"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc5f10ec"
+                    
+                    BASELINE="80 612 519 608" 
+                    HPOS="78"
+                    VPOS="565"
+                    WIDTH="441"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="80 612 80 620 519 618 519 608 517 577 478 565 476 565 474 565 472 565 454 575 394 565 392 565 390 565 364 575 353 565 351 565 349 565 347 565 284 575 267 577 248 575 188 567 186 567 78 573 80 612"/></Shape>
+	    <String CONTENT="Künstlergesellschaft steht."
+                    HPOS="78"
+                    VPOS="565"
+                    WIDTH="441"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16474c2e"
+                    
+                    BASELINE="168 672 1141 672" 
+                    HPOS="168"
+                    VPOS="623"
+                    WIDTH="973"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="168 672 168 681 1141 681 1141 672 1137 623 1113 633 1070 623 1068 623 1066 623 1065 623 1046 633 777 623 766 623 764 623 762 623 725 633 680 623 678 623 676 623 674 623 672 623 663 633 652 623 650 623 648 623 646 623 644 623 627 633 614 623 612 623 611 623 609 623 607 623 545 633 495 623 493 623 491 623 489 623 487 623 487 625 478 634 317 634 254 623 252 623 250 623 248 623 211 633 168 623 168 672"/></Shape>
+	    <String CONTENT="Der Eintritt in den Kunstverein steht Jedermann und zu"
+                    HPOS="168"
+                    VPOS="623"
+                    WIDTH="973"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_306e0699"
+                    
+                    BASELINE="80 726 1139 722" 
+                    HPOS="78"
+                    VPOS="676"
+                    WIDTH="1061"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="80 726 80 739 1139 728 1139 722 1136 689 682 676 680 676 579 689 431 679 429 679 427 679 388 689 355 677 353 677 351 677 349 677 347 677 347 679 336 689 284 679 282 679 280 679 248 689 237 679 237 677 235 677 233 677 183 677 181 677 179 677 149 689 125 677 123 677 121 677 119 677 78 690 80 726"/></Shape>
+	    <String CONTENT="jeder Zeit offen durch Uebernahme einer oder mehrerer Aktien"
+                    HPOS="78"
+                    VPOS="676"
+                    WIDTH="1061"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69bc7a13"
+                    
+                    BASELINE="82 776 1098 773" 
+                    HPOS="80"
+                    VPOS="728"
+                    WIDTH="1018"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="82 776 82 786 1096 782 1098 773 1096 741 1066 730 1065 730 1063 730 951 739 915 730 913 730 911 730 910 730 908 730 898 739 863 730 861 730 859 730 857 730 855 730 855 732 846 741 730 741 710 730 708 730 706 730 704 730 680 739 670 730 668 730 667 730 665 730 663 730 627 739 614 728 612 728 611 728 609 728 607 728 577 741 553 730 551 730 549 730 377 741 319 730 317 730 263 741 252 732 252 730 250 730 248 730 132 730 130 730 128 730 127 730 117 739 100 730 99 730 97 730 95 730 93 730 80 739 82 776"/></Shape>
+	    <String CONTENT="zu jährlich 10 Fr., welche beim Quästor zu beziehen sind."
+                    HPOS="80"
+                    VPOS="728"
+                    WIDTH="1018"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a5f8749"
+                    
+                    BASELINE="173 838 1137 838" 
+                    HPOS="173"
+                    VPOS="791"
+                    WIDTH="964"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="173 838 173 847 1137 847 1137 838 1137 803 1074 791 1072 791 1070 791 1068 791 1057 801 1052 806 999 806 988 801 971 791 969 791 967 791 966 791 932 801 908 806 885 801 876 797 874 797 872 797 848 799 794 806 782 799 779 795 777 795 775 795 773 795 771 795 756 799 739 803 723 799 697 791 695 791 693 791 691 791 678 799 665 806 650 799 640 791 639 791 637 791 635 791 633 791 620 797 603 808 536 808 504 797 485 791 483 791 482 791 480 791 478 791 478 793 474 797 469 801 461 797 454 791 452 791 450 791 448 791 446 791 435 797 418 804 409 797 405 793 405 791 403 791 401 791 328 791 327 791 325 791 323 791 319 795 308 804 280 795 272 793 270 793 269 793 267 793 263 795 237 806 173 795 173 838"/></Shape>
+	    <String CONTENT="Von dem Jahresbeitrage von 10 Fr. pro Aktie werden"
+                    HPOS="173"
+                    VPOS="791"
+                    WIDTH="964"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4789f13f"
+                    
+                    BASELINE="85 890 274 890" 
+                    HPOS="85"
+                    VPOS="844"
+                    WIDTH="189"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="85 890 85 900 274 900 274 890 274 857 166 844 164 844 162 844 160 844 142 857 85 857 85 890"/></Shape>
+	    <String CONTENT="verwendet:"
+                    HPOS="85"
+                    VPOS="844"
+                    WIDTH="189"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21856256"
+                    
+                    BASELINE="162 952 1137 948" 
+                    HPOS="160"
+                    VPOS="898"
+                    WIDTH="977"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="162 952 162 959 1136 956 1137 948 1134 915 678 898 676 898 674 898 672 898 644 915 612 900 611 900 609 900 528 915 439 900 437 900 435 900 399 916 284 916 216 900 214 900 213 900 160 916 162 952"/></Shape>
+	    <String CONTENT="a) 5 Fr. zu Ankäufen für die jährlichen Kunstverloosungen."
+                    HPOS="160"
+                    VPOS="898"
+                    WIDTH="977"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_859c9f32"
+                    
+                    BASELINE="164 1006 1139 1002" 
+                    HPOS="162"
+                    VPOS="959"
+                    WIDTH="977"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="164 1006 164 1012 179 1023 181 1023 183 1023 184 1023 244 1010 246 1010 248 1010 259 1021 261 1021 263 1021 265 1021 267 1021 293 1010 297 1010 325 1010 498 1021 500 1021 502 1021 504 1021 515 1012 517 1012 663 1012 665 1014 678 1025 678 1027 680 1027 682 1027 683 1028 863 1028 863 1027 865 1027 867 1027 880 1015 885 1010 895 1015 923 1027 924 1027 926 1027 928 1027 956 1015 966 1012 1136 1015 1139 1002 1136 972 1080 959 1078 959 1076 959 1074 959 1059 971 1035 959 1033 959 1031 959 953 971 947 971 938 971 801 959 799 959 797 959 773 969 769 971 766 969 730 959 728 959 663 959 661 959 659 959 657 959 646 969 642 971 618 969 541 961 540 961 538 961 536 961 536 963 530 969 525 972 513 969 491 961 489 961 487 961 485 961 472 967 463 972 437 967 403 961 401 961 399 961 388 967 377 972 358 967 336 961 334 961 332 961 162 965 164 1006"/></Shape>
+	    <String CONTENT="b) 1 1/2 Fr. für ein Vereinsblatt, dessen Auswahl dem"
+                    HPOS="162"
+                    VPOS="959"
+                    WIDTH="977"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3a9b946"
+                    
+                    BASELINE="213 1055 614 1055" 
+                    HPOS="213"
+                    VPOS="1015"
+                    WIDTH="401"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="213 1055 213 1066 614 1066 614 1055 614 1025 213 1015 213 1055"/></Shape>
+	    <String CONTENT="Kunstvereine zukömmt."
+                    HPOS="213"
+                    VPOS="1015"
+                    WIDTH="401"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62f2e21b"
+                    
+                    BASELINE="164 1111 1139 1105" 
+                    HPOS="162"
+                    VPOS="1060"
+                    WIDTH="977"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="164 1111 164 1116 1137 1111 1139 1105 1134 1068 1007 1073 995 1070 977 1060 975 1060 915 1060 913 1060 911 1060 910 1060 910 1062 900 1070 898 1071 889 1070 842 1064 840 1064 805 1071 797 1073 796 1071 784 1062 782 1062 781 1062 779 1062 777 1062 754 1073 747 1075 734 1073 691 1064 689 1064 687 1064 685 1064 674 1073 672 1073 661 1064 659 1064 657 1064 655 1064 586 1075 581 1075 577 1075 487 1062 485 1062 483 1062 482 1062 469 1073 446 1064 444 1064 442 1064 440 1064 439 1064 439 1066 426 1077 426 1079 392 1079 345 1079 319 1064 317 1064 222 1064 220 1064 218 1064 216 1064 199 1075 186 1064 184 1064 183 1064 181 1064 179 1064 177 1064 162 1075 164 1111"/></Shape>
+	    <String CONTENT="c) 2 1/2 Fr. zu Ankäufen auf den Kunstausstellungen zu"
+                    HPOS="162"
+                    VPOS="1060"
+                    WIDTH="977"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_740c14f4"
+                    
+                    BASELINE="214 1161 1137 1157" 
+                    HPOS="213"
+                    VPOS="1124"
+                    WIDTH="924"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="214 1161 214 1170 1136 1167 1137 1157 1134 1126 213 1124 214 1161"/></Shape>
+	    <String CONTENT="Handen der Gemäldesammlung der Künstlergesellschaft."
+                    HPOS="213"
+                    VPOS="1124"
+                    WIDTH="924"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1eb6161"
+                    
+                    BASELINE="162 1215 1136 1208" 
+                    HPOS="160"
+                    VPOS="1167"
+                    WIDTH="976"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="162 1215 162 1223 1134 1219 1136 1208 1132 1176 1001 1167 999 1167 874 1178 861 1178 855 1178 812 1169 810 1169 809 1169 807 1169 807 1170 797 1178 756 1169 754 1169 753 1169 719 1178 646 1169 644 1169 642 1169 616 1180 614 1180 594 1170 592 1170 590 1170 465 1180 403 1170 401 1170 323 1182 173 1172 171 1172 170 1172 168 1172 160 1176 162 1215"/></Shape>
+	    <String CONTENT="d) 1 Fr. als Beitrag an die Kosten der Kunstausstellungen."
+                    HPOS="160"
+                    VPOS="1167"
+                    WIDTH="976"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60102b55"
+                    
+                    BASELINE="166 1275 1139 1269" 
+                    HPOS="164"
+                    VPOS="1232"
+                    WIDTH="975"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="166 1275 166 1284 809 1292 810 1292 1139 1279 1139 1269 1136 1240 487 1232 485 1232 440 1241 171 1234 170 1234 168 1234 166 1234 166 1236 164 1236 166 1275"/></Shape>
+	    <String CONTENT="Findet in einem Jahre keine Ausstellung statt, so werden"
+                    HPOS="164"
+                    VPOS="1232"
+                    WIDTH="975"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bed43f8"
+                    
+                    BASELINE="84 1329 1136 1322" 
+                    HPOS="82"
+                    VPOS="1284"
+                    WIDTH="1054"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="100 1290 82 1297 84 1329 84 1340 147 1352 149 1352 151 1352 175 1342 188 1352 190 1352 192 1352 194 1352 196 1352 198 1352 211 1342 293 1350 295 1350 343 1342 356 1340 369 1342 405 1350 407 1350 409 1350 411 1350 420 1342 426 1340 476 1342 607 1350 609 1350 611 1350 633 1344 650 1338 768 1344 865 1348 867 1348 868 1348 870 1348 874 1344 887 1337 1134 1344 1136 1322 1132 1290 345 1284 343 1284 341 1284 340 1284 327 1294 106 1286 100 1290"/></Shape>
+	    <String CONTENT="obige Beiträge im nämlichen Verhältnisse zu gleichen Zwecken"
+                    HPOS="82"
+                    VPOS="1284"
+                    WIDTH="1054"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35d0facd"
+                    
+                    BASELINE="82 1381 764 1374" 
+                    HPOS="82"
+                    VPOS="1335"
+                    WIDTH="682"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="82 1381 82 1395 764 1389 764 1374 760 1344 487 1335 485 1335 483 1335 461 1344 437 1335 435 1335 433 1335 431 1335 429 1335 416 1346 412 1346 392 1346 257 1337 256 1337 254 1337 229 1346 224 1348 216 1346 188 1338 186 1338 184 1338 91 1346 82 1381"/></Shape>
+	    <String CONTENT="auf das nächstfolgende Jahr übertragen."
+                    HPOS="82"
+                    VPOS="1335"
+                    WIDTH="682"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b4a7b2"
+                    
+                    BASELINE="170 1441 994 1436" 
+                    HPOS="168"
+                    VPOS="1395"
+                    WIDTH="826"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="170 1441 170 1451 992 1449 994 1436 990 1404 745 1395 743 1395 741 1395 715 1404 713 1404 698 1404 442 1396 440 1396 439 1396 437 1396 427 1406 426 1408 168 1408 170 1441"/></Shape>
+	    <String CONTENT="Die Mitglieder des Kunstvereins sind berechtigt:"
+                    HPOS="168"
+                    VPOS="1395"
+                    WIDTH="826"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b337b21"
+                    
+                    BASELINE="164 1503 1136 1494" 
+                    HPOS="164"
+                    VPOS="1460"
+                    WIDTH="972"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1115 1467 1096 1462 1091 1460 173 1465 164 1503 164 1510 1136 1501 1136 1494 1124 1471 1115 1467"/></Shape>
+	    <String CONTENT="1. zur Theilnahme an der Verloosung im Verhältnisse ihrer"
+                    HPOS="164"
+                    VPOS="1460"
+                    WIDTH="972"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df697c7e"
+                    
+                    BASELINE="213 1555 414 1551" 
+                    HPOS="211"
+                    VPOS="1510"
+                    WIDTH="203"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="213 1555 213 1564 414 1559 414 1551 411 1520 229 1510 227 1510 226 1510 224 1510 211 1518 213 1555"/></Shape>
+	    <String CONTENT="Aktienzahl;"
+                    HPOS="211"
+                    VPOS="1510"
+                    WIDTH="203"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc19e079"
+                    
+                    BASELINE="164 1607 1136 1598" 
+                    HPOS="164"
+                    VPOS="1555"
+                    WIDTH="972"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="164 1607 164 1615 1136 1606 1136 1598 1134 1566 1109 1555 1108 1555 1031 1555 1029 1555 1027 1555 1025 1555 1014 1564 971 1555 969 1555 967 1555 936 1566 575 1559 573 1559 500 1570 446 1561 444 1561 442 1561 414 1570 298 1563 297 1563 295 1563 293 1563 293 1564 284 1572 177 1563 175 1563 173 1563 171 1563 171 1564 170 1564 164 1607"/></Shape>
+	    <String CONTENT="2. zum Bezug eines Vereinsblattes, so oft die Herausgabe"
+                    HPOS="164"
+                    VPOS="1555"
+                    WIDTH="972"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15b8f606"
+                    
+                    BASELINE="213 1660 659 1654" 
+                    HPOS="211"
+                    VPOS="1617"
+                    WIDTH="448"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="213 1660 213 1669 657 1663 659 1654 655 1619 237 1617 235 1617 233 1617 211 1624 213 1660"/></Shape>
+	    <String CONTENT="eines solchen möglich ist;"
+                    HPOS="211"
+                    VPOS="1617"
+                    WIDTH="448"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_209d1362"
+                    
+                    BASELINE="164 1710 1137 1703" 
+                    HPOS="164"
+                    VPOS="1662"
+                    WIDTH="973"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1134 1684 1134 1673 981 1662 979 1662 977 1662 943 1671 919 1662 917 1662 915 1662 913 1662 891 1673 889 1673 878 1673 723 1663 721 1663 629 1675 614 1675 586 1675 420 1665 418 1665 416 1665 414 1665 403 1675 401 1677 392 1675 358 1667 356 1667 168 1675 164 1710 164 1719 1136 1714 1137 1703 1136 1701 1134 1684"/></Shape>
+	    <String CONTENT="3. zum freien Eintritt zu sämmtlichen von der Künstler-"
+                    HPOS="164"
+                    VPOS="1662"
+                    WIDTH="973"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59d238a3"
+                    
+                    BASELINE="214 1764 900 1757" 
+                    HPOS="213"
+                    VPOS="1721"
+                    WIDTH="687"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="214 1764 214 1777 898 1766 900 1757 896 1725 383 1721 381 1721 213 1731 214 1764"/></Shape>
+	    <String CONTENT="gesellschaft veranstalteten Ausstellungen."
+                    HPOS="213"
+                    VPOS="1721"
+                    WIDTH="687"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae9bd848"
+                    
+                    BASELINE="170 1824 1093 1815" 
+                    HPOS="166"
+                    VPOS="1774"
+                    WIDTH="925"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="168 1822 168 1833 1089 1826 1091 1813 1087 1783 990 1774 988 1774 904 1783 895 1783 887 1783 812 1775 810 1775 728 1783 708 1787 166 1787 168 1822"/></Shape>
+	    <String CONTENT="Der Austritt aus dem Kunstverein steht jederzeit frei."
+                    HPOS="166"
+                    VPOS="1774"
+                    WIDTH="925"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
