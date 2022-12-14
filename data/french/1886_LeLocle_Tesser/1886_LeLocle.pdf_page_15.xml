@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_LeLocle.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1430"
+          HEIGHT="2242"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1430"
+                  HEIGHT="2242">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_cbc11cb9"
+                    
+                    BASELINE="611 278 1028 278" 
+                    HPOS="611"
+                    VPOS="239"
+                    WIDTH="417"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1022 244 1003 241 985 239 618 239 611 250 611 278 611 287 1026 293 1028 278 1028 244 1022 244"/></Shape>
+	    <String CONTENT="M. Pitzner, à Munich."
+                    HPOS="611"
+                    VPOS="239"
+                    WIDTH="417"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbf9777e"
+                    
+                    BASELINE="289 334 590 334 1276 334 1351 334" 
+                    HPOS="287"
+                    VPOS="291"
+                    WIDTH="1062"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="287 332 287 338 1347 343 1349 332 1349 298 1278 291 1276 291 1274 291 1272 291 1272 293 1267 297 1259 306 1250 297 1244 293 1244 291 1243 291 1241 291 1121 291 1119 291 1117 291 1115 291 1115 293 1112 297 1099 310 583 310 557 293 557 291 555 291 553 291 435 291 433 291 431 291 429 291 429 293 422 298 409 291 407 291 405 291 403 291 401 291 400 291 381 306 366 293 366 291 364 291 362 291 287 291 287 332"/></Shape>
+	    <String CONTENT="281 A l’écurie. 560"
+                    HPOS="287"
+                    VPOS="291"
+                    WIDTH="1062"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_979f4c18"
+                    
+                    BASELINE="566 397 1082 401" 
+                    HPOS="564"
+                    VPOS="353"
+                    WIDTH="518"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1071 364 1052 362 1033 360 1015 360 996 358 977 356 958 354 940 353 921 353 858 353 856 353 854 353 852 353 852 354 844 362 843 364 839 362 822 353 820 353 818 353 816 353 815 353 805 360 805 362 800 360 772 353 770 353 768 353 732 360 719 362 566 358 566 397 564 403 1078 407 1082 401 1080 366 1071 364 1071 364"/></Shape>
+	    <String CONTENT="F. Stoppani, à Francavilla."
+                    HPOS="564"
+                    VPOS="353"
+                    WIDTH="518"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca0705a4"
+                    
+                    BASELINE="291 452 650 455 1259 455 1351 452" 
+                    HPOS="287"
+                    VPOS="411"
+                    WIDTH="1062"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="289 450 287 455 1345 459 1349 450 1345 411 1274 411 1272 411 1271 411 1269 411 1269 412 1254 427 1215 412 1211 411 1209 411 1153 411 1151 411 1149 411 1147 411 1145 412 1123 429 1005 429 960 416 958 416 957 416 955 416 953 416 953 418 942 427 861 418 859 418 857 418 824 427 805 418 803 418 801 418 800 418 798 418 798 420 788 429 639 429 626 420 613 411 611 411 609 411 607 411 519 412 517 412 515 412 515 414 506 422 502 425 497 422 482 412 480 412 478 412 476 412 474 412 454 420 426 411 424 411 394 411 392 411 390 411 388 411 388 412 375 424 373 424 353 411 351 411 349 411 300 411 299 411 297 411 295 411 295 412 293 412 289 416 289 450"/></Shape>
+	    <String CONTENT="282 Étude de tête. 1000"
+                    HPOS="287"
+                    VPOS="411"
+                    WIDTH="1062"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_770e3d36"
+                    
+                    BASELINE="291 493 727 496 1261 495 1351 495" 
+                    HPOS="287"
+                    VPOS="454"
+                    WIDTH="1062"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="829 455 822 455 815 461 811 467 717 467 712 463 699 455 699 455 680 455 661 455 643 454 624 454 605 454 586 454 568 454 549 454 530 454 512 454 493 454 474 454 394 454 392 454 390 454 366 465 357 455 357 454 355 454 353 454 299 454 297 454 295 454 293 454 293 455 291 455 289 457 289 491 287 496 1345 498 1349 493 1345 457 871 465 856 461 835 455 829 455"/></Shape>
+	    <String CONTENT="283 Étude de paysage. 1000"
+                    HPOS="287"
+                    VPOS="454"
+                    WIDTH="1062"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0e4b428"
+                    
+                    BASELINE="435 560 1201 560" 
+                    HPOS="435"
+                    VPOS="521"
+                    WIDTH="766"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="435 560 435 569 706 581 708 581 785 571 843 581 844 582 958 582 958 581 960 581 962 581 962 579 972 571 1136 581 1138 581 1201 569 1201 560 1201 526 435 521 435 560"/></Shape>
+	    <String CONTENT="Friedericke Frey, à Fribourg en Brisgau."
+                    HPOS="435"
+                    VPOS="521"
+                    WIDTH="766"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b14dceb"
+                    
+                    BASELINE="291 625 932 625 1280 625 1349 625" 
+                    HPOS="289"
+                    VPOS="588"
+                    WIDTH="1058"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="289 624 289 635 1347 635 1347 624 1345 588 289 592 289 624"/></Shape>
+	    <String CONTENT="285 Paniers de fleurs et de fruits. 180"
+                    HPOS="289"
+                    VPOS="588"
+                    WIDTH="1058"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35481770"
+                    
+                    BASELINE="529 698 1119 702" 
+                    HPOS="527"
+                    VPOS="659"
+                    WIDTH="592"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1108 676 1089 672 1071 668 1052 665 1044 663 529 659 529 698 527 706 1115 708 1119 702 1112 681 1108 676"/></Shape>
+	    <String CONTENT="Mlle Louise Melley, à Lausanne."
+                    HPOS="527"
+                    VPOS="659"
+                    WIDTH="592"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_066a6fcc"
+                    
+                    BASELINE="291 756 1015 756" 
+                    HPOS="291"
+                    VPOS="713"
+                    WIDTH="724"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="310 715 291 756 291 766 1015 766 1015 756 1015 724 951 713 949 713 644 723 611 713 609 713 607 713 605 713 583 723 558 713 557 713 555 713 510 723 409 713 407 713 405 713 371 723 317 713 310 715"/></Shape>
+	    <String CONTENT="295 Avenue de Champitet, à Yverdon."
+                    HPOS="291"
+                    VPOS="713"
+                    WIDTH="724"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7d06f45"
+                    
+                    BASELINE="553 866 1091 861" 
+                    HPOS="551"
+                    VPOS="820"
+                    WIDTH="540"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="553 866 553 874 1091 874 1091 861 1087 829 929 820 927 820 824 829 768 820 766 820 551 831 553 866"/></Shape>
+	    <String CONTENT="Mlle C. Terrisse, à Montreux."
+                    HPOS="551"
+                    VPOS="820"
+                    WIDTH="540"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08072598"
+                    
+                    BASELINE="296 909 635 915 1280 913 1353 913" 
+                    HPOS="293"
+                    VPOS="876"
+                    WIDTH="1058"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="295 908 293 919 1349 917 1351 911 1347 876 295 876 295 908"/></Shape>
+	    <String CONTENT="296 Effet du soir. 200"
+                    HPOS="293"
+                    VPOS="876"
+                    WIDTH="1058"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15361d4b"
+                    
+                    BASELINE="557 980 1084 977" 
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="529"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="557 980 557 988 1080 990 1084 977 1080 939 570 932 568 932 566 932 564 932 555 937 557 980"/></Shape>
+	    <String CONTENT="Joseph Geisser, à Lausanne."
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="529"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d097d269"
+                    
+                    BASELINE="293 1029 1218 1033 1282 1035 1351 1029" 
+                    HPOS="289"
+                    VPOS="993"
+                    WIDTH="1060"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="291 1027 289 1038 841 1050 843 1050 1347 1040 1349 1027 1345 993 291 997 291 1027"/></Shape>
+	    <String CONTENT="302 Moutons près de la cascade de Tourtemagne. 250"
+                    HPOS="289"
+                    VPOS="993"
+                    WIDTH="1060"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c9546f9"
+                    
+                    BASELINE="293 1074 966 1074 1282 1074 1351 1074" 
+                    HPOS="291"
+                    VPOS="1033"
+                    WIDTH="1058"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1299 1033 1297 1033 1295 1033 1295 1035 1293 1036 1282 1048 957 1048 925 1040 893 1033 891 1033 807 1040 766 1044 740 1040 674 1033 672 1033 671 1033 669 1033 657 1042 654 1046 641 1042 613 1033 611 1033 400 1033 398 1033 396 1033 371 1044 370 1046 370 1044 358 1035 358 1033 357 1033 355 1033 302 1033 300 1033 299 1033 297 1033 297 1035 291 1040 291 1072 291 1078 1347 1081 1349 1072 1349 1036 1301 1033 1299 1033"/></Shape>
+	    <String CONTENT="303 Motif dans les Alpes vaudoises. 150"
+                    HPOS="291"
+                    VPOS="1033"
+                    WIDTH="1058"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2709df3e"
+                    
+                    BASELINE="611 1139 1033 1139" 
+                    HPOS="611"
+                    VPOS="1094"
+                    WIDTH="422"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="611 1139 611 1149 1033 1149 1033 1139 1033 1107 972 1094 970 1094 921 1106 917 1106 914 1106 843 1094 841 1094 839 1094 837 1094 824 1106 822 1106 796 1094 794 1094 792 1094 790 1094 762 1104 706 1094 704 1094 611 1102 611 1139"/></Shape>
+	    <String CONTENT="L. Mennet, à Begnins."
+                    HPOS="611"
+                    VPOS="1094"
+                    WIDTH="422"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c5ed332"
+                    
+                    BASELINE="291 1195 794 1195 1280 1191 1355 1195" 
+                    HPOS="287"
+                    VPOS="1150"
+                    WIDTH="1066"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="289 1193 289 1197 1351 1199 1353 1193 1349 1150 1246 1169 781 1169 751 1156 743 1152 742 1152 631 1152 629 1152 628 1152 626 1152 626 1154 622 1158 616 1163 603 1158 590 1152 588 1152 586 1152 585 1152 583 1152 575 1158 566 1163 555 1158 542 1152 540 1152 538 1152 287 1160 289 1193"/></Shape>
+	    <String CONTENT="304 Souvenir de la Seine. 250"
+                    HPOS="287"
+                    VPOS="1150"
+                    WIDTH="1066"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cab5534"
+                    
+                    BASELINE="454 1261 1194 1257" 
+                    HPOS="452"
+                    VPOS="1203"
+                    WIDTH="742"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="454 1261 454 1268 1194 1264 1194 1257 1190 1221 822 1203 820 1203 818 1203 816 1203 794 1221 792 1221 790 1221 687 1210 686 1210 684 1210 682 1210 672 1220 643 1208 641 1208 639 1208 637 1208 635 1208 635 1210 622 1221 487 1212 486 1212 484 1212 452 1221 454 1261"/></Shape>
+	    <String CONTENT="Mlle Julia Natthey, à Territet-Montreux."
+                    HPOS="452"
+                    VPOS="1203"
+                    WIDTH="742"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4afe240"
+                    
+                    BASELINE="293 1315 743 1315 1280 1315 1355 1309" 
+                    HPOS="289"
+                    VPOS="1272"
+                    WIDTH="1064"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="291 1313 291 1320 1351 1320 1353 1307 1347 1272 1198 1289 730 1289 687 1281 613 1272 611 1272 566 1281 527 1272 525 1272 523 1272 521 1272 519 1272 519 1274 508 1285 506 1287 502 1285 478 1272 476 1272 474 1272 396 1274 394 1274 392 1274 375 1285 362 1274 362 1272 360 1272 358 1272 304 1272 302 1272 300 1272 299 1272 299 1274 289 1281 291 1313"/></Shape>
+	    <String CONTENT="308 Etude d’anémones. 300"
+                    HPOS="289"
+                    VPOS="1272"
+                    WIDTH="1064"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad3de5f3"
+                    
+                    BASELINE="512 1382 1136 1382" 
+                    HPOS="512"
+                    VPOS="1332"
+                    WIDTH="624"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="512 1382 512 1393 1136 1393 1136 1382 1136 1345 930 1345 919 1333 919 1332 917 1332 915 1332 850 1332 848 1332 786 1343 762 1332 760 1332 758 1332 757 1332 715 1343 704 1332 702 1332 700 1332 646 1332 644 1332 643 1332 620 1343 562 1332 560 1332 558 1332 512 1343 512 1382"/></Shape>
+	    <String CONTENT="Théodore Renkewitz, à Montreux."
+                    HPOS="512"
+                    VPOS="1332"
+                    WIDTH="624"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a12886da"
+                    
+                    BASELINE="295 1436 841 1440 1280 1436 1357 1431" 
+                    HPOS="291"
+                    VPOS="1393"
+                    WIDTH="1064"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="293 1434 293 1440 1353 1438 1355 1429 1351 1395 1276 1393 1274 1393 1272 1393 1271 1393 1271 1395 1269 1395 1256 1410 940 1410 914 1399 912 1399 910 1399 908 1399 906 1399 904 1399 904 1401 895 1410 815 1410 772 1401 723 1393 721 1393 676 1403 663 1404 654 1403 626 1395 624 1395 622 1395 620 1395 618 1395 618 1397 611 1403 605 1408 596 1403 579 1395 577 1395 575 1395 573 1395 558 1404 549 1408 542 1404 525 1395 523 1395 405 1395 403 1395 401 1395 375 1406 370 1408 368 1406 355 1395 355 1393 353 1393 351 1393 308 1393 306 1393 304 1393 302 1393 291 1401 293 1434"/></Shape>
+	    <String CONTENT="312 Cascade du Chauderon. 200"
+                    HPOS="291"
+                    VPOS="1393"
+                    WIDTH="1064"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87694ee7"
+                    
+                    BASELINE="303 1478 1262 1480 444 1514 1359 1517" 
+                    HPOS="300"
+                    VPOS="1436"
+                    WIDTH="961"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="302 1477 300 1485 1259 1485 1261 1479 1259 1444 302 1436 302 1477"/></Shape>
+	    <String CONTENT="313 L’avalanche tombée le 6 mars, entre le Bouveret et St-Gingolph. 200"
+                    HPOS="300"
+                    VPOS="1436"
+                    WIDTH="961"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12f92735"
+                    
+                    BASELINE="295 1556 712 1556 1282 1554 1357 1550" 
+                    HPOS="291"
+                    VPOS="1513"
+                    WIDTH="1064"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="796 1517 781 1517 770 1528 699 1528 663 1517 646 1517 628 1517 609 1517 590 1517 572 1517 553 1517 534 1517 515 1517 497 1517 478 1517 459 1517 456 1513 456 1513 454 1513 452 1513 450 1513 450 1515 441 1522 407 1515 398 1513 396 1513 394 1513 392 1513 392 1515 375 1524 364 1515 364 1513 362 1513 360 1513 358 1513 291 1513 293 1554 293 1558 1353 1560 1355 1548 1349 1517 831 1526 798 1515 796 1513 796 1517"/></Shape>
+	    <String CONTENT="314 Le Wild-Strubel. 200"
+                    HPOS="291"
+                    VPOS="1513"
+                    WIDTH="1064"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e61690f0"
+                    
+                    BASELINE="536 1621 1115 1621" 
+                    HPOS="536"
+                    VPOS="1573"
+                    WIDTH="579"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1112 1582 829 1573 828 1573 777 1582 715 1573 714 1573 536 1582 536 1621 536 1632 1115 1632 1115 1621 1115 1604 1112 1582"/></Shape>
+	    <String CONTENT=" Gustave Vollenweider, à Berne."
+                    HPOS="536"
+                    VPOS="1573"
+                    WIDTH="579"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22baf652"
+                    
+                    BASELINE="297 1674 717 1677 1284 1674 1358 1674" 
+                    HPOS="293"
+                    VPOS="1631"
+                    WIDTH="1064"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="295 1672 295 1679 1355 1677 1357 1672 1355 1642 1286 1631 1284 1631 1282 1631 1280 1631 1265 1640 1258 1644 1254 1640 1244 1632 1244 1631 1243 1631 1241 1631 1147 1631 1145 1631 1144 1631 1142 1631 1142 1632 1134 1638 1127 1647 1072 1647 1043 1638 1018 1631 1016 1631 1015 1631 1013 1631 998 1638 977 1647 600 1647 570 1632 568 1632 566 1632 564 1632 562 1632 560 1632 543 1646 517 1632 514 1631 512 1631 510 1631 508 1631 506 1631 506 1632 497 1640 403 1634 401 1634 400 1634 373 1646 360 1632 360 1631 358 1631 357 1631 293 1631 295 1672"/></Shape>
+	    <String CONTENT="315 Journée de mars. 180"
+                    HPOS="293"
+                    VPOS="1631"
+                    WIDTH="1064"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6977a3b6"
+                    
+                    BASELINE="297 1716 572 1716 1287 1709 1357 1713" 
+                    HPOS="293"
+                    VPOS="1679"
+                    WIDTH="1062"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="295 1715 295 1720 1353 1718 1355 1711 1351 1679 639 1690 293 1683 295 1715"/></Shape>
+	    <String CONTENT="316 En mars. 150"
+                    HPOS="293"
+                    VPOS="1679"
+                    WIDTH="1062"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ba62e86"
+                    
+                    BASELINE="297 1754 538 1754 1284 1752 1355 1748" 
+                    HPOS="293"
+                    VPOS="1715"
+                    WIDTH="1060"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="295 1752 295 1756 1351 1758 1353 1746 1347 1715 985 1728 293 1724 295 1752"/></Shape>
+	    <String CONTENT="317 En été. 250"
+                    HPOS="293"
+                    VPOS="1715"
+                    WIDTH="1060"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbd7381c"
+                    
+                    BASELINE="297 1795 1115 1791 1287 1791 1357 1791" 
+                    HPOS="293"
+                    VPOS="1750"
+                    WIDTH="1062"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1209 1752 1190 1752 1185 1752 1151 1759 1121 1752 1115 1752 1097 1752 1033 1759 964 1752 947 1752 929 1752 925 1752 923 1754 910 1759 884 1754 874 1752 872 1752 856 1752 846 1754 824 1759 816 1754 815 1752 798 1752 796 1752 785 1754 757 1759 743 1754 738 1752 723 1752 715 1752 693 1756 650 1761 628 1756 614 1752 613 1752 611 1752 581 1756 542 1761 484 1758 443 1754 424 1754 405 1754 386 1754 293 1758 295 1793 295 1801 1353 1795 1355 1789 1351 1750 1229 1758 1218 1752 1209 1752"/></Shape>
+	    <String CONTENT="318 Paysan d’Eisenfluh (Oberland bernois). 160"
+                    HPOS="293"
+                    VPOS="1750"
+                    WIDTH="1062"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45729006"
+                    
+                    BASELINE="545 1858 1108 1858" 
+                    HPOS="545"
+                    VPOS="1823"
+                    WIDTH="563"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="545 1858 545 1870 1108 1870 1108 1858 1108 1823 545 1823 545 1858"/></Shape>
+	    <String CONTENT=" Mlle Juliette Hebert, à Genève."
+                    HPOS="545"
+                    VPOS="1823"
+                    WIDTH="563"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c14d3415"
+                    
+                    BASELINE="299 1911 1003 1916" 
+                    HPOS="297"
+                    VPOS="1870"
+                    WIDTH="706"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="299 1888 299 1911 297 1926 1000 1928 1003 1916 1003 1883 983 1872 981 1872 865 1872 863 1872 861 1872 859 1872 846 1881 844 1881 768 1870 766 1870 715 1879 684 1870 682 1870 680 1870 678 1870 654 1879 652 1879 575 1870 573 1870 572 1870 570 1870 558 1879 557 1879 532 1870 530 1870 529 1870 308 1875 299 1888"/></Shape>
+	    <String CONTENT="322 Portrait de Juste Olivier (émail)."
+                    HPOS="297"
+                    VPOS="1870"
+                    WIDTH="706"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

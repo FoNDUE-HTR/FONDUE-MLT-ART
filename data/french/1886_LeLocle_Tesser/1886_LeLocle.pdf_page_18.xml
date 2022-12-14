@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_LeLocle.pdf_page_18.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1381"
+          HEIGHT="2243"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1381"
+                  HEIGHT="2243">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_8fff21db"
+                    
+                    BASELINE="316 263 851 267" 
+                    HPOS="314"
+                    VPOS="224"
+                    WIDTH="537"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="838 237 819 237 800 237 782 235 763 235 744 233 726 233 707 233 688 231 669 231 651 231 632 229 613 229 595 229 576 228 565 228 555 229 552 229 550 229 546 228 538 228 520 226 516 226 510 229 508 229 505 229 494 226 482 226 464 224 462 224 452 228 447 229 346 228 333 229 316 229 316 263 314 276 849 276 851 267 849 237 838 237"/></Shape>
+	    <String CONTENT="Mlle Marie Sandoz, au Locle."
+                    HPOS="314"
+                    VPOS="224"
+                    WIDTH="537"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79a9ab12"
+                    
+                    BASELINE="48 323 465 323 1021 319 1104 317" 
+                    HPOS="44"
+                    VPOS="282"
+                    WIDTH="1058"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="46 321 46 325 1100 330 1102 315 1096 282 860 297 462 297 449 289 441 285 439 285 437 285 44 293 46 321"/></Shape>
+	    <String CONTENT="372 Bonne trouvaille. 1200"
+                    HPOS="44"
+                    VPOS="282"
+                    WIDTH="1058"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdc65bac"
+                    
+                    BASELINE="48 362 443 366 1044 360 1100 355" 
+                    HPOS="44"
+                    VPOS="323"
+                    WIDTH="1054"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="46 360 46 370 1096 370 1098 353 1092 323 885 336 44 334 46 360"/></Shape>
+	    <String CONTENT="373 Vie sans orage. 400"
+                    HPOS="44"
+                    VPOS="323"
+                    WIDTH="1054"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b42ece1"
+                    
+                    BASELINE="48 401 391 405 1038 401 1105 396" 
+                    HPOS="44"
+                    VPOS="362"
+                    WIDTH="1060"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="357 364 355 364 353 364 44 371 46 400 46 405 1102 407 1104 394 1100 362 1046 362 1044 362 1042 362 1040 362 1040 364 1029 375 705 379 381 379 366 370 359 364 357 364"/></Shape>
+	    <String CONTENT="374 Tête d’étude. 130"
+                    HPOS="44"
+                    VPOS="362"
+                    WIDTH="1060"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53c3a756"
+                    
+                    BASELINE="361 469 799 469" 
+                    HPOS="361"
+                    VPOS="433"
+                    WIDTH="438"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="791 457 776 433 361 433 361 469 361 478 799 478 799 469 795 459 791 457"/></Shape>
+	    <String CONTENT="Léon Girardet, à Paris."
+                    HPOS="361"
+                    VPOS="433"
+                    WIDTH="438"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed4777a1"
+                    
+                    BASELINE="48 523 376 527 1036 521 1102 515" 
+                    HPOS="44"
+                    VPOS="484"
+                    WIDTH="1056"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="46 521 46 527 1098 530 1100 514 1096 484 1040 484 1038 484 1036 484 1034 484 1034 485 1023 495 44 495 46 521"/></Shape>
+	    <String CONTENT="375 Taquinerie. 350"
+                    HPOS="44"
+                    VPOS="484"
+                    WIDTH="1056"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_374d6d8a"
+                    
+                    BASELINE="50 560 348 564 1038 560 1104 557" 
+                    HPOS="46"
+                    VPOS="523"
+                    WIDTH="1056"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="48 558 48 564 1100 568 1102 555 1098 523 1042 523 1040 523 1038 523 1036 523 1036 525 1025 534 46 532 48 558"/></Shape>
+	    <String CONTENT="376 Flirtation. 300"
+                    HPOS="46"
+                    VPOS="523"
+                    WIDTH="1056"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3946817e"
+                    
+                    BASELINE="48 605 407 601 1042 600 1104 596" 
+                    HPOS="44"
+                    VPOS="562"
+                    WIDTH="1058"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="46 603 46 609 1102 609 1102 594 1096 562 1038 573 404 575 391 573 348 566 243 566 241 566 239 566 237 566 237 568 232 573 224 568 224 566 222 566 220 566 159 566 157 566 155 566 132 575 125 568 125 566 123 566 121 566 52 566 50 566 48 566 46 566 46 568 44 568 46 603"/></Shape>
+	    <String CONTENT="377 Ala fontaine. 400"
+                    HPOS="44"
+                    VPOS="562"
+                    WIDTH="1058"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55dcb813"
+                    
+                    BASELINE="48 644 501 641 1042 639 1104 635" 
+                    HPOS="44"
+                    VPOS="600"
+                    WIDTH="1058"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="46 642 46 648 1100 644 1102 633 1096 600 997 614 523 614 501 611 469 603 467 603 211 614 147 605 145 605 144 605 142 605 142 607 132 614 119 605 117 605 116 605 52 605 50 605 48 605 46 605 46 607 44 607 46 642"/></Shape>
+	    <String CONTENT="378 Un renseignement. 450"
+                    HPOS="44"
+                    VPOS="600"
+                    WIDTH="1058"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_611160e1"
+                    
+                    BASELINE="265 715 881 715" 
+                    HPOS="265"
+                    VPOS="678"
+                    WIDTH="616"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="265 715 265 725 881 723 881 715 881 682 265 678 265 715"/></Shape>
+	    <String CONTENT=" Mme Tell Sandoz-Favre, au Locle."
+                    HPOS="265"
+                    VPOS="678"
+                    WIDTH="616"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8548d7d"
+                    
+                    BASELINE="49 765 936 774 189 807 1117 812" 
+                    HPOS="46"
+                    VPOS="734"
+                    WIDTH="889"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="48 764 46 773 462 786 464 786 933 779 935 773 935 743 48 734 48 764"/></Shape>
+	    <String CONTENT="379 Vérigny. Etalon-percheron des harras de Besançon. 250"
+                    HPOS="46"
+                    VPOS="734"
+                    WIDTH="889"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
