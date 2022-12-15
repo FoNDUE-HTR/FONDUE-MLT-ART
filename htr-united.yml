@@ -36,15 +36,15 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 77584
+  count: 84392
 - metric: files
-  count: 120
+  count: 132
 - metric: lines
-  count: 3224
+  count: 3514
 - metric: pages
   count: 60
 - metric: regions
-  count: 120
+  count: 132
 citation-file-link: https://raw.githubusercontent.com/FoNDUE-HTR/FONDUE-MLT-ART/main/CITATION.cff
 characters:
   mode: NFD
@@ -56,8 +56,8 @@ characters:
   - a
   - i
   - l
-  - u
   - '0'
+  - u
   - s
   - t
   - o
@@ -65,58 +65,58 @@ characters:
   - d
   - '1'
   - c
-  - '2'
   - m
+  - '2'
   - g
   - '5'
   - '3'
-  - f
   - b
+  - f
   - "\u0308"
   - M
-  - ','
   - B
   - '4'
+  - ','
   - S
   - G
   - '6'
   - A
-  - v
   - '7'
-  - L
+  - v
   - '8'
+  - L
   - p
   - F
   - P
   - '9'
-  - D
   - z
   - y
+  - D
   - "\u0300"
-  - C
   - W
+  - C
   - E
-  - V
-  - R
-  - k
-  - K
   - H
+  - K
+  - R
+  - V
+  - k
   - )
   - (
   - T
-  - "\u2014"
   - w
   - "\u0301"
+  - "\u2014"
   - J
   - '-'
   - N
   - Z
+  - O
   - "\u0302"
   - I
-  - O
   - q
-  - "\u2019"
   - U
+  - "\u2019"
   - x
   - j
   - '*'
