@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_Bern.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1410"
+          HEIGHT="2252"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1410"
+                  HEIGHT="2252">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_468fbb02"
+                    
+                    BASELINE="426 236 831 236" 
+                    HPOS="426"
+                    VPOS="189"
+                    WIDTH="405"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="782 197 764 195 756 200 728 191 726 191 715 189 715 191 702 202 672 191 670 191 668 191 666 191 664 191 653 202 606 189 604 189 602 189 600 189 563 200 542 191 540 191 538 191 536 191 535 191 520 234 501 234 482 234 463 234 444 234 426 234 426 236 426 247 831 247 831 236 822 208 799 197 782 197"/></Shape>
+	    <String CONTENT="Karl Stauffer in Berlin."
+                    HPOS="426"
+                    VPOS="189"
+                    WIDTH="405"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dd30522"
+                    
+                    BASELINE="91 281 326 281" 
+                    HPOS="91"
+                    VPOS="236"
+                    WIDTH="235"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="91 243 91 281 91 290 326 290 326 281 326 247 108 236 107 236 105 236 103 236 91 243"/></Shape>
+	    <String CONTENT="399. Portrait."
+                    HPOS="91"
+                    VPOS="236"
+                    WIDTH="235"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26c79a8e"
+                    
+                    BASELINE="93 328 324 328" 
+                    HPOS="93"
+                    VPOS="294"
+                    WIDTH="231"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="93 328 93 339 324 339 324 328 324 294 93 294 93 328"/></Shape>
+	    <String CONTENT="400. Portrait"
+                    HPOS="93"
+                    VPOS="294"
+                    WIDTH="231"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f139405"
+                    
+                    BASELINE="93 379 324 375" 
+                    HPOS="91"
+                    VPOS="334"
+                    WIDTH="233"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="93 379 93 384 283 394 285 394 287 394 324 382 324 375 321 343 108 334 107 334 105 334 103 334 91 341 93 379"/></Shape>
+	    <String CONTENT="401. Portrait."
+                    HPOS="91"
+                    VPOS="334"
+                    WIDTH="233"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d0b1b29"
+                    
+                    BASELINE="424 442 826 442" 
+                    HPOS="424"
+                    VPOS="405"
+                    WIDTH="402"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="818 407 739 405 724 405 705 405 687 405 668 405 649 405 630 405 612 405 593 405 574 405 559 405 555 409 490 409 471 405 461 405 443 405 424 405 424 442 424 452 824 454 826 442 824 431 818 407"/></Shape>
+	    <String CONTENT=" Johann Zahnd in Bern."
+                    HPOS="424"
+                    VPOS="405"
+                    WIDTH="402"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_580c63bd"
+                    
+                    BASELINE="91 487 407 484 1090 487 1156 487" 
+                    HPOS="88"
+                    VPOS="446"
+                    WIDTH="1066"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="90 486 88 489 1150 499 1154 486 1154 450 1094 448 1092 448 1090 448 1088 448 1088 450 1087 450 1077 461 416 461 409 457 381 446 379 446 195 446 193 446 191 446 170 457 161 448 161 446 159 446 157 446 105 446 103 446 101 446 99 446 99 448 90 456 90 486"/></Shape>
+	    <String CONTENT="402. Am Nemisee. 300"
+                    HPOS="88"
+                    VPOS="446"
+                    WIDTH="1066"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2de9efec"
+                    
+                    BASELINE="454 549 805 553" 
+                    HPOS="452"
+                    VPOS="508"
+                    WIDTH="353"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="454 549 452 557 801 559 805 553 805 516 454 508 454 549"/></Shape>
+	    <String CONTENT="Karl Gehry in Bern."
+                    HPOS="452"
+                    VPOS="508"
+                    WIDTH="353"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85d58b06"
+                    
+                    BASELINE="93 593 458 596" 
+                    HPOS="91"
+                    VPOS="549"
+                    WIDTH="367"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="93 593 91 602 454 606 458 596 458 563 313 551 311 551 309 551 281 561 277 561 275 561 262 549 260 549 259 549 257 549 255 549 253 549 242 559 223 549 221 549 219 549 93 557 93 593"/></Shape>
+	    <String CONTENT="403. Kinder-Portrait."
+                    HPOS="91"
+                    VPOS="549"
+                    WIDTH="367"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f46c503a"
+                    
+                    BASELINE="428 658 831 662" 
+                    HPOS="426"
+                    VPOS="615"
+                    WIDTH="405"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="428 658 426 666 827 669 831 662 831 626 428 615 428 658"/></Shape>
+	    <String CONTENT="Wymann-Mory in Bern."
+                    HPOS="426"
+                    VPOS="615"
+                    WIDTH="405"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afa52916"
+                    
+                    BASELINE="91 705 435 701 1090 707 1158 703" 
+                    HPOS="88"
+                    VPOS="664"
+                    WIDTH="1068"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="90 703 88 707 1152 709 1156 701 1150 669 726 677 557 673 328 666 326 666 212 673 191 664 189 664 187 664 185 664 163 673 105 664 103 664 101 664 99 664 90 669 90 703"/></Shape>
+	    <String CONTENT="404. Lauterbrunnen. 400"
+                    HPOS="88"
+                    VPOS="664"
+                    WIDTH="1068"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22035d67"
+                    
+                    BASELINE="91 756 732 756 1109 758 1158 758" 
+                    HPOS="88"
+                    VPOS="718"
+                    WIDTH="1068"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="90 754 88 761 1154 761 1156 756 1152 722 722 728 662 726 527 718 525 718 478 728 471 728 467 728 444 718 443 718 105 718 103 718 101 718 99 718 90 724 90 754"/></Shape>
+	    <String CONTENT="405. Ruine Weissenau am Thunersee. 35"
+                    HPOS="88"
+                    VPOS="718"
+                    WIDTH="1068"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_351b202e"
+                    
+                    BASELINE="90 808 869 812 1105 810 1156 810" 
+                    HPOS="86"
+                    VPOS="767"
+                    WIDTH="1068"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="88 806 86 812 161 823 163 825 394 825 394 823 396 823 424 816 433 814 435 816 444 823 446 823 448 823 450 823 565 818 630 814 666 818 720 825 722 825 827 820 903 816 1150 821 1154 808 1150 775 861 780 786 775 715 771 713 771 711 771 709 771 704 776 700 780 694 776 687 771 685 771 683 771 681 771 679 771 677 771 670 776 666 780 660 776 653 769 651 769 649 769 647 769 645 769 643 769 634 776 630 778 583 776 446 769 444 769 443 769 441 769 428 776 426 778 422 776 396 769 394 769 392 769 390 769 367 776 362 778 358 776 328 769 326 769 324 769 322 769 294 778 289 778 275 778 182 769 180 769 178 769 176 769 161 778 159 778 105 767 103 767 101 767 99 767 88 775 88 806"/></Shape>
+	    <String CONTENT="406. Mondnacht am Murtnersee bei Salavaux. 35"
+                    HPOS="86"
+                    VPOS="767"
+                    WIDTH="1068"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f60e3da8"
+                    
+                    BASELINE="90 861 871 865" 
+                    HPOS="88"
+                    VPOS="820"
+                    WIDTH="783"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="90 861 88 867 867 870 871 865 869 831 390 820 388 820 101 827 90 861"/></Shape>
+	    <String CONTENT="407. C. Baumgartner, Bern, bei Reichenbach."
+                    HPOS="88"
+                    VPOS="820"
+                    WIDTH="783"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31d8a4f5"
+                    
+                    BASELINE="366 925 882 928" 
+                    HPOS="364"
+                    VPOS="882"
+                    WIDTH="518"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="366 925 364 934 878 936 882 928 880 893 809 882 807 882 805 882 781 891 779 891 775 891 750 882 749 882 747 882 745 882 743 882 734 889 732 891 366 885 366 925"/></Shape>
+	    <String CONTENT="Mme Adèle Leuzinger in Bern."
+                    HPOS="364"
+                    VPOS="882"
+                    WIDTH="518"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57c230cb"
+                    
+                    BASELINE="90 973 418 970 1088 973 1156 970" 
+                    HPOS="86"
+                    VPOS="930"
+                    WIDTH="1068"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="88 972 86 975 429 985 431 985 433 985 435 985 435 983 444 975 842 975 876 985 878 985 880 985 882 985 884 985 884 983 893 975 955 975 1006 975 1118 985 1120 985 1122 985 1152 973 1154 968 1149 936 416 943 390 943 180 932 178 932 176 932 174 932 165 942 155 934 155 932 153 932 152 932 103 930 101 930 99 930 97 930 97 932 88 940 88 972"/></Shape>
+	    <String CONTENT="408. Rosensendung. 300"
+                    HPOS="86"
+                    VPOS="930"
+                    WIDTH="1068"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

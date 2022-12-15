@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_Bern.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1410"
+          HEIGHT="2219"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1410"
+                  HEIGHT="2219">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bfc8035f"
+                    
+                    BASELINE="438 771 851 771" 
+                    HPOS="438"
+                    VPOS="734"
+                    WIDTH="413"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="845 745 827 745 808 745 790 743 771 743 753 741 734 741 716 741 697 739 679 739 660 739 642 737 623 737 605 737 586 735 568 735 549 735 538 734 451 734 438 739 438 771 438 782 851 782 851 771 849 756 845 745"/></Shape>
+	    <String CONTENT=" Edouard Ravel in Genf."
+                    HPOS="438"
+                    VPOS="734"
+                    WIDTH="413"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0d0ee38"
+                    
+                    BASELINE="123 826 469 821 470 821 1086 826 1175 822" 
+                    HPOS="120"
+                    VPOS="782"
+                    WIDTH="1055"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="122 824 120 826 1173 826 1175 821 1171 785 1052 787 1051 787 1049 787 1049 789 1039 796 814 787 812 787 810 787 788 798 488 798 449 784 447 784 445 784 444 784 401 796 366 782 364 782 257 782 255 782 253 782 251 782 238 793 122 782 122 824"/></Shape>
+	    <String CONTENT="1. Les premiers pas. 3000"
+                    HPOS="120"
+                    VPOS="782"
+                    WIDTH="1055"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34ddadc2"
+                    
+                    BASELINE="360 898 910 902" 
+                    HPOS="358"
+                    VPOS="858"
+                    WIDTH="552"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="901 861 360 858 360 898 358 904 906 907 910 902 908 898 901 861"/></Shape>
+	    <String CONTENT="Ludwig Skell in Tölz (Bayern)."
+                    HPOS="358"
+                    VPOS="858"
+                    WIDTH="552"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c50d6dc"
+                    
+                    BASELINE="120 954 764 948 1100 952 1176 948" 
+                    HPOS="116"
+                    VPOS="911"
+                    WIDTH="1059"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="118 952 118 957 1173 956 1175 946 1169 911 788 922 751 911 749 911 747 911 742 911 680 920 514 911 494 911 492 911 490 911 488 911 488 913 486 913 479 922 429 913 427 913 425 913 423 913 423 915 412 924 346 913 227 913 172 913 170 913 168 913 166 913 155 922 116 913 118 952"/></Shape>
+	    <String CONTENT="3. Wasserfall an der Benedictenwand. 350"
+                    HPOS="116"
+                    VPOS="911"
+                    WIDTH="1059"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d0faa20"
+                    
+                    BASELINE="368 1028 912 1031" 
+                    HPOS="366"
+                    VPOS="991"
+                    WIDTH="546"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="368 1028 366 1035 908 1037 912 1031 910 994 368 991 368 1028"/></Shape>
+	    <String CONTENT="August Bauer in Weil (Baden)."
+                    HPOS="366"
+                    VPOS="991"
+                    WIDTH="546"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f13ba8cd"
+                    
+                    BASELINE="122 1083 1001 1083 1102 1083 1175 1078" 
+                    HPOS="118"
+                    VPOS="1039"
+                    WIDTH="1057"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="120 1081 120 1089 1173 1087 1175 1076 1169 1046 995 1050 975 1046 932 1039 930 1039 834 1048 821 1048 814 1048 758 1039 756 1039 754 1039 753 1039 738 1048 734 1050 729 1048 699 1039 697 1039 695 1039 693 1039 667 1048 662 1050 638 1048 495 1039 494 1039 492 1039 490 1039 473 1050 471 1050 429 1039 427 1039 425 1039 423 1039 397 1050 371 1039 370 1039 368 1039 366 1039 364 1039 355 1048 347 1042 347 1041 346 1041 344 1041 342 1041 270 1048 259 1039 257 1039 255 1039 181 1039 179 1039 177 1039 175 1039 175 1041 164 1050 135 1041 133 1041 131 1041 129 1041 127 1041 118 1046 120 1081"/></Shape>
+	    <String CONTENT="6. Spätherbst in den Vorbergen des Schwarzwaldes. 350"
+                    HPOS="118"
+                    VPOS="1039"
+                    WIDTH="1057"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47952576"
+                    
+                    BASELINE="431 1159 856 1155" 
+                    HPOS="429"
+                    VPOS="1113"
+                    WIDTH="427"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="847 1120 649 1113 647 1113 645 1113 627 1122 438 1115 436 1115 434 1115 432 1115 432 1116 431 1116 429 1116 431 1159 431 1168 854 1164 856 1155 854 1139 847 1120"/></Shape>
+	    <String CONTENT="Gustave Castan in Genf."
+                    HPOS="429"
+                    VPOS="1113"
+                    WIDTH="427"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_163a8701"
+                    
+                    BASELINE="122 1213 705 1209 1082 1213 1173 1207" 
+                    HPOS="118"
+                    VPOS="1168"
+                    WIDTH="1053"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="120 1211 120 1216 1169 1213 1171 1205 1165 1174 786 1181 743 1172 742 1172 740 1172 738 1172 693 1181 677 1172 677 1170 675 1170 673 1170 671 1170 662 1172 618 1179 495 1170 455 1168 453 1168 451 1168 445 1170 423 1181 399 1170 394 1168 392 1168 390 1168 362 1170 277 1177 118 1170 120 1211"/></Shape>
+	    <String CONTENT="7. Souvenir de la Vallée d’Arolla. 1200"
+                    HPOS="118"
+                    VPOS="1168"
+                    WIDTH="1053"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4e936e0"
+                    
+                    BASELINE="431 1288 843 1283" 
+                    HPOS="429"
+                    VPOS="1240"
+                    WIDTH="414"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="838 1248 706 1240 705 1240 703 1240 701 1240 686 1250 575 1242 573 1242 571 1242 569 1242 569 1244 560 1251 447 1244 445 1244 444 1244 442 1244 429 1250 431 1288 431 1296 843 1292 843 1283 841 1279 838 1248"/></Shape>
+	    <String CONTENT="Arthur Calame in Genf."
+                    HPOS="429"
+                    VPOS="1240"
+                    WIDTH="414"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eacb3a02"
+                    
+                    BASELINE="103 1342 582 1336 1082 1338 1173 1338" 
+                    HPOS="99"
+                    VPOS="1294"
+                    WIDTH="1072"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="101 1340 101 1344 1171 1342 1171 1336 1169 1301 1154 1294 1152 1294 1150 1294 1110 1303 1075 1312 575 1312 473 1299 470 1299 468 1299 466 1299 390 1309 370 1299 368 1299 366 1299 364 1299 362 1299 349 1311 331 1298 329 1298 327 1298 325 1298 323 1298 321 1298 299 1307 292 1299 292 1298 290 1298 288 1298 99 1298 101 1340"/></Shape>
+	    <String CONTENT="12. Olivenhain bei Mentone. 2000"
+                    HPOS="99"
+                    VPOS="1294"
+                    WIDTH="1072"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9beec17"
+                    
+                    BASELINE="410 1418 860 1412" 
+                    HPOS="408"
+                    VPOS="1379"
+                    WIDTH="452"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="410 1418 410 1427 860 1422 860 1412 854 1379 408 1379 410 1418"/></Shape>
+	    <String CONTENT="Max Roman in Karlsruhe."
+                    HPOS="408"
+                    VPOS="1379"
+                    WIDTH="452"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a83abdad"
+                    
+                    BASELINE="99 1471 492 1471 1099 1470 1175 1470" 
+                    HPOS="96"
+                    VPOS="1429"
+                    WIDTH="1079"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="98 1470 98 1481 1175 1473 1175 1468 1173 1429 1108 1429 1106 1429 1104 1429 1102 1429 1102 1431 1089 1442 1008 1434 1006 1434 882 1447 531 1447 486 1446 468 1431 466 1431 464 1431 170 1431 168 1431 166 1431 164 1431 155 1440 146 1433 146 1431 144 1431 142 1431 96 1431 98 1470"/></Shape>
+	    <String CONTENT="13. Motiv bei Perugia. 250"
+                    HPOS="96"
+                    VPOS="1429"
+                    WIDTH="1079"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f5d5aa3"
+                    
+                    BASELINE="420 1544 843 1551" 
+                    HPOS="418"
+                    VPOS="1501"
+                    WIDTH="425"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="420 1544 418 1549 840 1556 843 1551 843 1514 721 1501 719 1501 658 1510 651 1510 649 1510 630 1501 629 1501 627 1501 420 1505 420 1544"/></Shape>
+	    <String CONTENT="Amalie Rost in Leipzig."
+                    HPOS="418"
+                    VPOS="1501"
+                    WIDTH="425"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71856fe5"
+                    
+                    BASELINE="98 1588 442 1592 1100 1590 1175 1586" 
+                    HPOS="94"
+                    VPOS="1556"
+                    WIDTH="1081"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="96 1586 96 1592 1173 1590 1175 1584 1169 1556 94 1556 96 1586"/></Shape>
+	    <String CONTENT="14. Blumenbouquet. 300"
+                    HPOS="94"
+                    VPOS="1556"
+                    WIDTH="1081"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d394c6d8"
+                    
+                    BASELINE="403 1666 865 1669" 
+                    HPOS="401"
+                    VPOS="1621"
+                    WIDTH="464"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="403 1666 401 1673 862 1677 865 1669 865 1632 845 1623 843 1623 749 1623 747 1623 745 1623 743 1623 734 1630 723 1623 721 1623 719 1623 717 1623 716 1623 682 1632 679 1632 667 1632 532 1621 531 1621 403 1629 403 1666"/></Shape>
+	    <String CONTENT="Anna Peters in Stuttgart."
+                    HPOS="401"
+                    VPOS="1621"
+                    WIDTH="464"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c876c5b5"
+                    
+                    BASELINE="98 1714 375 1714 1100 1708 1169 1712" 
+                    HPOS="94"
+                    VPOS="1673"
+                    WIDTH="1073"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="96 1712 96 1714 1165 1716 1167 1710 1163 1673 390 1688 94 1677 96 1712"/></Shape>
+	    <String CONTENT="18. Feldblumen. 375"
+                    HPOS="94"
+                    VPOS="1673"
+                    WIDTH="1073"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac41f690"
+                    
+                    BASELINE="416 1778 853 1778" 
+                    HPOS="416"
+                    VPOS="1738"
+                    WIDTH="437"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="416 1778 416 1788 853 1788 853 1778 853 1740 416 1738 416 1778"/></Shape>
+	    <String CONTENT="Emil Beurmann in Basel."
+                    HPOS="416"
+                    VPOS="1738"
+                    WIDTH="437"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c059c4bc"
+                    
+                    BASELINE="96 1823 410 1823 1099 1819 1173 1819" 
+                    HPOS="92"
+                    VPOS="1784"
+                    WIDTH="1079"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="94 1821 94 1828 1171 1826 1171 1817 1167 1786 505 1799 412 1799 403 1788 399 1786 399 1784 397 1784 395 1784 394 1784 92 1788 94 1821"/></Shape>
+	    <String CONTENT="19. Kinderporträt. 350"
+                    HPOS="92"
+                    VPOS="1784"
+                    WIDTH="1079"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
