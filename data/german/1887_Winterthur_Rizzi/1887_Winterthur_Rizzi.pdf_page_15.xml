@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1887_Winterthur_Rizzi.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1364"
+          HEIGHT="2242"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1364"
+                  HEIGHT="2242">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_be8724ea"
+                    
+                    BASELINE="476 319 1018 319" 
+                    HPOS="476"
+                    VPOS="276"
+                    WIDTH="542"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="999 282 995 282 980 282 962 282 954 282 943 282 924 282 917 282 913 283 898 282 887 282 868 280 850 280 831 280 812 280 807 280 799 283 790 280 775 280 756 280 738 278 708 283 700 278 700 278 682 278 663 278 644 278 625 276 607 276 588 276 569 276 551 276 534 276 525 285 495 285 476 313 476 319 476 334 1018 330 1018 319 1014 310 999 282"/></Shape>
+	    <String CONTENT="O. Fröhlicher in München."
+                    HPOS="476"
+                    VPOS="276"
+                    WIDTH="542"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_806b3f94"
+                    
+                    BASELINE="213 375 543 375" 
+                    HPOS="213"
+                    VPOS="336"
+                    WIDTH="330"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="530 369 519 341 455 340 455 341 437 341 418 341 399 340 381 340 362 340 343 340 325 338 306 338 287 338 269 336 250 336 231 336 213 375 213 388 543 388 543 375 539 368 530 369"/></Shape>
+	    <String CONTENT="208. Landschaft."
+                    HPOS="213"
+                    VPOS="336"
+                    WIDTH="330"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0ab24b3"
+                    
+                    BASELINE="214 429 472 424" 
+                    HPOS="213"
+                    VPOS="379"
+                    WIDTH="259"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="214 429 214 437 472 433 472 424 468 397 392 379 390 379 388 379 349 397 347 399 298 399 297 397 282 384 282 383 280 383 278 383 222 383 220 383 218 383 216 383 216 384 214 384 213 384 214 429"/></Shape>
+	    <String CONTENT="209. idem."
+                    HPOS="213"
+                    VPOS="379"
+                    WIDTH="259"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f7f1f31"
+                    
+                    BASELINE="564 506 960 513" 
+                    HPOS="562"
+                    VPOS="470"
+                    WIDTH="398"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="956 496 937 476 919 476 900 476 881 474 863 474 844 474 825 472 818 472 792 476 760 470 751 470 732 470 717 470 706 482 579 480 564 482 564 506 562 513 775 528 777 528 958 521 960 513 960 508 956 496"/></Shape>
+	    <String CONTENT=". . . . . Strassburg."
+                    HPOS="562"
+                    VPOS="470"
+                    WIDTH="398"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac18dd43"
+                    
+                    BASELINE="214 566 530 566" 
+                    HPOS="214"
+                    VPOS="519"
+                    WIDTH="316"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="214 566 214 579 530 579 530 566 530 530 325 519 323 519 321 519 287 528 244 519 242 519 241 519 214 528 214 566"/></Shape>
+	    <String CONTENT="210. Viehweide"
+                    HPOS="214"
+                    VPOS="519"
+                    WIDTH="316"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
