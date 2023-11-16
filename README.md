@@ -16,7 +16,7 @@ There is no training data for layout analysis: only for HTR.
 
 ## Credits 
 
-Béatrice Joyeux-Prunel, Valéry Berlincourt, Marie Jeannot-Tirole
+Béatrice Joyeux-Prunel, Valéry Berlincourt, Marie Jeannot-Tirole.
 
 ## Licence
 
