@@ -20,9 +20,9 @@ characters:
   - r
   - a
   - i
-  - '0'
   - l
   - u
+  - '0'
   - t
   - s
   - o
@@ -30,79 +30,83 @@ characters:
   - d
   - '1'
   - c
-  - m
   - '2'
+  - m
   - g
   - '5'
   - '3'
+  - f
   - b
   - ̈
-  - f
   - M
   - B
   - '4'
+  - ','
   - A
   - S
-  - G
-  - ','
   - '6'
+  - G
   - '7'
   - v
   - '8'
   - p
   - L
   - F
-  - P
   - '9'
+  - P
   - z
   - y
   - D
   - C
-  - W
-  - R
   - k
-  - K
+  - R
+  - W
   - V
+  - K
   - E
   - H
-  - ̀
-  - '-'
   - )
   - (
+  - '-'
+  - ̀
   - w
   - T
   - J
   - ́
-  - –
-  - —
   - N
+  - –
   - Z
+  - —
+  - q
   - O
   - I
-  - q
   - ̂
   - U
   - ’
   - x
   - j
   - ;
-  - X
-  - œ
   - ¬
-  - Q
+  - œ
   - »
-  - '"'
+  - X
+  - Q
   - ̧
+  - '"'
   - ':'
   - "'"
+  - «
   - §
   - Y
+  - '?'
   - '['
   - ']'
   - æ
-  - '?'
   - /
-  - «
+  - '!'
+  - „
+  - “
+  -  
   - …
   - '&'
   mode: NFD
@@ -130,13 +134,13 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 101534
+- count: 114049
   metric: characters
-- count: 158
+- count: 177
   metric: files
-- count: 4217
+- count: 4699
   metric: lines
 - count: 60
   metric: pages
-- count: 158
+- count: 177
   metric: regions
