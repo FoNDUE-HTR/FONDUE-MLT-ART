@@ -39,7 +39,7 @@ Heavy correction has been done by S. Gabay.
 
 ## How to cite
 
-Cf. [CITATION.cff](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/main/citation.cff)
+Cf. [/htr-united.yml](https://github.com/FoNDUE-HTR/FONDUE-MLT-ART/blob/main/htr-united.yml)
 
 ## Licence
 
