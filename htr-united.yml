@@ -44,8 +44,8 @@ characters:
   - A
   - S
   - G
-  - '6'
   - ','
+  - '6'
   - '7'
   - v
   - '8'
@@ -130,7 +130,7 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 101537
+- count: 101534
   metric: characters
 - count: 158
   metric: files
