@@ -38,35 +38,35 @@ characters:
   - f
   - ̈
   - b
+  - ','
   - M
   - B
-  - ','
   - '4'
-  - A
   - S
+  - A
   - '6'
   - G
   - '7'
   - '8'
   - v
-  - F
-  - L
   - p
+  - L
+  - )
+  - (
+  - F
   - '9'
   - z
   - P
-  - )
-  - (
   - k
   - D
   - y
-  - C
   - R
   - V
+  - C
   - W
-  - E
   - K
   - H
+  - E
   - ̀
   - '-'
   - w
@@ -76,25 +76,26 @@ characters:
   - ́
   - N
   - Z
-  - —
   - I
+  - —
   - q
   - O
-  - ̂
   - U
+  - ̂
   - ’
   - x
   - j
   - ;
   - ¬
+  - '"'
   - œ
   - »
   - X
   - Q
   - ̧
-  - '"'
   - ':'
   - "'"
+  - ß
   - «
   - §
   - Y
@@ -102,15 +103,14 @@ characters:
   - '['
   - ']'
   - æ
-  - ß
   - /
+  - †
   - '!'
   - „
   - “
   -  
   - …
   - '&'
-  - †
   mode: NFD
 citation-file-link: https://raw.githubusercontent.com/FoNDUE-HTR/FONDUE-MLT-ART/main/CITATION.cff
 description: Swiss art exhibitions catalogues
@@ -136,13 +136,13 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 119808
+- count: 127297
   metric: characters
-- count: 184
+- count: 193
   metric: files
-- count: 4917
+- count: 5179
   metric: lines
 - count: 60
   metric: pages
-- count: 184
+- count: 193
   metric: regions
