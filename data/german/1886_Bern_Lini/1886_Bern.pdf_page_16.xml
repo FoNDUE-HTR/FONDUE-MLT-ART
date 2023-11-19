@@ -127,19 +127,36 @@
 
           
           
-          <TextLine ID="eSc_line_8ddc214a"
+          <TextLine ID="eSc_line_761bad02"
                     
-                    BASELINE="226 573 1099 573 388 621 609 621 1226 620 1299 616" 
-                    HPOS="226"
-                    VPOS="530"
-                    WIDTH="873"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="1086 530 1084 530 1082 530 1080 530 1052 541 910 541 889 530 887 530 886 530 884 530 854 539 796 530 794 530 792 530 790 530 775 539 758 530 757 530 755 530 753 530 721 539 656 530 654 530 588 539 564 530 562 530 560 530 558 530 557 530 542 539 540 541 424 541 422 539 403 530 401 530 400 530 226 537 226 573 226 584 1099 584 1099 573 1099 562 1087 530"/></Shape>
-	    <String CONTENT="313. Lawine vom 6. Marz, zwischen Bouveret und. St. Gingolph. 200"
-                    HPOS="226"
-                    VPOS="530"
-                    WIDTH="873"
-                    HEIGHT="54"></String>
+                    BASELINE="232 572 1097 575" 
+                    HPOS="229"
+                    VPOS="532"
+                    WIDTH="866"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="231 571 229 578 1091 582 1095 573 1091 532 1028 541 1009 532 1007 532 863 532 861 532 859 532 857 532 857 534 848 541 801 532 798 532 796 532 790 532 702 541 654 532 650 532 648 532 643 532 585 541 566 532 564 532 562 532 560 532 558 532 557 532 540 541 231 534 231 571"/></Shape>
+	    <String CONTENT="313. Lawine vom 6. März, zwischen Bouveret und"
+                    HPOS="229"
+                    VPOS="532"
+                    WIDTH="866"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13182f96"
+                    
+                    BASELINE="394 620 1301 620" 
+                    HPOS="392"
+                    VPOS="584"
+                    WIDTH="908"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="392 631 1300 623 1300 618 1299 588 607 593 598 586 598 584 596 584 594 584 454 584 452 584 450 584 448 584 433 593 394 584 392 618 392 631"/></Shape>
+	    <String CONTENT="St. Gingolph 200"
+                    HPOS="392"
+                    VPOS="584"
+                    WIDTH="908"
+                    HEIGHT="47"></String>
           </TextLine>
 
           

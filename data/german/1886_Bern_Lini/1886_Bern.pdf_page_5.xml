@@ -50,7 +50,7 @@
                     WIDTH="1055"
                     HEIGHT="44">
             <Shape><Polygon POINTS="122 824 120 826 1173 826 1175 821 1171 785 1052 787 1051 787 1049 787 1049 789 1039 796 814 787 812 787 810 787 788 798 488 798 449 784 447 784 445 784 444 784 401 796 366 782 364 782 257 782 255 782 253 782 251 782 238 793 122 782 122 824"/></Shape>
-	    <String CONTENT="1. Les premiers pas. 3000"
+	    <String CONTENT="1. Les premiers pas 3000"
                     HPOS="120"
                     VPOS="782"
                     WIDTH="1055"
@@ -67,7 +67,7 @@
                     WIDTH="552"
                     HEIGHT="49">
             <Shape><Polygon POINTS="901 861 360 858 360 898 358 904 906 907 910 902 908 898 901 861"/></Shape>
-	    <String CONTENT="Ludwig Skell in Tölz (Bayern)."
+	    <String CONTENT="Ludwig Skell in Tölz (Bayern),"
                     HPOS="358"
                     VPOS="858"
                     WIDTH="552"
@@ -84,7 +84,7 @@
                     WIDTH="1059"
                     HEIGHT="46">
             <Shape><Polygon POINTS="118 952 118 957 1173 956 1175 946 1169 911 788 922 751 911 749 911 747 911 742 911 680 920 514 911 494 911 492 911 490 911 488 911 488 913 486 913 479 922 429 913 427 913 425 913 423 913 423 915 412 924 346 913 227 913 172 913 170 913 168 913 166 913 155 922 116 913 118 952"/></Shape>
-	    <String CONTENT="3. Wasserfall an der Benedictenwand. 350"
+	    <String CONTENT="3. Wasserfall an der Benedictenwand 350"
                     HPOS="116"
                     VPOS="911"
                     WIDTH="1059"
@@ -118,7 +118,7 @@
                     WIDTH="1057"
                     HEIGHT="50">
             <Shape><Polygon POINTS="120 1081 120 1089 1173 1087 1175 1076 1169 1046 995 1050 975 1046 932 1039 930 1039 834 1048 821 1048 814 1048 758 1039 756 1039 754 1039 753 1039 738 1048 734 1050 729 1048 699 1039 697 1039 695 1039 693 1039 667 1048 662 1050 638 1048 495 1039 494 1039 492 1039 490 1039 473 1050 471 1050 429 1039 427 1039 425 1039 423 1039 397 1050 371 1039 370 1039 368 1039 366 1039 364 1039 355 1048 347 1042 347 1041 346 1041 344 1041 342 1041 270 1048 259 1039 257 1039 255 1039 181 1039 179 1039 177 1039 175 1039 175 1041 164 1050 135 1041 133 1041 131 1041 129 1041 127 1041 118 1046 120 1081"/></Shape>
-	    <String CONTENT="6. Spätherbst in den Vorbergen des Schwarzwaldes. 350"
+	    <String CONTENT="6. Spätherbst in den Vorbergen des Schwarzwaldes 350"
                     HPOS="118"
                     VPOS="1039"
                     WIDTH="1057"
@@ -152,7 +152,7 @@
                     WIDTH="1053"
                     HEIGHT="48">
             <Shape><Polygon POINTS="120 1211 120 1216 1169 1213 1171 1205 1165 1174 786 1181 743 1172 742 1172 740 1172 738 1172 693 1181 677 1172 677 1170 675 1170 673 1170 671 1170 662 1172 618 1179 495 1170 455 1168 453 1168 451 1168 445 1170 423 1181 399 1170 394 1168 392 1168 390 1168 362 1170 277 1177 118 1170 120 1211"/></Shape>
-	    <String CONTENT="7. Souvenir de la Vallée d’Arolla. 1200"
+	    <String CONTENT="7. Souvenir de la Vallée d’Arolla 1200"
                     HPOS="118"
                     VPOS="1168"
                     WIDTH="1053"
@@ -186,7 +186,7 @@
                     WIDTH="1072"
                     HEIGHT="50">
             <Shape><Polygon POINTS="101 1340 101 1344 1171 1342 1171 1336 1169 1301 1154 1294 1152 1294 1150 1294 1110 1303 1075 1312 575 1312 473 1299 470 1299 468 1299 466 1299 390 1309 370 1299 368 1299 366 1299 364 1299 362 1299 349 1311 331 1298 329 1298 327 1298 325 1298 323 1298 321 1298 299 1307 292 1299 292 1298 290 1298 288 1298 99 1298 101 1340"/></Shape>
-	    <String CONTENT="12. Olivenhain bei Mentone. 2000"
+	    <String CONTENT="12. Olivenhain bei Mentone 2000"
                     HPOS="99"
                     VPOS="1294"
                     WIDTH="1072"
@@ -220,7 +220,7 @@
                     WIDTH="1079"
                     HEIGHT="52">
             <Shape><Polygon POINTS="98 1470 98 1481 1175 1473 1175 1468 1173 1429 1108 1429 1106 1429 1104 1429 1102 1429 1102 1431 1089 1442 1008 1434 1006 1434 882 1447 531 1447 486 1446 468 1431 466 1431 464 1431 170 1431 168 1431 166 1431 164 1431 155 1440 146 1433 146 1431 144 1431 142 1431 96 1431 98 1470"/></Shape>
-	    <String CONTENT="13. Motiv bei Perugia. 250"
+	    <String CONTENT="13. Motiv bei Perugia 250"
                     HPOS="96"
                     VPOS="1429"
                     WIDTH="1079"
@@ -254,7 +254,7 @@
                     WIDTH="1081"
                     HEIGHT="36">
             <Shape><Polygon POINTS="96 1586 96 1592 1173 1590 1175 1584 1169 1556 94 1556 96 1586"/></Shape>
-	    <String CONTENT="14. Blumenbouquet. 300"
+	    <String CONTENT="14. Blumenbouquet 300"
                     HPOS="94"
                     VPOS="1556"
                     WIDTH="1081"
@@ -288,7 +288,7 @@
                     WIDTH="1073"
                     HEIGHT="43">
             <Shape><Polygon POINTS="96 1712 96 1714 1165 1716 1167 1710 1163 1673 390 1688 94 1677 96 1712"/></Shape>
-	    <String CONTENT="18. Feldblumen. 375"
+	    <String CONTENT="18. Feldblumen 375"
                     HPOS="94"
                     VPOS="1673"
                     WIDTH="1073"
@@ -322,7 +322,7 @@
                     WIDTH="1079"
                     HEIGHT="44">
             <Shape><Polygon POINTS="94 1821 94 1828 1171 1826 1171 1817 1167 1786 505 1799 412 1799 403 1788 399 1786 399 1784 397 1784 395 1784 394 1784 92 1788 94 1821"/></Shape>
-	    <String CONTENT="19. Kinderporträt. 350"
+	    <String CONTENT="19. Kinderporträt 350"
                     HPOS="92"
                     VPOS="1784"
                     WIDTH="1079"
