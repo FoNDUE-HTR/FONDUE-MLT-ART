@@ -25,23 +25,6 @@
         <TextBlock ID="eSc_dummyblock_">
           
           
-          <TextLine ID="eSc_line_589061b5"
-                    
-                    BASELINE="401 290 840 290" 
-                    HPOS="401"
-                    VPOS="242"
-                    WIDTH="439"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="827 249 809 248 790 246 772 246 765 244 437 242 420 246 401 248 401 290 401 299 840 299 840 290 839 285 827 249"/></Shape>
-	    <String CONTENT=" Paul Robinet, à Gersau."
-                    HPOS="401"
-                    VPOS="242"
-                    WIDTH="439"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_afd6902d"
                     
                     BASELINE="87 360 592 353 1061 355 1152 359" 
@@ -59,19 +42,19 @@
 
           
           
-          <TextLine ID="eSc_line_e820bf99"
+          <TextLine ID="eSc_line_589061b5"
                     
-                    BASELINE="363 425 876 425" 
-                    HPOS="363"
-                    VPOS="377"
-                    WIDTH="513"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="363 425 363 436 416 438 427 449 427 451 429 451 431 451 433 453 498 453 498 451 500 451 501 451 501 449 511 442 535 451 537 451 539 451 540 451 542 451 542 449 555 438 618 451 620 453 703 453 703 451 705 451 707 451 724 438 765 451 766 451 768 451 876 436 876 425 876 388 785 388 785 386 776 379 776 377 774 377 772 377 770 377 363 384 363 425"/></Shape>
-	    <String CONTENT="Marie Hurter, à Schaffhouse."
-                    HPOS="363"
-                    VPOS="377"
-                    WIDTH="513"
-                    HEIGHT="76"></String>
+                    BASELINE="401 290 840 290" 
+                    HPOS="401"
+                    VPOS="242"
+                    WIDTH="439"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="827 249 809 248 790 246 772 246 765 244 437 242 420 246 401 248 401 290 401 299 840 299 840 290 839 285 827 249"/></Shape>
+	    <String CONTENT=" Paul Robinet, à Gersau."
+                    HPOS="401"
+                    VPOS="242"
+                    WIDTH="439"
+                    HEIGHT="57"></String>
           </TextLine>
 
           
@@ -93,19 +76,19 @@
 
           
           
-          <TextLine ID="eSc_line_ba4758a4"
+          <TextLine ID="eSc_line_e820bf99"
                     
-                    BASELINE="390 551 853 551" 
-                    HPOS="390"
-                    VPOS="501"
-                    WIDTH="463"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="390 551 390 566 853 566 853 551 853 510 831 501 829 501 827 501 702 510 663 501 661 501 659 501 657 501 620 512 390 512 390 551"/></Shape>
-	    <String CONTENT="Lorenz Rüdisühli, à Bâle."
-                    HPOS="390"
-                    VPOS="501"
-                    WIDTH="463"
-                    HEIGHT="65"></String>
+                    BASELINE="363 425 876 425" 
+                    HPOS="363"
+                    VPOS="377"
+                    WIDTH="513"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="363 425 363 436 416 438 427 449 427 451 429 451 431 451 433 453 498 453 498 451 500 451 501 451 501 449 511 442 535 451 537 451 539 451 540 451 542 451 542 449 555 438 618 451 620 453 703 453 703 451 705 451 707 451 724 438 765 451 766 451 768 451 876 436 876 425 876 388 785 388 785 386 776 379 776 377 774 377 772 377 770 377 363 384 363 425"/></Shape>
+	    <String CONTENT="Marie Hurter, à Schaffhouse."
+                    HPOS="363"
+                    VPOS="377"
+                    WIDTH="513"
+                    HEIGHT="76"></String>
           </TextLine>
 
           
@@ -127,19 +110,19 @@
 
           
           
-          <TextLine ID="eSc_line_701e9026"
+          <TextLine ID="eSc_line_ba4758a4"
                     
-                    BASELINE="420 675 827 679" 
-                    HPOS="418"
-                    VPOS="636"
-                    WIDTH="409"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="420 675 418 692 826 692 827 679 827 640 420 636 420 675"/></Shape>
-	    <String CONTENT="Jacob Bœhme, à Bâle."
-                    HPOS="418"
-                    VPOS="636"
-                    WIDTH="409"
-                    HEIGHT="56"></String>
+                    BASELINE="390 551 853 551" 
+                    HPOS="390"
+                    VPOS="501"
+                    WIDTH="463"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="390 551 390 566 853 566 853 551 853 510 831 501 829 501 827 501 702 510 663 501 661 501 659 501 657 501 620 512 390 512 390 551"/></Shape>
+	    <String CONTENT="Lorenz Rüdisühli, à Bâle."
+                    HPOS="390"
+                    VPOS="501"
+                    WIDTH="463"
+                    HEIGHT="65"></String>
           </TextLine>
 
           
@@ -161,19 +144,19 @@
 
           
           
-          <TextLine ID="eSc_line_adbe2310"
+          <TextLine ID="eSc_line_701e9026"
                     
-                    BASELINE="398 803 852 799" 
-                    HPOS="396"
-                    VPOS="753"
-                    WIDTH="456"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="398 803 398 810 622 821 624 821 626 821 664 810 809 819 811 819 813 819 852 806 852 799 848 766 716 753 715 753 713 753 711 753 711 755 700 764 603 755 602 755 600 755 598 755 581 766 561 755 559 755 453 755 451 755 450 755 427 766 409 755 407 755 405 755 403 755 401 755 400 755 400 756 398 756 396 756 398 803"/></Shape>
-	    <String CONTENT="J. Chelminsky, à Munich."
-                    HPOS="396"
-                    VPOS="753"
-                    WIDTH="456"
-                    HEIGHT="68"></String>
+                    BASELINE="420 675 827 679" 
+                    HPOS="418"
+                    VPOS="636"
+                    WIDTH="409"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="420 675 418 692 826 692 827 679 827 640 420 636 420 675"/></Shape>
+	    <String CONTENT="Jacob Bœhme, à Bâle."
+                    HPOS="418"
+                    VPOS="636"
+                    WIDTH="409"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
@@ -195,19 +178,19 @@
 
           
           
-          <TextLine ID="eSc_line_16cf0624"
+          <TextLine ID="eSc_line_adbe2310"
                     
-                    BASELINE="344 940 898 934" 
-                    HPOS="342"
-                    VPOS="888"
-                    WIDTH="556"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="892 897 835 888 833 888 740 897 729 888 727 888 726 888 724 888 722 888 720 888 707 899 683 890 681 890 679 890 677 890 642 899 616 890 614 890 613 890 498 892 496 892 494 892 481 901 351 892 350 892 348 892 346 892 346 893 344 893 342 893 344 940 344 945 898 940 898 934 894 901 892 897"/></Shape>
-	    <String CONTENT="Gustave Kampmann, à Munich."
-                    HPOS="342"
-                    VPOS="888"
-                    WIDTH="556"
-                    HEIGHT="57"></String>
+                    BASELINE="398 803 852 799" 
+                    HPOS="396"
+                    VPOS="753"
+                    WIDTH="456"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="398 803 398 810 622 821 624 821 626 821 664 810 809 819 811 819 813 819 852 806 852 799 848 766 716 753 715 753 713 753 711 753 711 755 700 764 603 755 602 755 600 755 598 755 581 766 561 755 559 755 453 755 451 755 450 755 427 766 409 755 407 755 405 755 403 755 401 755 400 755 400 756 398 756 396 756 398 803"/></Shape>
+	    <String CONTENT="J. Chelminsky, à Munich."
+                    HPOS="396"
+                    VPOS="753"
+                    WIDTH="456"
+                    HEIGHT="68"></String>
           </TextLine>
 
           
@@ -225,6 +208,23 @@
                     VPOS="949"
                     WIDTH="1061"
                     HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16cf0624"
+                    
+                    BASELINE="344 940 898 934" 
+                    HPOS="342"
+                    VPOS="888"
+                    WIDTH="556"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="892 897 835 888 833 888 740 897 729 888 727 888 726 888 724 888 722 888 720 888 707 899 683 890 681 890 679 890 677 890 642 899 616 890 614 890 613 890 498 892 496 892 494 892 481 901 351 892 350 892 348 892 346 892 346 893 344 893 342 893 344 940 344 945 898 940 898 934 894 901 892 897"/></Shape>
+	    <String CONTENT="Gustave Kampmann, à Munich."
+                    HPOS="342"
+                    VPOS="888"
+                    WIDTH="556"
+                    HEIGHT="57"></String>
           </TextLine>
 
           
@@ -480,6 +480,23 @@
                     VPOS="1889"
                     WIDTH="1057"
                     HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c21b4d6"
+                    
+                    BASELINE="296 1971 958 1969" 
+                    HPOS="292"
+                    VPOS="1926"
+                    WIDTH="665"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="294 1969 294 1980 955 1976 957 1967 953 1935 522 1926 520 1926 292 1935 294 1969"/></Shape>
+	    <String CONTENT="(Acheté à Zurich pour le tirage au sort.)"
+                    HPOS="292"
+                    VPOS="1926"
+                    WIDTH="665"
+                    HEIGHT="54"></String>
           </TextLine>
 
           

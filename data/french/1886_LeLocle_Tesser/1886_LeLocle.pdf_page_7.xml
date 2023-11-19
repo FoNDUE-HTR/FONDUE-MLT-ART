@@ -424,7 +424,7 @@
                     WIDTH="488"
                     HEIGHT="56">
             <Shape><Polygon POINTS="577 1704 577 1719 1063 1722 1065 1704 1065 1666 577 1666 577 1704"/></Shape>
-	    <String CONTENT=" Gustave Castan, à Genève."
+	    <String CONTENT="Gustave Castan, à Genève."
                     HPOS="577"
                     VPOS="1666"
                     WIDTH="488"
@@ -446,6 +446,23 @@
                     VPOS="1719"
                     WIDTH="1077"
                     HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f00c28ee"
+                    
+                    BASELINE="678 1798 982 1798" 
+                    HPOS="677"
+                    VPOS="1764"
+                    WIDTH="303"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="677 1796 677 1807 980 1803 980 1796 980 1764 677 1764 677 1796"/></Shape>
+	    <String CONTENT="(Vendu à Zürich.)"
+                    HPOS="677"
+                    VPOS="1764"
+                    WIDTH="303"
+                    HEIGHT="43"></String>
           </TextLine>
 
           
@@ -480,6 +497,23 @@
                     VPOS="1880"
                     WIDTH="461"
                     HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a9a320d"
+                    
+                    BASELINE="466 1972 1177 1972" 
+                    HPOS="464"
+                    VPOS="1931"
+                    WIDTH="712"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="464 1971 464 1976 1174 1978 1176 1971 1176 1931 464 1931 464 1971"/></Shape>
+	    <String CONTENT="(Acheté à Lausanne pour le tirage au sort.)"
+                    HPOS="464"
+                    VPOS="1931"
+                    WIDTH="712"
+                    HEIGHT="47"></String>
           </TextLine>
 
           

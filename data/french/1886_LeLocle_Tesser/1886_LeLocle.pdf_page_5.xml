@@ -25,23 +25,6 @@
         <TextBlock ID="eSc_dummyblock_">
           
           
-          <TextLine ID="eSc_line_80a991a5"
-                    
-                    BASELINE="593 279 1027 282" 
-                    HPOS="591"
-                    VPOS="239"
-                    WIDTH="436"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="1021 251 1003 251 984 251 965 249 947 249 928 249 910 247 891 247 872 247 854 245 835 245 817 245 798 243 779 243 761 243 750 241 593 239 593 279 591 284 811 297 813 297 1025 288 1027 282 1025 251 1021 251"/></Shape>
-	    <String CONTENT="Wymann-Mory, à Berne."
-                    HPOS="591"
-                    VPOS="239"
-                    WIDTH="436"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_00b63abf"
                     
                     BASELINE="275 342 1363 340" 
@@ -59,19 +42,19 @@
 
           
           
-          <TextLine ID="eSc_line_8bb1cce6"
+          <TextLine ID="eSc_line_80a991a5"
                     
-                    BASELINE="578 409 1044 405" 
-                    HPOS="576"
-                    VPOS="358"
-                    WIDTH="468"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="578 409 578 414 803 424 805 424 807 424 809 424 809 422 818 414 1001 422 1003 422 1004 422 1044 411 1044 405 1042 370 1019 358 1018 358 1016 358 1014 358 993 368 880 358 878 358 876 358 856 368 837 358 835 358 833 358 831 358 805 370 588 360 586 360 584 360 582 360 582 362 580 362 576 364 578 409"/></Shape>
-	    <String CONTENT="Anna Peters, à Stuttgart."
-                    HPOS="576"
-                    VPOS="358"
-                    WIDTH="468"
-                    HEIGHT="66"></String>
+                    BASELINE="593 279 1027 282" 
+                    HPOS="591"
+                    VPOS="239"
+                    WIDTH="436"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1021 251 1003 251 984 251 965 249 947 249 928 249 910 247 891 247 872 247 854 245 835 245 817 245 798 243 779 243 761 243 750 241 593 239 593 279 591 284 811 297 813 297 1025 288 1027 282 1025 251 1021 251"/></Shape>
+	    <String CONTENT="Wymann-Mory, à Berne."
+                    HPOS="591"
+                    VPOS="239"
+                    WIDTH="436"
+                    HEIGHT="58"></String>
           </TextLine>
 
           
@@ -93,19 +76,19 @@
 
           
           
-          <TextLine ID="eSc_line_9d5c79b6"
+          <TextLine ID="eSc_line_8bb1cce6"
                     
-                    BASELINE="588 535 1044 535" 
-                    HPOS="588"
-                    VPOS="487"
-                    WIDTH="456"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="588 535 588 544 1044 544 1044 535 1044 496 1006 487 1004 487 1003 487 945 496 943 496 928 487 926 487 924 487 923 487 921 487 902 496 588 494 588 535"/></Shape>
-	    <String CONTENT="Emile Beurmann, à Bâle."
-                    HPOS="588"
-                    VPOS="487"
-                    WIDTH="456"
-                    HEIGHT="57"></String>
+                    BASELINE="578 409 1044 405" 
+                    HPOS="576"
+                    VPOS="358"
+                    WIDTH="468"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="578 409 578 414 803 424 805 424 807 424 809 424 809 422 818 414 1001 422 1003 422 1004 422 1044 411 1044 405 1042 370 1019 358 1018 358 1016 358 1014 358 993 368 880 358 878 358 876 358 856 368 837 358 835 358 833 358 831 358 805 370 588 360 586 360 584 360 582 360 582 362 580 362 576 364 578 409"/></Shape>
+	    <String CONTENT="Anna Peters, à Stuttgart."
+                    HPOS="576"
+                    VPOS="358"
+                    WIDTH="468"
+                    HEIGHT="66"></String>
           </TextLine>
 
           
@@ -127,6 +110,40 @@
 
           
           
+          <TextLine ID="eSc_line_9d5c79b6"
+                    
+                    BASELINE="588 535 1044 535" 
+                    HPOS="588"
+                    VPOS="487"
+                    WIDTH="456"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="588 535 588 544 1044 544 1044 535 1044 496 1006 487 1004 487 1003 487 945 496 943 496 928 487 926 487 924 487 923 487 921 487 902 496 588 494 588 535"/></Shape>
+	    <String CONTENT="Emile Beurmann, à Bâle."
+                    HPOS="588"
+                    VPOS="487"
+                    WIDTH="456"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f93ba6a2"
+                    
+                    BASELINE="275 729 783 733" 
+                    HPOS="271"
+                    VPOS="682"
+                    WIDTH="510"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="273 727 271 732 777 736 781 732 781 701 612 684 610 684 608 684 573 695 537 684 535 684 534 684 532 684 530 684 530 686 519 697 496 684 495 684 493 684 400 693 366 682 364 682 362 682 361 682 327 695 292 684 290 684 288 684 286 684 284 684 273 691 273 727"/></Shape>
+	    <String CONTENT="21 Incendie de village."
+                    HPOS="271"
+                    VPOS="682"
+                    WIDTH="510"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_0f7c1d7f"
                     
                     BASELINE="563 660 1068 660" 
@@ -144,18 +161,35 @@
 
           
           
-          <TextLine ID="eSc_line_f93ba6a2"
+          <TextLine ID="eSc_line_3fa11d0a"
                     
-                    BASELINE="275 729 783 733" 
+                    BASELINE="545 775 1079 777" 
+                    HPOS="541"
+                    VPOS="738"
+                    WIDTH="536"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="543 773 541 781 1075 781 1077 775 1075 740 543 738 543 773"/></Shape>
+	    <String CONTENT="(Acheté par la section de Bâle.)"
+                    HPOS="541"
+                    VPOS="738"
+                    WIDTH="536"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0eb6be1"
+                    
+                    BASELINE="275 915 904 921" 
                     HPOS="271"
-                    VPOS="682"
-                    WIDTH="510"
+                    VPOS="870"
+                    WIDTH="631"
                     HEIGHT="54">
-            <Shape><Polygon POINTS="273 727 271 732 777 736 781 732 781 701 612 684 610 684 608 684 573 695 537 684 535 684 534 684 532 684 530 684 530 686 519 697 496 684 495 684 493 684 400 693 366 682 364 682 362 682 361 682 327 695 292 684 290 684 288 684 286 684 284 684 273 691 273 727"/></Shape>
-	    <String CONTENT="21 Incendie de village."
+            <Shape><Polygon POINTS="273 913 271 918 898 924 902 920 900 887 839 887 839 885 831 876 830 876 830 874 828 874 826 874 824 874 563 879 519 870 517 870 515 870 495 881 493 881 467 870 465 870 463 870 273 877 273 913"/></Shape>
+	    <String CONTENT="22 Marais dans la Camargue."
                     HPOS="271"
-                    VPOS="682"
-                    WIDTH="510"
+                    VPOS="870"
+                    WIDTH="631"
                     HEIGHT="54"></String>
           </TextLine>
 
@@ -178,36 +212,19 @@
 
           
           
-          <TextLine ID="eSc_line_c0eb6be1"
+          <TextLine ID="eSc_line_8ed2183c"
                     
-                    BASELINE="275 915 904 921" 
-                    HPOS="271"
-                    VPOS="870"
-                    WIDTH="631"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="273 913 271 918 898 924 902 920 900 887 839 887 839 885 831 876 830 876 830 874 828 874 826 874 824 874 563 879 519 870 517 870 515 870 495 881 493 881 467 870 465 870 463 870 273 877 273 913"/></Shape>
-	    <String CONTENT="22 Marais dans la Camargue."
-                    HPOS="271"
-                    VPOS="870"
-                    WIDTH="631"
-                    HEIGHT="54"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_7372fa36"
-                    
-                    BASELINE="629 1034 995 1030" 
-                    HPOS="627"
-                    VPOS="983"
-                    WIDTH="368"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="982 995 917 985 915 985 913 985 893 995 880 983 878 983 876 983 874 983 872 983 870 983 856 995 740 985 738 985 736 985 735 985 735 987 723 996 645 985 645 987 627 991 629 1034 629 1052 993 1041 995 1030 993 1026 982 995"/></Shape>
-	    <String CONTENT="Elise Prehn, à Kiel."
-                    HPOS="627"
-                    VPOS="983"
-                    WIDTH="368"
-                    HEIGHT="69"></String>
+                    BASELINE="548 959 1084 964" 
+                    HPOS="545"
+                    VPOS="918"
+                    WIDTH="538"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="863 920 844 920 837 920 759 926 742 926 735 926 694 918 677 918 658 918 640 918 621 918 547 922 547 957 545 969 1081 969 1083 963 1083 928 1058 918 1057 918 969 918 967 918 965 918 964 918 964 920 956 928 939 918 937 918 936 918 934 918 917 928 915 928 911 928 874 920 863 920"/></Shape>
+	    <String CONTENT="(Acheté par la section de Bâle.)"
+                    HPOS="545"
+                    VPOS="918"
+                    WIDTH="538"
+                    HEIGHT="51"></String>
           </TextLine>
 
           
@@ -229,19 +246,36 @@
 
           
           
-          <TextLine ID="eSc_line_5f312e07"
+          <TextLine ID="eSc_line_7372fa36"
                     
-                    BASELINE="595 1195 1029 1195" 
-                    HPOS="595"
-                    VPOS="1149"
-                    WIDTH="434"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="1023 1179 1016 1156 1001 1149 999 1149 997 1149 595 1155 595 1195 595 1205 1029 1205 1029 1195 1025 1181 1023 1179"/></Shape>
-	    <String CONTENT="Conrad Grob, à Munich."
-                    HPOS="595"
-                    VPOS="1149"
-                    WIDTH="434"
-                    HEIGHT="56"></String>
+                    BASELINE="629 1034 995 1030" 
+                    HPOS="627"
+                    VPOS="983"
+                    WIDTH="368"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="982 995 917 985 915 985 913 985 893 995 880 983 878 983 876 983 874 983 872 983 870 983 856 995 740 985 738 985 736 985 735 985 735 987 723 996 645 985 645 987 627 991 629 1034 629 1052 993 1041 995 1030 993 1026 982 995"/></Shape>
+	    <String CONTENT="Elise Prehn, à Kiel."
+                    HPOS="627"
+                    VPOS="983"
+                    WIDTH="368"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0afe2ae"
+                    
+                    BASELINE="494 1130 1156 1127" 
+                    HPOS="491"
+                    VPOS="1086"
+                    WIDTH="664"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1142 1088 1124 1088 1105 1088 1086 1088 1068 1088 1049 1088 1031 1088 1012 1088 993 1088 975 1086 956 1086 937 1086 919 1086 900 1086 882 1086 863 1086 844 1086 826 1086 820 1086 813 1088 809 1089 491 1089 493 1129 493 1134 1153 1130 1155 1125 1152 1088 1142 1088"/></Shape>
+	    <String CONTENT="(Acheté à Aarau pour le tirage au sort.)"
+                    HPOS="491"
+                    VPOS="1086"
+                    WIDTH="664"
+                    HEIGHT="48"></String>
           </TextLine>
 
           
@@ -263,19 +297,19 @@
 
           
           
-          <TextLine ID="eSc_line_6203f68e"
+          <TextLine ID="eSc_line_5f312e07"
                     
-                    BASELINE="604 1337 1021 1341" 
-                    HPOS="602"
-                    VPOS="1290"
-                    WIDTH="419"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="604 1337 602 1344 1018 1348 1021 1341 1021 1303 993 1292 991 1292 889 1292 887 1292 885 1292 884 1292 869 1303 852 1292 850 1292 848 1292 846 1292 844 1292 815 1303 798 1290 796 1290 794 1290 792 1290 653 1302 619 1290 617 1290 616 1290 614 1290 612 1290 604 1296 604 1337"/></Shape>
-	    <String CONTENT="Anna Barth, à Munich."
-                    HPOS="602"
-                    VPOS="1290"
-                    WIDTH="419"
-                    HEIGHT="58"></String>
+                    BASELINE="595 1195 1029 1195" 
+                    HPOS="595"
+                    VPOS="1149"
+                    WIDTH="434"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1023 1179 1016 1156 1001 1149 999 1149 997 1149 595 1155 595 1195 595 1205 1029 1205 1029 1195 1025 1181 1023 1179"/></Shape>
+	    <String CONTENT="Conrad Grob, à Munich."
+                    HPOS="595"
+                    VPOS="1149"
+                    WIDTH="434"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
@@ -297,19 +331,19 @@
 
           
           
-          <TextLine ID="eSc_line_d2af8c7c"
+          <TextLine ID="eSc_line_6203f68e"
                     
-                    BASELINE="576 1473 1045 1473" 
-                    HPOS="576"
-                    VPOS="1426"
-                    WIDTH="469"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="1042 1437 1040 1435 988 1426 986 1426 984 1426 952 1435 934 1426 932 1426 930 1426 820 1435 736 1426 735 1426 733 1426 696 1435 686 1428 686 1426 684 1426 683 1426 589 1426 588 1426 586 1426 584 1426 576 1432 576 1473 576 1482 1045 1482 1045 1473 1045 1437 1042 1435 1042 1437"/></Shape>
-	    <String CONTENT="Adolphe Potter, à Genève."
-                    HPOS="576"
-                    VPOS="1426"
-                    WIDTH="469"
-                    HEIGHT="56"></String>
+                    BASELINE="604 1337 1021 1341" 
+                    HPOS="602"
+                    VPOS="1290"
+                    WIDTH="419"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="604 1337 602 1344 1018 1348 1021 1341 1021 1303 993 1292 991 1292 889 1292 887 1292 885 1292 884 1292 869 1303 852 1292 850 1292 848 1292 846 1292 844 1292 815 1303 798 1290 796 1290 794 1290 792 1290 653 1302 619 1290 617 1290 616 1290 614 1290 612 1290 604 1296 604 1337"/></Shape>
+	    <String CONTENT="Anna Barth, à Munich."
+                    HPOS="602"
+                    VPOS="1290"
+                    WIDTH="419"
+                    HEIGHT="58"></String>
           </TextLine>
 
           
@@ -327,6 +361,23 @@
                     VPOS="1493"
                     WIDTH="1093"
                     HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2af8c7c"
+                    
+                    BASELINE="576 1473 1045 1473" 
+                    HPOS="576"
+                    VPOS="1426"
+                    WIDTH="469"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1042 1437 1040 1435 988 1426 986 1426 984 1426 952 1435 934 1426 932 1426 930 1426 820 1435 736 1426 735 1426 733 1426 696 1435 686 1428 686 1426 684 1426 683 1426 589 1426 588 1426 586 1426 584 1426 576 1432 576 1473 576 1482 1045 1482 1045 1473 1045 1437 1042 1435 1042 1437"/></Shape>
+	    <String CONTENT="Adolphe Potter, à Genève."
+                    HPOS="576"
+                    VPOS="1426"
+                    WIDTH="469"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
@@ -365,23 +416,6 @@
 
           
           
-          <TextLine ID="eSc_line_b67f5d36"
-                    
-                    BASELINE="591 1735 1029 1739" 
-                    HPOS="589"
-                    VPOS="1688"
-                    WIDTH="440"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="591 1735 589 1740 1025 1744 1029 1739 1029 1700 1008 1690 1006 1690 1004 1690 923 1700 913 1700 902 1700 835 1690 833 1690 831 1690 817 1698 815 1700 813 1698 807 1690 805 1690 805 1688 803 1688 802 1688 800 1688 798 1688 781 1696 779 1698 772 1696 733 1688 731 1688 729 1688 703 1696 692 1698 683 1694 664 1688 662 1688 660 1688 658 1688 656 1688 649 1694 642 1698 591 1694 591 1735"/></Shape>
-	    <String CONTENT="H. Lewis, à Düsseldorf."
-                    HPOS="589"
-                    VPOS="1688"
-                    WIDTH="440"
-                    HEIGHT="56"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_68c739f0"
                     
                     BASELINE="273 1776 1333 1784" 
@@ -395,6 +429,23 @@
                     VPOS="1737"
                     WIDTH="1063"
                     HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b67f5d36"
+                    
+                    BASELINE="591 1735 1029 1739" 
+                    HPOS="589"
+                    VPOS="1688"
+                    WIDTH="440"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="591 1735 589 1740 1025 1744 1029 1739 1029 1700 1008 1690 1006 1690 1004 1690 923 1700 913 1700 902 1700 835 1690 833 1690 831 1690 817 1698 815 1700 813 1698 807 1690 805 1690 805 1688 803 1688 802 1688 800 1688 798 1688 781 1696 779 1698 772 1696 733 1688 731 1688 729 1688 703 1696 692 1698 683 1694 664 1688 662 1688 660 1688 658 1688 656 1688 649 1694 642 1698 591 1694 591 1735"/></Shape>
+	    <String CONTENT="H. Lewis, à Düsseldorf."
+                    HPOS="589"
+                    VPOS="1688"
+                    WIDTH="440"
+                    HEIGHT="56"></String>
           </TextLine>
 
           

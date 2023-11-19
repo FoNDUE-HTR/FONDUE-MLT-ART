@@ -178,6 +178,23 @@
 
           
           
+          <TextLine ID="eSc_line_e4b504ea"
+                    
+                    BASELINE="476 804 1194 807" 
+                    HPOS="472"
+                    VPOS="764"
+                    WIDTH="720"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="474 803 472 814 833 822 835 822 837 822 854 812 856 812 857 812 882 822 884 822 886 822 887 822 889 822 899 812 900 812 904 812 947 822 949 822 951 822 977 812 979 812 1005 822 1007 822 1009 822 1011 822 1041 812 1043 812 1044 812 1086 822 1087 822 1089 822 1091 822 1091 820 1101 812 1190 812 1192 805 1190 769 474 764 474 803"/></Shape>
+	    <String CONTENT="(Acheté à Lausanne pour le tirage au sort.)"
+                    HPOS="472"
+                    VPOS="764"
+                    WIDTH="720"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_b7d06f45"
                     
                     BASELINE="553 866 1091 861" 
@@ -365,19 +382,36 @@
 
           
           
-          <TextLine ID="eSc_line_87694ee7"
+          <TextLine ID="eSc_line_aabb644f"
                     
-                    BASELINE="303 1478 1262 1480 444 1514 1359 1517" 
+                    BASELINE="304 1479 1253 1474" 
                     HPOS="300"
-                    VPOS="1436"
-                    WIDTH="961"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="302 1477 300 1485 1259 1485 1261 1479 1259 1444 302 1436 302 1477"/></Shape>
-	    <String CONTENT="313 L’avalanche tombée le 6 mars, entre le Bouveret et St-Gingolph. 200"
+                    VPOS="1440"
+                    WIDTH="952"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="302 1477 302 1487 1250 1487 1252 1472 1248 1442 300 1440 302 1477"/></Shape>
+	    <String CONTENT="313 L’avalanche tombée le 6 mars, entre le Bouve¬"
                     HPOS="300"
-                    VPOS="1436"
-                    WIDTH="961"
-                    HEIGHT="49"></String>
+                    VPOS="1440"
+                    WIDTH="952"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24067afd"
+                    
+                    BASELINE="457 1517 1356 1517" 
+                    HPOS="456"
+                    VPOS="1479"
+                    WIDTH="899"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="456 1515 456 1526 1355 1520 1355 1515 1355 1481 1293 1479 1291 1479 1289 1479 1287 1479 1287 1481 1276 1490 456 1483 456 1515"/></Shape>
+	    <String CONTENT="ret et St-Gingolph. 200"
+                    HPOS="456"
+                    VPOS="1479"
+                    WIDTH="899"
+                    HEIGHT="47"></String>
           </TextLine>
 
           
@@ -407,7 +441,7 @@
                     WIDTH="579"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1112 1582 829 1573 828 1573 777 1582 715 1573 714 1573 536 1582 536 1621 536 1632 1115 1632 1115 1621 1115 1604 1112 1582"/></Shape>
-	    <String CONTENT=" Gustave Vollenweider, à Berne."
+	    <String CONTENT="Gustave Vollenweider, à Berne."
                     HPOS="536"
                     VPOS="1573"
                     WIDTH="579"
@@ -492,7 +526,7 @@
                     WIDTH="563"
                     HEIGHT="47">
             <Shape><Polygon POINTS="545 1858 545 1870 1108 1870 1108 1858 1108 1823 545 1823 545 1858"/></Shape>
-	    <String CONTENT=" Mlle Juliette Hebert, à Genève."
+	    <String CONTENT="Mlle Juliette Hebert, à Genève."
                     HPOS="545"
                     VPOS="1823"
                     WIDTH="563"
@@ -514,6 +548,23 @@
                     VPOS="1870"
                     WIDTH="706"
                     HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ab53fa6"
+                    
+                    BASELINE="559 1963 815 1963 1114 1963" 
+                    HPOS="558"
+                    VPOS="1926"
+                    WIDTH="554"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="558 1961 558 1972 1110 1974 1112 1961 1112 1929 558 1926 558 1961"/></Shape>
+	    <String CONTENT="(A vendre, s&#39;adresser au Comité.)"
+                    HPOS="558"
+                    VPOS="1926"
+                    WIDTH="554"
+                    HEIGHT="48"></String>
           </TextLine>
 
           

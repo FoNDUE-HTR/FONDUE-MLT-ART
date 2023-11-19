@@ -178,19 +178,36 @@
 
           
           
-          <TextLine ID="eSc_line_effd713c"
+          <TextLine ID="eSc_line_d74c34c6"
                     
-                    BASELINE="274 689 1225 689 416 727 1339 724" 
-                    HPOS="273"
+                    BASELINE="281 687 1222 687" 
+                    HPOS="280"
                     VPOS="645"
-                    WIDTH="950"
+                    WIDTH="941"
                     HEIGHT="50">
-            <Shape><Polygon POINTS="1165 645 1025 654 1023 654 1019 654 901 645 900 645 823 654 819 654 817 654 782 645 780 645 778 645 774 645 755 654 754 654 748 654 688 647 684 647 666 647 647 647 628 647 609 647 591 647 273 652 273 688 273 695 1223 695 1223 688 1223 656 1167 645 1165 645"/></Shape>
-	    <String CONTENT="353 La lettre. Officiers de voltigeurs neuchâtelois (1840). 600"
-                    HPOS="273"
+            <Shape><Polygon POINTS="1165 645 1044 654 1023 654 1001 652 901 645 900 645 845 652 819 654 804 650 782 645 780 645 778 645 776 645 763 650 754 654 718 650 688 647 673 647 654 647 636 647 617 647 598 647 581 647 578 648 572 654 280 647 280 686 280 695 1221 691 1221 686 1221 656 1167 645 1165 645"/></Shape>
+	    <String CONTENT="353 La lettre. Officiers de voltigeurs neuchâte"
+                    HPOS="280"
                     VPOS="645"
-                    WIDTH="950"
+                    WIDTH="941"
                     HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5261cdc"
+                    
+                    BASELINE="417 726 805 725 808 725 1337 724" 
+                    HPOS="413"
+                    VPOS="690"
+                    WIDTH="922"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="415 725 415 734 1334 729 1335 723 1334 695 413 690 415 725"/></Shape>
+	    <String CONTENT="lois (1840). 600"
+                    HPOS="413"
+                    VPOS="690"
+                    WIDTH="922"
+                    HEIGHT="44"></String>
           </TextLine>
 
           

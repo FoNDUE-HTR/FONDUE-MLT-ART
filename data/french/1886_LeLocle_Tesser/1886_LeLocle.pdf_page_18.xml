@@ -195,19 +195,36 @@
 
           
           
-          <TextLine ID="eSc_line_f8548d7d"
+          <TextLine ID="eSc_line_4f10f211"
                     
-                    BASELINE="49 765 936 774 189 807 1117 812" 
-                    HPOS="46"
+                    BASELINE="55 769 930 771" 
+                    HPOS="52"
                     VPOS="734"
-                    WIDTH="889"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="48 764 46 773 462 786 464 786 933 779 935 773 935 743 48 734 48 764"/></Shape>
-	    <String CONTENT="379 Vérigny. Etalon-percheron des harras de Besançon. 250"
-                    HPOS="46"
+                    WIDTH="876"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="54 768 52 777 926 777 928 770 926 738 54 734 54 768"/></Shape>
+	    <String CONTENT="379 Vérigny. Etalon-percheron des harras de"
+                    HPOS="52"
                     VPOS="734"
-                    WIDTH="889"
-                    HEIGHT="52"></String>
+                    WIDTH="876"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d6a07a8"
+                    
+                    BASELINE="197 808 1109 810" 
+                    HPOS="194"
+                    VPOS="773"
+                    WIDTH="913"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="196 807 194 816 1105 813 1107 809 1105 775 366 783 196 773 196 807"/></Shape>
+	    <String CONTENT="Besançon. 250"
+                    HPOS="194"
+                    VPOS="773"
+                    WIDTH="913"
+                    HEIGHT="43"></String>
           </TextLine>
 
           

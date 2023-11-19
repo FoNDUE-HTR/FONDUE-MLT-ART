@@ -144,6 +144,23 @@
 
           
           
+          <TextLine ID="eSc_line_f0f98bec"
+                    
+                    BASELINE="509 641 1172 647" 
+                    HPOS="506"
+                    VPOS="605"
+                    WIDTH="664"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="508 639 506 652 1168 652 1170 645 1168 613 508 605 508 639"/></Shape>
+	    <String CONTENT="(Acheté à Zurich pour le tirage au sort.)"
+                    HPOS="506"
+                    VPOS="605"
+                    WIDTH="664"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_1fac2b13"
                     
                     BASELINE="607 707 1060 707" 

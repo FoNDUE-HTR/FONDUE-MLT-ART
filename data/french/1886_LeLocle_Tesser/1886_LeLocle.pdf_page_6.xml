@@ -42,19 +42,36 @@
 
           
           
-          <TextLine ID="eSc_line_4ca129c2"
+          <TextLine ID="eSc_line_ad15e7c4"
                     
-                    BASELINE="108 344 1036 342 198 379 1141 382" 
-                    HPOS="105"
-                    VPOS="301"
-                    WIDTH="930"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="107 342 107 354 1034 352 1035 340 1032 308 105 301 107 342"/></Shape>
-	    <String CONTENT="36 Une échappée sur le cap Orso dans le golfe de Salerne. 350"
-                    HPOS="105"
-                    VPOS="301"
-                    WIDTH="930"
-                    HEIGHT="53"></String>
+                    BASELINE="93 347 1037 341" 
+                    HPOS="90"
+                    VPOS="305"
+                    WIDTH="945"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="92 346 92 354 1034 354 1035 340 1032 305 90 305 92 346"/></Shape>
+	    <String CONTENT="36 Une échappée sur le cap Orso dans le golfe de"
+                    HPOS="90"
+                    VPOS="305"
+                    WIDTH="945"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7d0a1aa"
+                    
+                    BASELINE="212 378 1138 381" 
+                    HPOS="212"
+                    VPOS="378"
+                    WIDTH="926"
+                    HEIGHT="3">
+            
+	    <String CONTENT="Salerne. 350"
+                    HPOS="212"
+                    VPOS="378"
+                    WIDTH="926"
+                    HEIGHT="3"></String>
           </TextLine>
 
           
@@ -93,19 +110,36 @@
 
           
           
-          <TextLine ID="eSc_line_41142480"
+          <TextLine ID="eSc_line_7c7444b8"
                     
-                    BASELINE="90 549 1034 542 209 591 1156 580" 
-                    HPOS="88"
-                    VPOS="499"
-                    WIDTH="946"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="90 559 1032 551 1034 542 1030 508 802 499 800 499 553 510 105 504 103 504 101 504 99 504 88 510 90 549"/></Shape>
-	    <String CONTENT="45 Matinée de printemps dans la vallée du Rhône près de Bex. 1000"
-                    HPOS="88"
-                    VPOS="499"
-                    WIDTH="946"
-                    HEIGHT="60"></String>
+                    BASELINE="103 550 1032 548" 
+                    HPOS="99"
+                    VPOS="500"
+                    WIDTH="931"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="101 549 101 559 1028 551 1030 546 1026 512 764 500 762 500 711 510 693 500 691 500 689 500 621 510 597 500 595 500 593 500 591 500 559 512 386 502 384 502 316 512 284 502 282 502 280 502 163 512 113 504 111 504 109 504 107 504 99 508 101 549"/></Shape>
+	    <String CONTENT="45 Matinée de printemps dans la vallée du Rhône"
+                    HPOS="99"
+                    VPOS="500"
+                    WIDTH="931"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6bde9bc"
+                    
+                    BASELINE="217 585 1141 582" 
+                    HPOS="214"
+                    VPOS="548"
+                    WIDTH="925"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="216 583 216 595 1137 591 1139 581 1135 548 1060 548 1058 548 1056 548 1054 548 1054 549 1045 557 214 553 216 583"/></Shape>
+	    <String CONTENT="près de Bex. 1000"
+                    HPOS="214"
+                    VPOS="548"
+                    WIDTH="925"
+                    HEIGHT="47"></String>
           </TextLine>
 
           
@@ -514,6 +548,23 @@
                     VPOS="1875"
                     WIDTH="782"
                     HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b81170b"
+                    
+                    BASELINE="317 1968 934 1968" 
+                    HPOS="316"
+                    VPOS="1930"
+                    WIDTH="616"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="316 1966 316 1979 932 1973 932 1966 932 1934 316 1930 316 1966"/></Shape>
+	    <String CONTENT="(Acheté à Bâle pour le tirage au sort."
+                    HPOS="316"
+                    VPOS="1930"
+                    WIDTH="616"
+                    HEIGHT="49"></String>
           </TextLine>
 
           

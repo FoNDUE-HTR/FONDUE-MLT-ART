@@ -339,7 +339,7 @@
                     WIDTH="620"
                     HEIGHT="56">
             <Shape><Polygon POINTS="505 1272 505 1279 1124 1281 1125 1272 1125 1236 765 1225 763 1225 761 1225 738 1234 729 1225 727 1225 725 1225 723 1225 721 1225 686 1234 610 1225 609 1225 607 1225 605 1225 592 1234 578 1225 577 1225 575 1225 573 1225 571 1225 569 1225 554 1234 522 1225 520 1225 518 1225 516 1225 515 1225 505 1230 505 1272"/></Shape>
-	    <String CONTENT=" Carl Spitz, à Fribourg en Brisgau."
+	    <String CONTENT="Carl Spitz, à Fribourg en Brisgau."
                     HPOS="505"
                     VPOS="1225"
                     WIDTH="620"
@@ -535,6 +535,23 @@
 
           
           
+          <TextLine ID="eSc_line_1e858d0b"
+                    
+                    BASELINE="487 1903 1148 1911" 
+                    HPOS="484"
+                    VPOS="1867"
+                    WIDTH="662"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="486 1901 484 1907 1142 1912 1146 1909 1144 1873 486 1867 486 1901"/></Shape>
+	    <String CONTENT="(Acheté à Aarau pour le tirage au sort.)"
+                    HPOS="484"
+                    VPOS="1867"
+                    WIDTH="662"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_7d7baca3"
                     
                     BASELINE="289 1941 778 1939" 
@@ -548,6 +565,23 @@
                     VPOS="1897"
                     WIDTH="491"
                     HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5779367a"
+                    
+                    BASELINE="487 1978 1148 1981" 
+                    HPOS="487"
+                    VPOS="1978"
+                    WIDTH="661"
+                    HEIGHT="3">
+            
+	    <String CONTENT="(Acheté à Zurich pour le tirage au sort.)"
+                    HPOS="487"
+                    VPOS="1978"
+                    WIDTH="661"
+                    HEIGHT="3"></String>
           </TextLine>
 
           

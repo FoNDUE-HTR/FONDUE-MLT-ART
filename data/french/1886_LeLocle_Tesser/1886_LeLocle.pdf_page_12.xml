@@ -161,19 +161,36 @@
 
           
           
-          <TextLine ID="eSc_line_6f92718a"
+          <TextLine ID="eSc_line_12197bc4"
                     
-                    BASELINE="62 710 999 710 193 750 1111 742" 
-                    HPOS="61"
+                    BASELINE="58 708 996 708" 
+                    HPOS="57"
                     VPOS="662"
-                    WIDTH="937"
+                    WIDTH="938"
                     HEIGHT="56">
-            <Shape><Polygon POINTS="61 718 998 714 998 709 998 675 875 664 874 664 786 673 777 673 775 673 749 662 747 662 598 662 596 662 594 662 592 662 577 672 575 673 557 672 473 662 471 662 413 672 406 672 404 672 385 662 383 662 382 662 380 662 361 670 354 673 61 670 61 709"/></Shape>
-	    <String CONTENT="193 Au bord du Lautersee en vue des montagnes du Wetterstein. 2200"
-                    HPOS="61"
+            <Shape><Polygon POINTS="57 707 57 718 995 714 995 707 995 675 875 664 874 664 779 673 777 673 749 662 747 662 594 662 592 662 590 662 588 662 575 673 574 673 570 673 473 662 471 662 469 662 441 672 383 662 382 662 380 662 355 673 354 673 57 673 57 707"/></Shape>
+	    <String CONTENT="193 Au bord du Lautersee en vue des montagnes"
+                    HPOS="57"
                     VPOS="662"
-                    WIDTH="937"
+                    WIDTH="938"
                     HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25b06628"
+                    
+                    BASELINE="202 747 1109 742" 
+                    HPOS="202"
+                    VPOS="742"
+                    WIDTH="907"
+                    HEIGHT="5">
+            
+	    <String CONTENT="du Wetterstein. 2200"
+                    HPOS="202"
+                    VPOS="742"
+                    WIDTH="907"
+                    HEIGHT="5"></String>
           </TextLine>
 
           
@@ -220,7 +237,7 @@
                     WIDTH="492"
                     HEIGHT="57">
             <Shape><Polygon POINTS="341 934 341 943 833 943 833 934 833 899 706 886 704 886 702 886 667 897 575 888 574 888 477 897 456 888 454 888 452 888 341 897 341 934"/></Shape>
-	    <String CONTENT="2 Christian Mali, à Munich."
+	    <String CONTENT="Christian Mali, à Munich."
                     HPOS="341"
                     VPOS="886"
                     WIDTH="492"
@@ -446,6 +463,23 @@
                     VPOS="1597"
                     WIDTH="898"
                     HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab7bfa6a"
+                    
+                    BASELINE="437 1686 739 1683" 
+                    HPOS="437"
+                    VPOS="1645"
+                    WIDTH="301"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="477 1647 458 1647 439 1647 439 1677 437 1692 736 1692 738 1682 736 1651 501 1645 495 1647"/></Shape>
+	    <String CONTENT="(Vendu à Zurich.)"
+                    HPOS="437"
+                    VPOS="1645"
+                    WIDTH="301"
+                    HEIGHT="47"></String>
           </TextLine>
 
           

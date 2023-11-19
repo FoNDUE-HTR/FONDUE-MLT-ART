@@ -246,6 +246,23 @@
 
           
           
+          <TextLine ID="eSc_line_5d1bdce0"
+                    
+                    BASELINE="485 1013 1112 1016" 
+                    HPOS="481"
+                    VPOS="971"
+                    WIDTH="629"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="596 971 577 971 558 971 540 971 521 971 502 971 483 971 483 1011 481 1020 1108 1020 1110 1015 1108 979 607 971 596 971"/></Shape>
+	    <String CONTENT="(Acheté à Bâle pour le tirage au sort.)"
+                    HPOS="481"
+                    VPOS="971"
+                    WIDTH="629"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_8d3b2a60"
                     
                     BASELINE="256 1047 658 1043 1248 1047 1321 1047" 
@@ -382,6 +399,23 @@
 
           
           
+          <TextLine ID="eSc_line_4a874ca1"
+                    
+                    BASELINE="792 1406 1203 1411" 
+                    HPOS="789"
+                    VPOS="1358"
+                    WIDTH="413"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="791 1405 789 1411 1198 1413 1202 1409 1202 1369 1140 1358 1138 1358 1070 1365 1042 1367 1034 1364 1023 1358 1021 1358 1019 1358 1017 1358 1015 1358 1010 1364 1004 1367 791 1358 791 1405"/></Shape>
+	    <String CONTENT="Ne sont pas à vendre."
+                    HPOS="789"
+                    VPOS="1358"
+                    WIDTH="413"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_205e2a51"
                     
                     BASELINE="258 1439 711 1439" 
@@ -514,6 +548,23 @@
                     VPOS="1767"
                     WIDTH="414"
                     HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7898135a"
+                    
+                    BASELINE="461 1859 1125 1859" 
+                    HPOS="460"
+                    VPOS="1820"
+                    WIDTH="663"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="460 1858 460 1865 1123 1865 1123 1858 1123 1820 460 1820 460 1858"/></Shape>
+	    <String CONTENT="(Acheté à Zurich pour le tirage au sort.)"
+                    HPOS="460"
+                    VPOS="1820"
+                    WIDTH="663"
+                    HEIGHT="45"></String>
           </TextLine>
 
           
