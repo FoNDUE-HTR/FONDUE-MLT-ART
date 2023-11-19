@@ -1,17 +1,53 @@
 authors:
-- name: Joyeux-Prunel
-  orcid: 0000-0003-1046-7002
-  roles:
-  - transcriber
-  - project-manager
-  - quality-control
-  surname: Béatrice
-- name: Gabay
-  orcid: 0000-0001-9094-4475
-  roles:
-  - quality-control
-  - support
-  surname: Simon
+  - name: Gabay
+    surname: Simon
+    orcid: 0000-0001-9094-4475
+    roles:
+    - transcriber
+    - project-manager
+    - quality-control
+  - name: Joyeux-Prunel
+    surname: Béatrice
+    orcid: 0000-0003-1046-7002
+    roles:
+    - transcriber
+  - name: Rizzello
+    surname: Martina
+    orcid: 0000-0003-0131-192X
+    roles:
+    - transcriber
+  - name: Berlincourt
+    surname: Valéry
+    orcid: 0000-0001-5739-8839
+    roles:
+    - transcriber
+  - name: Rizzi
+    surname: Elena Maria
+    orcid: 0000-0002-8542-7091
+    roles:
+    - transcriber
+  - name: Tesser
+    surname: Stefania
+    affiliation: Ca' Foscari University
+    orcid: 0000-0001-9553-1100
+    roles:
+    - transcriber
+  - name: Bukvic
+    surname: Victoria
+    roles:
+    - transcriber
+  - name: Diaz
+    surname: Jaime
+    roles:
+    - transcriber
+  - name: Aebi
+    surname: Guillaume
+    roles:
+    - transcriber
+  - name: Bickel
+    surname: Raoul
+    roles:
+    - transcriber
 characters:
   members:
   - e
