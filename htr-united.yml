@@ -85,7 +85,6 @@ characters:
   - x
   - j
   - ;
-  - '*'
   - X
   - œ
   - Q
@@ -95,13 +94,13 @@ characters:
   - ̧
   - ':'
   - "'"
+  - '*'
   - §
   - Y
   - '['
   - ']'
   - æ
   - '?'
-  -  
   - /
   - «
   - '&'
@@ -130,11 +129,11 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 101259
+- count: 101262
   metric: characters
 - count: 158
   metric: files
-- count: 4192
+- count: 4194
   metric: lines
 - count: 60
   metric: pages
