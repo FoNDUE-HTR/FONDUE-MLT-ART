@@ -94,7 +94,6 @@ characters:
   - ̧
   - ':'
   - "'"
-  - '*'
   - §
   - Y
   - '['
@@ -103,6 +102,7 @@ characters:
   - '?'
   - /
   - «
+  - –
   - '&'
   mode: NFD
 citation-file-link: https://raw.githubusercontent.com/FoNDUE-HTR/FONDUE-MLT-ART/main/CITATION.cff
@@ -129,7 +129,7 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 101262
+- count: 101254
   metric: characters
 - count: 158
   metric: files
