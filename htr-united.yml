@@ -67,20 +67,21 @@ characters:
   - E
   - H
   - C
+  - –
   - w
   - ̀
-  - '-'
   - J
   - T
-  - –
   - Z
   - ́
+  - '-'
   - N
   - I
   - —
   - q
   - O
   - U
+  -  
   - ̂
   - ’
   - x
@@ -108,7 +109,6 @@ characters:
   - '!'
   - „
   - “
-  -  
   - …
   - '&'
   mode: NFD
@@ -136,11 +136,11 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 141033
+- count: 141252
   metric: characters
 - count: 215
   metric: files
-- count: 5638
+- count: 5641
   metric: lines
 - count: 60
   metric: pages
