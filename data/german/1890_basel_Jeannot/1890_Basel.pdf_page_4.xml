@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1890_Basel.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1426"
+          HEIGHT="2221"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1426"
+                  HEIGHT="2221">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e1d52658"
+                    
+                    BASELINE="264 673 1038 673" 
+                    HPOS="264"
+                    VPOS="629"
+                    WIDTH="774"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1024 634 1005 634 987 634 968 632 950 632 935 632 818 638 744 629 742 629 740 629 711 638 640 631 635 631 616 631 601 638 575 631 561 631 542 631 507 638 451 632 450 632 431 632 412 632 398 632 388 638 381 634 375 634 357 634 338 634 327 634 301 638 294 634 283 634 264 634 264 636 264 673 264 682 1038 682 1038 673 1037 664 1024 634"/></Shape>
+	    <String CONTENT="Aerni, Franz, in Rom (von Aarburg)."
+                    HPOS="264"
+                    VPOS="629"
+                    WIDTH="774"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b15a1ca"
+                    
+                    BASELINE="170 747 611 744 981 744 1053 740 1079 742 1174 742" 
+                    HPOS="166"
+                    VPOS="705"
+                    WIDTH="1006"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="168 745 168 753 1170 753 1172 740 1170 705 1083 705 1081 705 1079 705 1077 705 1077 707 1068 716 166 716 168 745"/></Shape>
+	    <String CONTENT="1. Straßenmotiv in Gaeta (153) 1000"
+                    HPOS="166"
+                    VPOS="705"
+                    WIDTH="1006"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce6ae050"
+                    
+                    BASELINE="168 792 390 786 979 788 1160 787" 
+                    HPOS="164"
+                    VPOS="762"
+                    WIDTH="995"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="166 790 166 795 1157 790 1159 786 1155 762 164 762 166 790"/></Shape>
+	    <String CONTENT="2. Tiberufer (154) –"
+                    HPOS="164"
+                    VPOS="762"
+                    WIDTH="995"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4392495"
+                    
+                    BASELINE="316 836 981 831" 
+                    HPOS="314"
+                    VPOS="794"
+                    WIDTH="667"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="316 836 316 843 981 843 981 831 977 797 324 794 322 794 320 794 318 794 318 795 316 795 314 797 316 836"/></Shape>
+	    <String CONTENT="(In Aarau gekauft und zurückgezogen)"
+                    HPOS="314"
+                    VPOS="794"
+                    WIDTH="667"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ede4e3d"
+                    
+                    BASELINE="166 877 638 871 979 873 1055 869 1079 871 1175 873" 
+                    HPOS="162"
+                    VPOS="840"
+                    WIDTH="1012"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="164 875 164 882 1172 877 1174 871 1170 840 162 847 164 875"/></Shape>
+	    <String CONTENT="5. Sonnenaufgang am Meer (155) 1600"
+                    HPOS="162"
+                    VPOS="840"
+                    WIDTH="1012"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4072e7d0"
+                    
+                    BASELINE="166 921 592 918 977 918 1166 917" 
+                    HPOS="162"
+                    VPOS="880"
+                    WIDTH="1002"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="164 919 164 925 1163 921 1164 916 1163 892 1050 892 1035 880 1033 880 1031 880 1029 880 977 892 975 892 951 892 240 884 238 884 237 884 201 893 179 884 177 884 175 884 174 884 172 884 162 892 164 919"/></Shape>
+	    <String CONTENT="4. Aquäduct des Nero (156) –"
+                    HPOS="162"
+                    VPOS="880"
+                    WIDTH="1002"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f06afe00"
+                    
+                    BASELINE="450 982 848 982" 
+                    HPOS="450"
+                    VPOS="938"
+                    WIDTH="398"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="838 947 705 938 703 938 701 938 700 938 700 940 690 949 590 949 570 938 568 938 566 938 522 947 466 938 464 938 462 938 461 938 450 945 450 982 450 997 848 992 848 982 846 962 838 947"/></Shape>
+	    <String CONTENT="Assenbaum, Fanny."
+                    HPOS="450"
+                    VPOS="938"
+                    WIDTH="398"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22325555"
+                    
+                    BASELINE="166 1025 388 1021 990 1021 1050 1017 1100 1019 1175 1019" 
+                    HPOS="162"
+                    VPOS="984"
+                    WIDTH="1012"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="164 1023 164 1029 1172 1021 1174 1017 1172 984 1014 984 1013 984 1011 984 1007 984 983 995 607 990 362 986 361 986 162 993 164 1023"/></Shape>
+	    <String CONTENT="5. Im Felde (26) 180"
+                    HPOS="162"
+                    VPOS="984"
+                    WIDTH="1012"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab7bcf92"
+                    
+                    BASELINE="166 1069 401 1066 990 1066 1050 1060 1098 1064 1174 1060" 
+                    HPOS="162"
+                    VPOS="1029"
+                    WIDTH="1010"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="164 1067 164 1071 1172 1069 1172 1058 1166 1029 746 1040 614 1038 288 1030 287 1030 285 1030 283 1030 270 1040 220 1030 218 1030 216 1030 214 1030 200 1040 174 1030 172 1030 170 1030 168 1030 166 1030 166 1032 164 1032 162 1034 164 1067"/></Shape>
+	    <String CONTENT="6. Im Walde (27) 180"
+                    HPOS="162"
+                    VPOS="1029"
+                    WIDTH="1010"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6806ad97"
+                    
+                    BASELINE="359 1132 940 1125" 
+                    HPOS="357"
+                    VPOS="1080"
+                    WIDTH="583"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="931 1093 829 1093 796 1080 794 1080 792 1080 790 1080 788 1080 768 1093 724 1084 722 1084 720 1084 685 1093 661 1082 659 1082 657 1082 655 1082 625 1093 529 1084 527 1084 525 1084 524 1084 524 1086 512 1095 374 1086 372 1086 370 1086 368 1086 368 1088 357 1095 359 1132 359 1140 940 1132 940 1125 937 1104 931 1093"/></Shape>
+	    <String CONTENT="Avanzi, Vittorio, in Verona."
+                    HPOS="357"
+                    VPOS="1080"
+                    WIDTH="583"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70032be5"
+                    
+                    BASELINE="168 1186 551 1186 992 1180 1048 1177 1100 1178 1175 1175" 
+                    HPOS="166"
+                    VPOS="1143"
+                    WIDTH="1008"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="166 1188 1174 1184 1174 1173 1168 1143 620 1160 540 1160 522 1145 520 1145 518 1145 516 1145 424 1145 364 1147 362 1147 361 1147 361 1149 353 1156 344 1149 344 1147 342 1147 340 1147 246 1147 220 1147 218 1147 216 1147 214 1147 214 1149 203 1158 166 1147 166 1184 166 1188"/></Shape>
+	    <String CONTENT="7. Laguna di Venezia (19) 300"
+                    HPOS="166"
+                    VPOS="1143"
+                    WIDTH="1008"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6e3b3b3"
+                    
+                    BASELINE="168 1228 742 1228 990 1225 1050 1225 1101 1225 1175 1219" 
+                    HPOS="166"
+                    VPOS="1190"
+                    WIDTH="1008"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="166 1230 1174 1228 1174 1217 1170 1190 564 1190 562 1190 561 1190 535 1199 427 1190 425 1190 424 1190 422 1190 420 1190 409 1199 368 1190 366 1190 364 1190 362 1190 309 1199 224 1190 222 1190 220 1190 218 1190 198 1199 166 1190 166 1227 166 1230"/></Shape>
+	    <String CONTENT="8. Pesca nella laguna di Venezia (18) 300"
+                    HPOS="166"
+                    VPOS="1190"
+                    WIDTH="1008"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0303a55f"
+                    
+                    BASELINE="164 1271 644 1271 992 1269 1041 1270 1172 1259" 
+                    HPOS="161"
+                    VPOS="1236"
+                    WIDTH="1009"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="162 1269 162 1273 492 1282 494 1282 1170 1271 1170 1258 1164 1236 161 1243 162 1269"/></Shape>
+	    <String CONTENT="9. Canal grande di Venezia (20) –"
+                    HPOS="161"
+                    VPOS="1236"
+                    WIDTH="1009"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6d3adbf"
+                    
+                    BASELINE="490 1315 801 1312" 
+                    HPOS="488"
+                    VPOS="1271"
+                    WIDTH="313"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="494 1273 492 1273 490 1273 490 1275 488 1275 490 1315 490 1327 800 1323 801 1312 798 1282 696 1271 694 1271 640 1282 496 1273 494 1273"/></Shape>
+	    <String CONTENT="(In Bern gekauft)"
+                    HPOS="488"
+                    VPOS="1271"
+                    WIDTH="313"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40f037cb"
+                    
+                    BASELINE="351 1369 953 1365" 
+                    HPOS="350"
+                    VPOS="1321"
+                    WIDTH="603"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="942 1325 938 1321 927 1321 894 1330 872 1321 870 1321 868 1321 818 1330 744 1321 742 1321 664 1330 642 1332 631 1330 607 1323 605 1323 603 1323 601 1323 587 1330 579 1332 350 1328 351 1369 351 1380 951 1377 953 1365 951 1358 942 1325"/></Shape>
+	    <String CONTENT="Bachmann, Hans, Düsseldorf."
+                    HPOS="350"
+                    VPOS="1321"
+                    WIDTH="603"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd728201"
+                    
+                    BASELINE="146 1423 629 1423 975 1415 1044 1419 1153 1414" 
+                    HPOS="142"
+                    VPOS="1384"
+                    WIDTH="1009"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="144 1421 144 1425 1151 1417 1151 1412 1146 1388 622 1393 570 1388 531 1384 529 1384 527 1384 525 1384 520 1388 509 1395 450 1388 412 1384 411 1384 409 1384 394 1388 366 1397 340 1388 333 1386 331 1386 329 1386 142 1388 144 1421"/></Shape>
+	    <String CONTENT="10. Bäuerin auf dem Felde (157) –"
+                    HPOS="142"
+                    VPOS="1384"
+                    WIDTH="1009"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c99c53d4"
+                    
+                    BASELINE="287 1467 1013 1464" 
+                    HPOS="285"
+                    VPOS="1423"
+                    WIDTH="728"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="577 1425 575 1425 514 1434 362 1425 361 1425 359 1425 337 1434 294 1425 292 1425 290 1425 288 1425 288 1426 287 1426 285 1428 287 1467 287 1478 1011 1473 1013 1464 1007 1426 750 1432 746 1430 731 1423 729 1423 727 1423 668 1432 664 1432 651 1423 650 1423 648 1423 646 1423 644 1423 614 1434 611 1434 609 1434 579 1425 577 1425"/></Shape>
+	    <String CONTENT="(In Solothurn gekauft und zurückgezogen)"
+                    HPOS="285"
+                    VPOS="1423"
+                    WIDTH="728"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b2ed8e0"
+                    
+                    BASELINE="142 1512 635 1512 977 1510 1046 1506 1148 1504" 
+                    HPOS="138"
+                    VPOS="1469"
+                    WIDTH="1008"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="140 1510 140 1513 1144 1510 1146 1502 1142 1480 983 1469 981 1469 979 1469 977 1469 977 1471 970 1478 964 1484 629 1484 601 1475 587 1471 585 1471 494 1471 492 1471 490 1471 488 1471 485 1475 470 1484 448 1475 440 1471 438 1471 224 1471 222 1471 220 1471 216 1473 198 1484 187 1473 187 1471 185 1471 183 1471 181 1471 138 1471 140 1510"/></Shape>
+	    <String CONTENT="11. Tauffahrt im Winter (158) –"
+                    HPOS="138"
+                    VPOS="1469"
+                    WIDTH="1008"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad50a9b1"
+                    
+                    BASELINE="401 1562 896 1565" 
+                    HPOS="400"
+                    VPOS="1515"
+                    WIDTH="496"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="401 1562 400 1567 892 1571 896 1565 894 1530 805 1517 803 1517 801 1517 774 1526 766 1528 759 1526 731 1517 729 1517 727 1517 725 1517 724 1517 714 1525 711 1528 705 1525 688 1517 687 1517 685 1517 683 1517 659 1525 650 1526 637 1523 609 1515 607 1515 605 1515 603 1515 585 1523 574 1526 401 1519 401 1562"/></Shape>
+	    <String CONTENT="Balmer, Josef, in Bern."
+                    HPOS="400"
+                    VPOS="1515"
+                    WIDTH="496"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_995e0d9c"
+                    
+                    BASELINE="142 1604 324 1608 981 1604 1047 1604 1148 1605" 
+                    HPOS="138"
+                    VPOS="1571"
+                    WIDTH="1008"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="140 1602 140 1615 1144 1610 1146 1604 1144 1580 1035 1571 1033 1571 138 1573 140 1602"/></Shape>
+	    <String CONTENT="12. Pietà (306) –"
+                    HPOS="138"
+                    VPOS="1571"
+                    WIDTH="1008"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d8b28d2"
+                    
+                    BASELINE="355 1662 944 1662" 
+                    HPOS="355"
+                    VPOS="1615"
+                    WIDTH="589"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="355 1662 355 1671 944 1671 944 1662 944 1626 840 1615 838 1615 801 1625 796 1625 794 1623 781 1615 779 1615 777 1615 775 1615 737 1623 725 1625 713 1623 674 1615 672 1615 670 1615 668 1615 659 1623 653 1625 638 1621 607 1615 605 1615 603 1615 601 1615 592 1621 585 1625 355 1619 355 1662"/></Shape>
+	    <String CONTENT="Baud-Bovy in Aeschi (Bern)."
+                    HPOS="355"
+                    VPOS="1615"
+                    WIDTH="589"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91aded0f"
+                    
+                    BASELINE="142 1712 937 1712 968 1712 1047 1706" 
+                    HPOS="138"
+                    VPOS="1667"
+                    WIDTH="908"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="140 1710 140 1717 1044 1715 1046 1704 1042 1680 925 1680 925 1678 914 1669 914 1667 913 1667 911 1667 909 1667 835 1678 833 1678 831 1678 779 1667 777 1667 722 1678 718 1678 716 1678 640 1667 638 1667 637 1667 609 1676 588 1667 587 1667 585 1667 583 1667 581 1667 570 1676 559 1667 557 1667 555 1667 553 1667 551 1667 511 1678 507 1678 503 1678 453 1667 451 1667 450 1667 448 1667 431 1678 429 1678 387 1667 385 1667 383 1667 381 1667 379 1667 364 1678 359 1678 294 1667 292 1667 138 1676 140 1710"/></Shape>
+	    <String CONTENT="13. Morgen in den Hochalpen (Salzspende) (307)"
+                    HPOS="138"
+                    VPOS="1667"
+                    WIDTH="908"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d270a3e4"
+                    
+                    BASELINE="301 1763 992 1763" 
+                    HPOS="301"
+                    VPOS="1719"
+                    WIDTH="691"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="301 1763 301 1774 992 1774 992 1763 992 1730 927 1730 927 1728 918 1721 918 1719 916 1719 914 1719 913 1719 911 1719 885 1728 883 1728 855 1719 853 1719 851 1719 798 1728 790 1728 785 1728 755 1719 753 1719 751 1719 750 1719 748 1719 735 1726 733 1728 720 1726 662 1719 598 1719 596 1719 594 1719 592 1719 592 1721 587 1726 583 1728 557 1726 496 1719 494 1719 301 1723 301 1763"/></Shape>
+	    <String CONTENT="Baumgartner, Peter, in München."
+                    HPOS="301"
+                    VPOS="1719"
+                    WIDTH="691"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b474e48f"
+                    
+                    BASELINE="140 1811 522 1808 988 1811 1174 1811" 
+                    HPOS="137"
+                    VPOS="1773"
+                    WIDTH="1035"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="138 1810 137 1813 1168 1815 1172 1810 1170 1780 403 1773 401 1773 400 1773 398 1773 387 1782 340 1773 338 1773 277 1782 216 1773 214 1773 212 1773 194 1782 146 1773 144 1773 142 1773 140 1773 140 1774 138 1774 138 1810"/></Shape>
+	    <String CONTENT="14. Ein guter Braten (38) 2500"
+                    HPOS="137"
+                    VPOS="1773"
+                    WIDTH="1035"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb643f01"
+                    
+                    BASELINE="144 1854 490 1850 988 1852 1151 1852" 
+                    HPOS="140"
+                    VPOS="1826"
+                    WIDTH="1010"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="142 1852 142 1860 1148 1858 1150 1850 1148 1826 140 1826 142 1852"/></Shape>
+	    <String CONTENT="15. Sommerfrischler (39) –"
+                    HPOS="140"
+                    VPOS="1826"
+                    WIDTH="1010"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_614d5367"
+                    
+                    BASELINE="431 1900 853 1897" 
+                    HPOS="429"
+                    VPOS="1854"
+                    WIDTH="424"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="431 1900 431 1911 437 1917 437 1919 438 1919 440 1919 442 1919 444 1919 483 1910 501 1919 503 1919 505 1919 853 1908 853 1897 850 1865 692 1854 690 1854 637 1865 501 1856 500 1856 498 1856 496 1856 481 1865 442 1856 440 1856 438 1856 437 1856 435 1856 435 1858 433 1858 429 1861 431 1900"/></Shape>
+	    <String CONTENT="(In Bern zurückgezogen)"
+                    HPOS="429"
+                    VPOS="1854"
+                    WIDTH="424"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

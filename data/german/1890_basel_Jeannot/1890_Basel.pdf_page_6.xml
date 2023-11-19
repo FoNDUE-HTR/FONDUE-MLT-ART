@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1890_Basel.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1424"
+          HEIGHT="2198"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1424"
+                  HEIGHT="2198">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3d57dcc6"
+                    
+                    BASELINE="397 287 952 291" 
+                    HPOS="395"
+                    VPOS="241"
+                    WIDTH="557"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="947 258 940 250 899 243 898 243 786 250 740 252 727 249 707 243 705 243 703 243 701 243 690 249 679 252 641 247 597 241 595 241 593 241 575 245 553 250 447 245 434 247 416 247 397 247 397 287 395 298 951 298 952 291 951 265 947 258"/></Shape>
+	    <String CONTENT="Bocion, François, à Ouchy."
+                    HPOS="395"
+                    VPOS="241"
+                    WIDTH="557"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbefa890"
+                    
+                    BASELINE="163 340 751 344 996 342 1196 335" 
+                    HPOS="161"
+                    VPOS="300"
+                    WIDTH="1033"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="161 338 161 344 1193 344 1194 333 1189 309 747 311 736 311 604 300 602 300 601 300 599 300 584 311 547 300 546 300 544 300 542 300 540 300 540 302 529 311 500 300 498 300 496 300 494 300 469 311 247 300 245 300 243 300 221 311 212 302 212 300 210 300 208 300 172 300 170 300 168 300 166 300 166 302 164 302 161 305 161 338"/></Shape>
+	    <String CONTENT="34. Embouchure de la Veveyse (281) –"
+                    HPOS="161"
+                    VPOS="300"
+                    WIDTH="1033"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba385f41"
+                    
+                    BASELINE="164 384 628 384 996 386 1193 386" 
+                    HPOS="161"
+                    VPOS="346"
+                    WIDTH="1030"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="163 382 161 388 1187 390 1191 384 1189 346 1106 346 1105 346 1103 346 1101 346 1101 348 1090 357 1055 346 1051 346 1050 346 1048 346 1040 348 996 359 623 359 593 353 547 346 546 346 423 355 394 357 392 355 384 349 384 348 383 348 381 348 258 346 256 346 254 346 232 357 172 346 170 346 168 346 166 346 166 348 164 348 163 349 163 382"/></Shape>
+	    <String CONTENT="34a. Schiffer am Genfersee (311) 1400"
+                    HPOS="161"
+                    VPOS="346"
+                    WIDTH="1030"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac1eb2b8"
+                    
+                    BASELINE="410 446 932 446" 
+                    HPOS="410"
+                    VPOS="399"
+                    WIDTH="522"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="410 446 410 457 932 457 932 446 932 410 905 401 903 401 901 401 859 410 841 399 839 399 837 399 835 399 833 399 804 410 800 410 797 410 764 399 762 399 760 399 758 399 756 399 745 408 742 412 674 412 667 408 654 399 652 399 650 399 648 399 646 399 621 406 608 410 591 406 557 399 555 399 518 404 489 410 410 404 410 446"/></Shape>
+	    <String CONTENT="Boecklin, Hans, in Basel."
+                    HPOS="410"
+                    VPOS="399"
+                    WIDTH="522"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_830277b3"
+                    
+                    BASELINE="163 496 467 496 996 498 1075 492 1112 494 1193 494" 
+                    HPOS="159"
+                    VPOS="459"
+                    WIDTH="1032"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="161 494 159 500 1187 501 1191 492 1187 459 996 470 481 470 471 465 454 459 452 459 450 459 161 467 161 494"/></Shape>
+	    <String CONTENT="35. Seelandschaft (164) 500"
+                    HPOS="159"
+                    VPOS="459"
+                    WIDTH="1032"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cdd9dda"
+                    
+                    BASELINE="313 554 1018 558" 
+                    HPOS="311"
+                    VPOS="509"
+                    WIDTH="707"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="313 554 311 564 1015 567 1018 558 1018 523 934 523 932 522 910 511 909 511 806 511 804 511 802 511 800 511 800 512 793 520 789 522 782 520 753 511 751 511 749 511 747 511 745 511 736 518 733 522 722 518 698 511 696 511 694 511 692 511 678 518 667 522 650 516 623 509 621 509 619 509 617 509 591 516 577 520 560 516 535 509 533 509 531 509 498 514 469 520 439 514 416 509 414 509 412 509 397 512 372 520 313 512 313 554"/></Shape>
+	    <String CONTENT="Breitenstein, Ernst, in Binningen."
+                    HPOS="311"
+                    VPOS="509"
+                    WIDTH="707"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b462b8f2"
+                    
+                    BASELINE="161 598 373 598 1007 604 1058 599 1116 595 1191 598" 
+                    HPOS="157"
+                    VPOS="560"
+                    WIDTH="1032"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="159 597 157 602 1185 604 1189 597 1187 565 1007 565 1006 565 1004 565 1002 565 1002 567 991 576 416 575 397 571 337 560 243 560 241 560 240 560 238 560 221 571 210 562 210 560 208 560 207 560 170 560 168 560 166 560 164 560 164 562 159 567 159 597"/></Shape>
+	    <String CONTENT="36. Daheim (287) 900"
+                    HPOS="157"
+                    VPOS="560"
+                    WIDTH="1032"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b92c3b1"
+                    
+                    BASELINE="161 644 540 641 996 642 1070 639 1116 642 1191 639" 
+                    HPOS="157"
+                    VPOS="602"
+                    WIDTH="1032"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="159 642 159 650 1187 650 1189 637 1185 602 1130 602 1128 602 1127 602 1125 602 1125 604 1114 613 1013 606 1011 606 872 615 674 611 372 604 370 604 368 604 366 604 366 606 355 615 302 604 300 604 298 604 296 604 280 615 240 604 238 604 236 604 234 604 232 604 232 606 225 613 216 606 216 604 214 604 212 604 168 604 166 604 164 604 163 604 163 606 161 606 157 609 159 642"/></Shape>
+	    <String CONTENT="37. In der Sennhütte (116) 900"
+                    HPOS="157"
+                    VPOS="602"
+                    WIDTH="1032"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_269bf7ff"
+                    
+                    BASELINE="432 703 912 707" 
+                    HPOS="430"
+                    VPOS="657"
+                    WIDTH="482"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="432 703 430 710 909 712 912 707 912 666 894 657 892 657 890 657 888 657 868 666 866 666 744 657 742 657 740 657 722 663 712 666 709 663 703 657 701 657 700 657 432 657 432 703"/></Shape>
+	    <String CONTENT="Brot, Eduard, in Genf."
+                    HPOS="430"
+                    VPOS="657"
+                    WIDTH="482"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2fd6032"
+                    
+                    BASELINE="161 758 557 754 996 756 1072 756 1121 758 1191 754" 
+                    HPOS="157"
+                    VPOS="718"
+                    WIDTH="1032"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="159 756 159 760 1187 763 1189 752 1183 718 1066 727 1028 719 1015 718 1013 718 1011 718 1004 719 974 729 681 725 243 719 241 719 240 719 216 729 168 719 166 719 164 719 163 719 163 721 161 721 157 723 159 756"/></Shape>
+	    <String CONTENT="38. Souvenir d’Etretât (165) 700"
+                    HPOS="157"
+                    VPOS="718"
+                    WIDTH="1032"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cb03f83"
+                    
+                    BASELINE="161 804 335 800 996 800 1070 800 1119 802 1191 796" 
+                    HPOS="157"
+                    VPOS="765"
+                    WIDTH="1032"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="159 802 159 805 1187 807 1189 794 1183 765 1088 774 716 771 164 767 163 767 161 767 159 767 159 769 157 769 159 802"/></Shape>
+	    <String CONTENT="39. Ebbe (166) 700"
+                    HPOS="157"
+                    VPOS="765"
+                    WIDTH="1032"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2279845"
+                    
+                    BASELINE="368 846 963 846" 
+                    HPOS="368"
+                    VPOS="811"
+                    WIDTH="595"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="368 846 368 853 962 859 963 846 962 811 368 811 368 846"/></Shape>
+	    <String CONTENT="(Beide in Lausanne zurückgezogen)"
+                    HPOS="368"
+                    VPOS="811"
+                    WIDTH="595"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac285005"
+                    
+                    BASELINE="359 908 978 904" 
+                    HPOS="357"
+                    VPOS="860"
+                    WIDTH="621"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="359 908 359 919 976 915 978 904 974 873 855 862 854 862 852 862 850 862 850 864 843 871 822 860 821 860 767 860 766 860 764 860 762 860 762 862 751 871 716 860 714 860 712 860 661 871 648 873 635 871 584 862 582 862 580 862 551 871 542 873 463 873 461 871 452 862 450 862 449 862 447 862 357 870 359 908"/></Shape>
+	    <String CONTENT="Buchser, Franc, in Solothurn."
+                    HPOS="357"
+                    VPOS="860"
+                    WIDTH="621"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42349fe6"
+                    
+                    BASELINE="161 959 560 956 1006 954 1191 957" 
+                    HPOS="157"
+                    VPOS="921"
+                    WIDTH="1032"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="159 957 159 961 1187 963 1189 956 1185 921 553 930 536 930 461 921 460 921 458 921 456 921 443 930 441 930 439 930 335 921 333 921 331 921 309 930 241 921 240 921 238 921 216 930 172 921 170 921 168 921 166 921 157 926 159 957"/></Shape>
+	    <String CONTENT="40. Old virginia home (12) 6000"
+                    HPOS="157"
+                    VPOS="921"
+                    WIDTH="1032"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31e9f598"
+                    
+                    BASELINE="159 1003 445 1003 996 1001 1184 995" 
+                    HPOS="155"
+                    VPOS="963"
+                    WIDTH="1028"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="157 1001 157 1007 1182 1001 1183 994 1180 972 1013 963 1011 963 1009 963 1007 963 995 972 991 976 436 978 432 976 414 967 412 967 241 967 240 967 238 967 216 976 168 967 166 967 164 967 163 967 155 970 157 1001"/></Shape>
+	    <String CONTENT="41. Olivenhain (301) –"
+                    HPOS="155"
+                    VPOS="963"
+                    WIDTH="1028"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aedea8b8"
+                    
+                    BASELINE="161 1047 590 1042" 
+                    HPOS="159"
+                    VPOS="1000"
+                    WIDTH="431"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="434 1005 430 1005 421 1012 357 1005 342 1005 324 1005 315 1005 298 1014 262 1005 251 1005 243 1005 214 1014 183 1005 177 1005 170 1005 159 1014 161 1047 161 1055 590 1055 590 1042 586 1011 445 1000 443 1000 441 1000 439 1000 434 1001 434 1005"/></Shape>
+	    <String CONTENT="42. 43. (Siehe Seite 19)"
+                    HPOS="159"
+                    VPOS="1000"
+                    WIDTH="431"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1fba2fa"
+                    
+                    BASELINE="386 1108 945 1102" 
+                    HPOS="384"
+                    VPOS="1056"
+                    WIDTH="561"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="938 1066 756 1056 755 1056 753 1056 751 1056 751 1058 749 1058 742 1067 740 1069 733 1067 703 1058 701 1058 700 1058 698 1058 696 1058 687 1067 683 1071 615 1071 608 1067 591 1058 590 1058 588 1058 586 1058 558 1067 544 1071 533 1067 518 1060 516 1060 514 1060 513 1060 498 1067 487 1071 467 1067 438 1060 436 1060 384 1066 386 1108 386 1117 943 1111 945 1102 942 1073 938 1066"/></Shape>
+	    <String CONTENT="Bürgel, Hugo, in München."
+                    HPOS="384"
+                    VPOS="1056"
+                    WIDTH="561"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d4400b3"
+                    
+                    BASELINE="161 1161 593 1157 1006 1157 1191 1157" 
+                    HPOS="157"
+                    VPOS="1122"
+                    WIDTH="1032"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="159 1159 159 1164 1187 1161 1189 1155 1185 1122 1006 1131 745 1128 408 1124 406 1124 405 1124 403 1124 403 1126 394 1133 392 1133 172 1124 170 1124 168 1124 166 1124 157 1130 159 1159"/></Shape>
+	    <String CONTENT="44. Auf den Amperauen (90) 600"
+                    HPOS="157"
+                    VPOS="1122"
+                    WIDTH="1032"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85ec3361"
+                    
+                    BASELINE="406 1223 932 1219" 
+                    HPOS="405"
+                    VPOS="1174"
+                    WIDTH="527"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="406 1223 406 1232 931 1229 932 1219 931 1185 914 1174 912 1174 910 1174 909 1174 907 1174 868 1185 852 1174 850 1174 848 1174 846 1174 844 1174 813 1185 771 1174 769 1174 767 1174 766 1174 764 1174 747 1185 643 1175 641 1175 639 1175 615 1185 602 1175 601 1175 599 1175 597 1175 595 1175 593 1175 593 1177 582 1186 417 1175 416 1175 414 1175 412 1175 412 1177 410 1177 405 1183 406 1223"/></Shape>
+	    <String CONTENT="Calame, Arthur, in Genf."
+                    HPOS="405"
+                    VPOS="1174"
+                    WIDTH="527"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92d69eee"
+                    
+                    BASELINE="159 1271 624 1274 991 1269 1176 1266" 
+                    HPOS="155"
+                    VPOS="1234"
+                    WIDTH="1019"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 1269 157 1274 1171 1282 1174 1265 1171 1245 240 1234 238 1234 236 1234 212 1243 175 1234 174 1234 172 1234 170 1234 168 1234 155 1240 157 1269"/></Shape>
+	    <String CONTENT="45. Mittagszeit in Venedig (167) –"
+                    HPOS="155"
+                    VPOS="1234"
+                    WIDTH="1019"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f81137b0"
+                    
+                    BASELINE="331 1318 991 1311" 
+                    HPOS="329"
+                    VPOS="1276"
+                    WIDTH="662"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="331 1318 331 1327 989 1327 991 1311 987 1278 419 1276 417 1276 416 1276 386 1285 342 1276 340 1276 339 1276 337 1276 337 1278 329 1283 331 1318"/></Shape>
+	    <String CONTENT="(In Aarau gekauft und zurückgezogen)"
+                    HPOS="329"
+                    VPOS="1276"
+                    WIDTH="662"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c56078a"
+                    
+                    BASELINE="161 1360 784 1355 991 1355 1172 1351" 
+                    HPOS="157"
+                    VPOS="1318"
+                    WIDTH="1014"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="159 1359 159 1366 1169 1357 1171 1349 1165 1327 771 1329 720 1318 718 1318 654 1329 643 1320 643 1318 641 1318 639 1318 573 1318 571 1318 569 1318 542 1331 379 1320 377 1320 234 1322 232 1322 230 1322 216 1333 174 1322 172 1322 170 1322 168 1322 166 1322 166 1324 157 1331 159 1359"/></Shape>
+	    <String CONTENT="46. Herbstmorgen am Canal grande (168) –"
+                    HPOS="157"
+                    VPOS="1318"
+                    WIDTH="1014"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2a08f72"
+                    
+                    BASELINE="390 1404 943 1399" 
+                    HPOS="388"
+                    VPOS="1357"
+                    WIDTH="555"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="756 1357 755 1357 753 1357 751 1357 736 1368 617 1359 615 1359 613 1359 612 1359 597 1368 573 1359 571 1359 569 1359 568 1359 566 1359 553 1370 547 1370 507 1360 505 1360 503 1360 487 1370 485 1370 480 1370 434 1360 432 1360 388 1368 390 1404 390 1414 942 1408 943 1399 942 1368 932 1359 932 1357 931 1357 929 1357 927 1357 780 1366 758 1357 756 1357"/></Shape>
+	    <String CONTENT="(Von der Section Locle gekauft)"
+                    HPOS="388"
+                    VPOS="1357"
+                    WIDTH="555"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64466a0f"
+                    
+                    BASELINE="161 1447 821 1443 989 1441 1169 1441" 
+                    HPOS="157"
+                    VPOS="1404"
+                    WIDTH="1010"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="159 1445 159 1450 1165 1445 1167 1439 1163 1414 815 1415 793 1404 791 1404 789 1404 744 1414 681 1404 679 1404 678 1404 676 1404 661 1415 645 1404 643 1404 641 1404 503 1404 502 1404 500 1404 480 1414 430 1406 428 1406 427 1406 425 1406 425 1408 416 1415 370 1406 368 1406 366 1406 364 1406 364 1408 353 1417 245 1406 243 1406 241 1406 218 1417 175 1406 174 1406 172 1406 170 1406 168 1406 168 1408 157 1415 159 1445"/></Shape>
+	    <String CONTENT="47. Canale dei Mendicanti in Venedig (169) –"
+                    HPOS="157"
+                    VPOS="1404"
+                    WIDTH="1010"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f7a4fff"
+                    
+                    BASELINE="333 1490 989 1483" 
+                    HPOS="331"
+                    VPOS="1445"
+                    WIDTH="658"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="333 1490 333 1503 987 1501 989 1483 984 1445 331 1456 333 1490"/></Shape>
+	    <String CONTENT="(In Aarau gekauft und zurückgezogen)"
+                    HPOS="331"
+                    VPOS="1445"
+                    WIDTH="658"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9a5b89d"
+                    
+                    BASELINE="412 1551 920 1547" 
+                    HPOS="410"
+                    VPOS="1503"
+                    WIDTH="510"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="412 1551 412 1558 920 1555 920 1547 918 1512 903 1503 901 1503 899 1503 898 1503 687 1512 665 1503 663 1503 661 1503 659 1503 632 1514 608 1505 606 1505 604 1505 461 1514 425 1505 423 1505 421 1505 419 1505 417 1505 417 1507 410 1512 412 1551"/></Shape>
+	    <String CONTENT="Castan, Gustav, in Genf."
+                    HPOS="410"
+                    VPOS="1503"
+                    WIDTH="510"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4b61e8a"
+                    
+                    BASELINE="159 1602 676 1597 989 1595 1185 1595" 
+                    HPOS="155"
+                    VPOS="1562"
+                    WIDTH="1028"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="157 1600 157 1604 353 1613 355 1613 408 1604 416 1604 1183 1604 1183 1593 1182 1562 505 1562 503 1562 502 1562 500 1562 500 1564 492 1571 491 1571 460 1571 234 1564 232 1564 230 1564 229 1564 229 1566 219 1573 170 1564 168 1564 166 1564 164 1564 155 1567 157 1600"/></Shape>
+	    <String CONTENT="48. Umgegend von Préfargier (299) 2000"
+                    HPOS="155"
+                    VPOS="1562"
+                    WIDTH="1028"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7eca192"
+                    
+                    BASELINE="159 1646 586 1643 991 1641 1166 1638" 
+                    HPOS="155"
+                    VPOS="1606"
+                    WIDTH="1010"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="157 1644 157 1652 1163 1652 1165 1637 1160 1606 582 1617 579 1615 558 1606 557 1606 434 1606 432 1606 430 1606 428 1606 414 1619 412 1619 405 1619 240 1608 238 1608 236 1608 234 1608 216 1619 172 1608 170 1608 168 1608 166 1608 164 1608 164 1610 155 1617 157 1644"/></Shape>
+	    <String CONTENT="49. Le Pigne d’ Arolla (308) –"
+                    HPOS="155"
+                    VPOS="1606"
+                    WIDTH="1010"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fd712a6"
+                    
+                    BASELINE="159 1688 573 1683 1000 1685 1183 1681" 
+                    HPOS="155"
+                    VPOS="1644"
+                    WIDTH="1027"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 1686 157 1692 1182 1692 1182 1679 1176 1644 1097 1646 1095 1646 1094 1646 1094 1648 1084 1655 1042 1646 1039 1646 1037 1646 1015 1646 806 1657 665 1653 481 1648 480 1648 351 1650 350 1650 348 1650 348 1652 339 1659 337 1659 163 1650 161 1650 159 1650 157 1650 157 1652 155 1652 157 1686"/></Shape>
+	    <String CONTENT="50. Küste der Bretagne (91) 2000"
+                    HPOS="155"
+                    VPOS="1644"
+                    WIDTH="1027"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b038f780"
+                    
+                    BASELINE="395 1749 927 1745" 
+                    HPOS="394"
+                    VPOS="1699"
+                    WIDTH="533"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="395 1749 395 1756 927 1752 927 1745 925 1708 910 1699 909 1699 907 1699 905 1699 727 1708 707 1699 705 1699 703 1699 654 1710 628 1701 626 1701 624 1701 522 1710 471 1701 469 1701 467 1701 441 1710 408 1701 406 1701 405 1701 403 1701 401 1701 401 1703 394 1708 395 1749"/></Shape>
+	    <String CONTENT="Castres, Eduard, in Genf."
+                    HPOS="394"
+                    VPOS="1699"
+                    WIDTH="533"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30ae9e3b"
+                    
+                    BASELINE="157 1800 445 1793 998 1795 1185 1791" 
+                    HPOS="153"
+                    VPOS="1758"
+                    WIDTH="1030"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="155 1798 155 1802 1183 1798 1183 1789 1178 1758 153 1767 155 1798"/></Shape>
+	    <String CONTENT="51. Militärmesse (47) 4000"
+                    HPOS="153"
+                    VPOS="1758"
+                    WIDTH="1030"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b92ebacf"
+                    
+                    BASELINE="155 1842 628 1838 1000 1837 1167 1836" 
+                    HPOS="152"
+                    VPOS="1802"
+                    WIDTH="1013"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="153 1840 153 1846 1163 1842 1165 1835 1161 1809 624 1813 617 1806 613 1804 613 1802 612 1802 610 1802 481 1802 480 1802 478 1802 476 1802 476 1804 474 1806 467 1811 450 1804 443 1802 441 1802 439 1802 232 1804 230 1804 229 1804 229 1806 218 1815 152 1804 153 1840"/></Shape>
+	    <String CONTENT="52. Schweizerische Batterie (48) –"
+                    HPOS="152"
+                    VPOS="1802"
+                    WIDTH="1013"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7f19208"
+                    
+                    BASELINE="502 1884 810 1879" 
+                    HPOS="500"
+                    VPOS="1838"
+                    WIDTH="310"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="800 1846 707 1838 705 1838 703 1838 685 1848 513 1842 511 1842 509 1842 507 1842 500 1848 502 1884 502 1897 810 1897 810 1879 808 1866 800 1846"/></Shape>
+	    <String CONTENT="(In Bern gekauft)"
+                    HPOS="500"
+                    VPOS="1838"
+                    WIDTH="310"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
