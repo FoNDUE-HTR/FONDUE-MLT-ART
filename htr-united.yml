@@ -1,3 +1,4 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 authors:
   - name: Gabay
     surname: Simon
@@ -162,7 +163,6 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
 script-type: only-typed
@@ -171,6 +171,7 @@ time:
   notBefore: '1842'
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
+transcription-guidelines: No segmentation, only transcription.
 volume:
 - count: 141786
   metric: characters
