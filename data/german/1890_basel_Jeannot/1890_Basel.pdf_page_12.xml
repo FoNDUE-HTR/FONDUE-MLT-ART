@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1890_Basel.pdf_page_12.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1438"
+          HEIGHT="2223"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1438"
+                  HEIGHT="2223">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_64d29356"
+                    
+                    BASELINE="422 303 946 307" 
+                    HPOS="420"
+                    VPOS="263"
+                    WIDTH="526"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="424 276 422 303 420 311 943 314 946 307 945 274 437 263 424 276"/></Shape>
+	    <String CONTENT="Muheim, Jost, in Luzern."
+                    HPOS="420"
+                    VPOS="263"
+                    WIDTH="526"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a01def21"
+                    
+                    BASELINE="155 364 893 364 1011 361 1204 362" 
+                    HPOS="151"
+                    VPOS="316"
+                    WIDTH="1051"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="153 363 153 368 1200 366 1202 361 1198 320 1132 335 883 335 670 320 668 320 667 320 665 320 644 333 598 320 596 320 594 320 592 320 570 331 548 316 546 316 544 316 542 316 524 316 329 329 264 316 263 316 261 316 259 316 257 316 231 333 200 316 198 316 151 316 153 363"/></Shape>
+	    <String CONTENT="143. Morgenstimmung am Luzernersee (214) –"
+                    HPOS="151"
+                    VPOS="316"
+                    WIDTH="1051"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65d1096f"
+                    
+                    BASELINE="403 435 983 435" 
+                    HPOS="403"
+                    VPOS="387"
+                    WIDTH="580"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="403 435 403 450 983 442 983 435 983 398 948 387 946 387 945 387 943 387 924 396 917 389 917 387 915 387 913 387 839 387 837 387 835 387 833 387 833 389 824 398 822 398 819 398 785 389 783 389 782 389 780 389 778 389 769 396 767 398 757 396 722 389 720 389 680 396 659 398 635 394 583 387 581 387 580 387 565 394 555 398 542 394 529 389 528 389 526 389 524 389 505 392 483 398 403 392 403 435"/></Shape>
+	    <String CONTENT="Nägeli, Heinrich, in Zürich."
+                    HPOS="403"
+                    VPOS="387"
+                    WIDTH="580"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4af44a5"
+                    
+                    BASELINE="155 494 526 494 1013 494 1085 490 1132 492 1208 489" 
+                    HPOS="151"
+                    VPOS="453"
+                    WIDTH="1055"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="153 492 153 498 1204 496 1206 487 1200 457 1009 468 535 468 505 459 476 453 474 453 151 461 153 492"/></Shape>
+	    <String CONTENT="144. Bei Ermatingen (215) 500"
+                    HPOS="151"
+                    VPOS="453"
+                    WIDTH="1055"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbffcf1a"
+                    
+                    BASELINE="411 566 967 561" 
+                    HPOS="409"
+                    VPOS="514"
+                    WIDTH="558"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="411 566 411 576 965 570 967 561 963 527 839 527 839 526 807 514 806 514 804 514 802 514 769 526 763 527 737 526 631 516 630 516 628 516 626 516 617 526 615 526 613 526 578 518 576 518 574 518 572 518 572 520 567 526 563 529 554 526 535 518 533 518 531 518 409 524 411 566"/></Shape>
+	    <String CONTENT="Nägeli, Betty, in München."
+                    HPOS="409"
+                    VPOS="514"
+                    WIDTH="558"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccb48756"
+                    
+                    BASELINE="157 626 761 620 1013 622 1087 622 1135 620 1208 620" 
+                    HPOS="153"
+                    VPOS="583"
+                    WIDTH="1053"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="155 624 155 627 402 637 403 637 465 627 474 627 1206 627 1206 618 1202 590 711 592 650 583 648 583 581 592 489 583 487 583 485 583 483 583 483 585 472 594 255 585 253 585 252 585 250 585 235 594 226 587 226 585 224 585 222 585 161 585 159 585 157 585 155 585 155 587 153 587 155 624"/></Shape>
+	    <String CONTENT="145. Frühling am Wallenstattersee (216) 500"
+                    HPOS="153"
+                    VPOS="583"
+                    WIDTH="1053"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b512fff"
+                    
+                    BASELINE="157 668 561 668 1013 665 1085 665" 
+                    HPOS="153"
+                    VPOS="635"
+                    WIDTH="931"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="155 666 155 670 1084 668 1084 663 1082 639 153 635 155 666"/></Shape>
+	    <String CONTENT="146. Gebirgslandschaft (217)"
+                    HPOS="153"
+                    VPOS="635"
+                    WIDTH="931"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1a093cd"
+                    
+                    BASELINE="400 711 952 711" 
+                    HPOS="400"
+                    VPOS="668"
+                    WIDTH="552"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="511 670 500 670 461 678 431 670 418 670 415 670 400 678 400 711 400 720 952 720 952 711 952 676 943 668 941 668 939 668 937 668 793 678 770 668 769 668 767 668 765 668 737 678 715 668 713 668 711 668 709 668 683 678 641 668 639 668 637 668 609 678 581 668 580 668 578 668 576 668 554 678 522 670 511 670"/></Shape>
+	    <String CONTENT="(Von der Section Locle gekauft)"
+                    HPOS="400"
+                    VPOS="668"
+                    WIDTH="552"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc17bd0d"
+                    
+                    BASELINE="159 753 463 757 1015 753 1084 750 1134 752 1208 752" 
+                    HPOS="155"
+                    VPOS="716"
+                    WIDTH="1051"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="157 752 157 757 1204 755 1206 750 1202 716 585 728 567 716 565 716 563 716 561 716 559 716 533 728 518 716 517 716 515 716 513 716 511 716 509 716 509 718 498 729 466 729 455 718 455 716 454 716 452 716 255 716 253 716 252 716 250 716 237 724 229 718 229 716 227 716 226 716 155 716 157 752"/></Shape>
+	    <String CONTENT="147. Dorfeingang (218) 600"
+                    HPOS="155"
+                    VPOS="716"
+                    WIDTH="1051"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25c57b93"
+                    
+                    BASELINE="307 824 1067 828" 
+                    HPOS="305"
+                    VPOS="778"
+                    WIDTH="762"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="307 824 305 829 1063 833 1067 828 1067 792 1008 779 915 779 913 779 911 779 909 779 909 781 902 789 893 781 893 779 891 779 889 779 887 779 885 779 848 791 846 791 845 791 807 779 806 779 804 779 752 791 746 791 744 791 724 779 722 779 720 779 719 779 691 791 687 791 667 789 520 778 518 778 517 778 494 789 466 779 465 779 463 779 461 779 444 789 442 789 422 779 420 779 418 779 307 787 307 824"/></Shape>
+	    <String CONTENT="de Niederhäusern, Sophie, à Genève."
+                    HPOS="305"
+                    VPOS="778"
+                    WIDTH="762"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59337610"
+                    
+                    BASELINE="157 883 576 878 1013 881 1085 881 1134 883 1208 879" 
+                    HPOS="153"
+                    VPOS="844"
+                    WIDTH="1053"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="155 881 155 887 1206 887 1206 878 1200 846 743 854 646 852 342 844 340 844 339 844 320 854 253 844 252 844 250 844 233 854 226 846 226 844 224 844 222 844 161 844 159 844 157 844 155 844 155 846 153 846 155 881"/></Shape>
+	    <String CONTENT="148. Vor dem Gewitter (219) 400"
+                    HPOS="153"
+                    VPOS="844"
+                    WIDTH="1053"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_626cacd7"
+                    
+                    BASELINE="157 926 550 926 1013 926 1084 922 1132 924 1210 924" 
+                    HPOS="153"
+                    VPOS="892"
+                    WIDTH="1055"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="155 924 155 929 1206 926 1208 922 1204 892 153 892 155 924"/></Shape>
+	    <String CONTENT="149. Alte Apfelbäume (220) 300"
+                    HPOS="153"
+                    VPOS="892"
+                    WIDTH="1055"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2068ce0"
+                    
+                    BASELINE="431 998 913 994" 
+                    HPOS="429"
+                    VPOS="950"
+                    WIDTH="484"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="431 998 433 1017 461 1007 592 1013 650 1015 652 1015 654 1015 661 1011 674 1005 911 1005 913 994 909 963 789 950 787 950 726 959 715 961 709 959 683 950 681 950 680 950 678 950 676 950 676 952 674 952 668 959 665 963 654 959 631 952 630 952 628 952 626 952 609 959 596 963 576 957 550 952 548 952 546 952 544 952 531 957 524 961 429 957 431 998"/></Shape>
+	    <String CONTENT="Nüesch, J., in Balgach."
+                    HPOS="429"
+                    VPOS="950"
+                    WIDTH="484"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d2a85ac"
+                    
+                    BASELINE="157 1055 704 1059 1024 1057 1187 1051" 
+                    HPOS="153"
+                    VPOS="1024"
+                    WIDTH="1032"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="155 1054 153 1059 1182 1063 1185 1050 1182 1026 155 1024 155 1054"/></Shape>
+	    <String CONTENT="150. Hirtenkinder im Frühling (54) –"
+                    HPOS="153"
+                    VPOS="1024"
+                    WIDTH="1032"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77bc8d2e"
+                    
+                    BASELINE="342 1102 1013 1098" 
+                    HPOS="340"
+                    VPOS="1057"
+                    WIDTH="673"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="693 1059 676 1059 657 1068 630 1059 628 1059 626 1059 507 1068 422 1059 420 1059 418 1059 394 1068 355 1059 353 1059 352 1059 350 1059 348 1059 348 1061 340 1067 342 1102 342 1111 1011 1111 1013 1098 1009 1067 693 1057 693 1059"/></Shape>
+	    <String CONTENT="(In Aarau für die Verloosung gewählt)"
+                    HPOS="340"
+                    VPOS="1057"
+                    WIDTH="673"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_925bd447"
+                    
+                    BASELINE="340 1174 1026 1174" 
+                    HPOS="340"
+                    VPOS="1130"
+                    WIDTH="686"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="340 1174 340 1185 1026 1185 1026 1174 1026 1141 972 1130 971 1130 861 1139 859 1139 845 1130 843 1130 841 1130 839 1130 794 1139 793 1139 761 1130 759 1130 757 1130 756 1130 754 1130 739 1139 737 1139 687 1130 685 1130 683 1130 657 1139 655 1139 633 1130 631 1130 630 1130 628 1130 598 1139 594 1139 589 1139 526 1130 524 1130 340 1137 340 1174"/></Shape>
+	    <String CONTENT="Obermüller, Marie, in Karlsruhe."
+                    HPOS="340"
+                    VPOS="1130"
+                    WIDTH="686"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9692aab9"
+                    
+                    BASELINE="161 1235 409 1231 1022 1228 1087 1231 1126 1231 1210 1226" 
+                    HPOS="157"
+                    VPOS="1198"
+                    WIDTH="1051"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="159 1233 159 1239 1206 1230 1208 1224 1202 1198 157 1202 159 1233"/></Shape>
+	    <String CONTENT="151. Syringen (44) 250"
+                    HPOS="157"
+                    VPOS="1198"
+                    WIDTH="1051"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd9bcf1c"
+                    
+                    BASELINE="333 1302 1032 1306" 
+                    HPOS="331"
+                    VPOS="1255"
+                    WIDTH="701"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="333 1302 331 1313 339 1318 340 1318 342 1318 344 1318 580 1311 633 1311 1028 1320 1032 1306 1032 1270 896 1257 895 1257 893 1257 891 1257 874 1268 845 1257 843 1257 841 1257 839 1257 809 1268 807 1268 785 1257 783 1257 782 1257 731 1268 726 1268 722 1268 683 1255 681 1255 641 1255 639 1255 637 1255 635 1255 635 1257 624 1267 624 1268 550 1268 548 1267 526 1255 524 1255 522 1255 520 1255 496 1267 494 1267 472 1257 470 1257 468 1257 466 1257 448 1267 433 1257 431 1257 429 1257 428 1257 333 1265 333 1302"/></Shape>
+	    <String CONTENT="de Palezieux, Edmond, in Vevey."
+                    HPOS="331"
+                    VPOS="1255"
+                    WIDTH="701"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_190e1c5d"
+                    
+                    BASELINE="159 1365 685 1361 1013 1363 1208 1357" 
+                    HPOS="155"
+                    VPOS="1320"
+                    WIDTH="1051"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="157 1363 157 1367 465 1376 466 1376 468 1376 470 1376 481 1367 492 1367 661 1374 663 1374 1206 1363 1206 1356 1202 1324 1122 1320 1121 1320 1119 1320 1117 1320 1117 1322 1113 1324 1104 1333 1048 1326 1046 1326 670 1335 607 1328 565 1324 563 1324 561 1324 544 1330 522 1335 505 1330 491 1324 489 1324 487 1324 485 1324 483 1324 483 1326 478 1330 470 1337 444 1330 429 1326 428 1326 426 1326 155 1331 157 1363"/></Shape>
+	    <String CONTENT="152. Vesperläuten in Savoyen (221) 3000"
+                    HPOS="155"
+                    VPOS="1320"
+                    WIDTH="1051"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a849bb40"
+                    
+                    BASELINE="403 1433 980 1433" 
+                    HPOS="403"
+                    VPOS="1387"
+                    WIDTH="577"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="403 1433 403 1444 980 1441 980 1433 980 1398 843 1387 841 1387 839 1387 811 1396 807 1396 806 1396 772 1387 770 1387 769 1387 767 1387 765 1387 752 1396 750 1396 739 1396 655 1387 654 1387 403 1393 403 1433"/></Shape>
+	    <String CONTENT="Pfyffer, Niklaus, in Luzern."
+                    HPOS="403"
+                    VPOS="1387"
+                    WIDTH="577"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_142b99e0"
+                    
+                    BASELINE="159 1493 635 1485 1011 1487 1085 1487 1130 1487 1210 1487" 
+                    HPOS="155"
+                    VPOS="1448"
+                    WIDTH="1053"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 1491 157 1496 1208 1496 1208 1485 1204 1448 1137 1457 1074 1448 1063 1448 1061 1448 1035 1450 900 1459 802 1452 763 1450 761 1450 720 1454 654 1459 605 1456 572 1452 570 1452 568 1452 567 1452 567 1454 565 1456 557 1461 155 1461 157 1491"/></Shape>
+	    <String CONTENT="153. Baumgruppen am See (223) 400"
+                    HPOS="155"
+                    VPOS="1448"
+                    WIDTH="1053"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e27e652d"
+                    
+                    BASELINE="346 1570 1017 1570" 
+                    HPOS="346"
+                    VPOS="1524"
+                    WIDTH="671"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="346 1570 346 1582 1017 1582 1017 1570 1017 1533 991 1524 989 1524 987 1524 939 1533 909 1524 908 1524 817 1524 815 1524 813 1524 811 1524 811 1526 804 1533 802 1533 800 1533 765 1524 763 1524 761 1524 759 1524 757 1524 746 1532 744 1533 737 1532 694 1524 693 1524 659 1532 648 1533 628 1532 572 1524 570 1524 526 1530 500 1533 346 1530 346 1570"/></Shape>
+	    <String CONTENT="Peters, Petronella, in Stuttgart."
+                    HPOS="346"
+                    VPOS="1524"
+                    WIDTH="671"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fc9e186"
+                    
+                    BASELINE="157 1632 644 1624 1024 1624 1082 1628 1132 1628 1210 1628" 
+                    HPOS="153"
+                    VPOS="1585"
+                    WIDTH="1055"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="155 1630 155 1633 1206 1635 1208 1626 1204 1585 1002 1596 719 1591 576 1589 574 1589 153 1598 155 1630"/></Shape>
+	    <String CONTENT="154. Kleine Theegesellschaft (36) 300"
+                    HPOS="153"
+                    VPOS="1585"
+                    WIDTH="1055"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8553a4a0"
+                    
+                    BASELINE="403 1708 961 1708" 
+                    HPOS="403"
+                    VPOS="1661"
+                    WIDTH="558"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="403 1708 403 1717 961 1717 961 1708 961 1674 833 1661 763 1661 761 1661 759 1661 757 1661 757 1663 748 1672 746 1672 707 1661 706 1661 704 1661 702 1661 700 1661 689 1672 685 1672 650 1661 648 1661 646 1661 644 1661 615 1670 611 1672 609 1670 592 1661 591 1661 589 1661 587 1661 585 1661 561 1670 555 1672 531 1670 429 1661 428 1661 426 1661 403 1669 403 1708"/></Shape>
+	    <String CONTENT="Peters, P. F., in Stuttgart."
+                    HPOS="403"
+                    VPOS="1661"
+                    WIDTH="558"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbc39fe3"
+                    
+                    BASELINE="159 1767 726 1761 1022 1765 1085 1761 1130 1763 1210 1759" 
+                    HPOS="155"
+                    VPOS="1722"
+                    WIDTH="1053"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="157 1765 157 1770 1206 1763 1208 1758 1204 1732 1143 1722 1141 1722 1100 1732 1089 1735 719 1735 713 1735 600 1726 598 1726 596 1726 594 1726 580 1735 466 1726 465 1726 463 1726 426 1737 402 1728 400 1728 398 1728 396 1728 368 1737 255 1728 253 1728 252 1728 235 1737 227 1730 227 1728 226 1728 224 1728 163 1728 161 1728 159 1728 157 1728 157 1730 155 1730 157 1765"/></Shape>
+	    <String CONTENT="155. Schloss in Tirol im Winter (37) 350"
+                    HPOS="155"
+                    VPOS="1722"
+                    WIDTH="1053"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af6cb58a"
+                    
+                    BASELINE="400 1837 961 1833" 
+                    HPOS="398"
+                    VPOS="1789"
+                    WIDTH="563"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="400 1837 400 1848 958 1852 961 1833 959 1802 937 1791 935 1791 933 1791 822 1798 763 1789 761 1789 759 1789 735 1800 706 1789 704 1789 702 1789 700 1789 674 1802 583 1791 581 1791 580 1791 578 1791 561 1802 465 1791 405 1791 403 1791 402 1791 400 1791 400 1793 398 1793 400 1837"/></Shape>
+	    <String CONTENT="Peters, Anna, in Stuttgart."
+                    HPOS="398"
+                    VPOS="1789"
+                    WIDTH="563"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdab2523"
+                    
+                    BASELINE="157 1895 474 1891 1024 1893 1078 1889 1130 1895 1208 1895" 
+                    HPOS="153"
+                    VPOS="1856"
+                    WIDTH="1053"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="155 1893 155 1898 1204 1896 1206 1893 1204 1861 161 1856 159 1856 157 1856 155 1856 155 1858 153 1858 155 1893"/></Shape>
+	    <String CONTENT="156. Blumenstück (89) 320"
+                    HPOS="153"
+                    VPOS="1856"
+                    WIDTH="1053"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
