@@ -25,6 +25,40 @@
         <TextBlock ID="eSc_dummyblock_">
           
           
+          <TextLine ID="eSc_line_a47fb1e1"
+                    
+                    BASELINE="636 192 867 192" 
+                    HPOS="635"
+                    VPOS="145"
+                    WIDTH="231"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="635 190 635 198 866 196 866 190 866 162 784 162 781 158 769 147 769 145 767 145 766 145 706 145 704 145 702 145 700 145 700 147 693 155 685 160 635 153 635 190"/></Shape>
+	    <String CONTENT="– 16 –"
+                    HPOS="635"
+                    VPOS="145"
+                    WIDTH="231"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57a7f4eb"
+                    
+                    BASELINE="1142 282 1290 285" 
+                    HPOS="1139"
+                    VPOS="227"
+                    WIDTH="150"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1141 280 1139 295 1287 293 1289 283 1289 246 1216 227 1214 227 1212 227 1193 239 1184 242 1141 235 1141 280"/></Shape>
+	    <String CONTENT="Fr. Ct."
+                    HPOS="1139"
+                    VPOS="227"
+                    WIDTH="150"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_be8724ea"
                     
                     BASELINE="476 319 1018 319" 
@@ -44,34 +78,34 @@
           
           <TextLine ID="eSc_line_806b3f94"
                     
-                    BASELINE="213 375 543 375" 
-                    HPOS="213"
+                    BASELINE="213 375 1282 383" 
+                    HPOS="209"
                     VPOS="336"
-                    WIDTH="330"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="530 369 519 341 455 340 455 341 437 341 418 341 399 340 381 340 362 340 343 340 325 338 306 338 287 338 269 336 250 336 231 336 213 375 213 388 543 388 543 375 539 368 530 369"/></Shape>
-	    <String CONTENT="208. Landschaft."
-                    HPOS="213"
+                    WIDTH="1072"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="211 373 209 379 1278 392 1281 381 1279 356 1158 341 1156 341 1079 353 1065 354 1061 353 1053 345 1051 345 1050 345 1048 345 870 349 745 353 549 353 543 345 536 340 536 338 534 338 532 338 474 336 472 336 211 340 211 373"/></Shape>
+	    <String CONTENT="208. Landschaft –. –"
+                    HPOS="209"
                     VPOS="336"
-                    WIDTH="330"
-                    HEIGHT="52"></String>
+                    WIDTH="1072"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_d0ab24b3"
                     
-                    BASELINE="214 429 472 424" 
-                    HPOS="213"
-                    VPOS="379"
-                    WIDTH="259"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="214 429 214 437 472 433 472 424 468 397 392 379 390 379 388 379 349 397 347 399 298 399 297 397 282 384 282 383 280 383 278 383 222 383 220 383 218 383 216 383 216 384 214 384 213 384 214 429"/></Shape>
-	    <String CONTENT="209. idem."
-                    HPOS="213"
-                    VPOS="379"
-                    WIDTH="259"
-                    HEIGHT="58"></String>
+                    BASELINE="214 429 1280 437" 
+                    HPOS="211"
+                    VPOS="394"
+                    WIDTH="1068"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="213 427 211 439 1276 440 1279 435 1276 403 612 407 213 394 213 427"/></Shape>
+	    <String CONTENT="209. idem. –. –"
+                    HPOS="211"
+                    VPOS="394"
+                    WIDTH="1068"
+                    HEIGHT="46"></String>
           </TextLine>
 
           
@@ -95,17 +129,17 @@
           
           <TextLine ID="eSc_line_ac18dd43"
                     
-                    BASELINE="214 566 530 566" 
-                    HPOS="214"
-                    VPOS="519"
-                    WIDTH="316"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="214 566 214 579 530 579 530 566 530 530 325 519 323 519 321 519 287 528 244 519 242 519 241 519 214 528 214 566"/></Shape>
-	    <String CONTENT="210. Viehweide"
-                    HPOS="214"
-                    VPOS="519"
-                    WIDTH="316"
-                    HEIGHT="60"></String>
+                    BASELINE="214 566 1289 576" 
+                    HPOS="211"
+                    VPOS="521"
+                    WIDTH="1076"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="213 564 211 569 1283 582 1287 575 1287 547 1246 536 1244 536 1242 536 1150 545 1136 545 1117 543 1027 536 1025 536 838 539 767 541 762 539 741 525 739 525 738 525 736 525 693 534 661 525 659 525 657 525 655 525 653 525 653 526 642 536 631 526 631 525 629 525 627 525 573 523 571 523 569 523 538 536 534 538 528 536 500 523 498 523 497 523 405 532 399 523 397 523 397 521 396 521 394 521 319 521 317 521 315 521 313 521 297 532 293 534 291 532 285 525 284 525 284 523 282 523 280 523 242 521 241 521 239 521 213 530 213 564"/></Shape>
+	    <String CONTENT="210. Viehweide –. –"
+                    HPOS="211"
+                    VPOS="521"
+                    WIDTH="1076"
+                    HEIGHT="61"></String>
           </TextLine>
 
           
