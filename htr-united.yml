@@ -136,11 +136,11 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 141075
+- count: 141033
   metric: characters
 - count: 215
   metric: files
-- count: 5637
+- count: 5638
   metric: lines
 - count: 60
   metric: pages
