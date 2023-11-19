@@ -254,7 +254,7 @@
                     WIDTH="188"
                     HEIGHT="43">
             <Shape><Polygon POINTS="246 1195 246 1204 430 1200 432 1191 428 1163 244 1161 246 1195"/></Shape>
-	    <String CONTENT=" Blume 176."
+	    <String CONTENT="Blume 176."
                     HPOS="244"
                     VPOS="1161"
                     WIDTH="188"
@@ -577,7 +577,7 @@
                     WIDTH="248"
                     HEIGHT="57">
             <Shape><Polygon POINTS="246 2036 348 2028 371 2032 415 2040 416 2040 418 2040 420 2040 432 2030 435 2028 494 2028 494 2015 494 1986 246 1983 246 2015"/></Shape>
-	    <String CONTENT=" Esinger 95, 96."
+	    <String CONTENT="Esinger 95, 96."
                     HPOS="246"
                     VPOS="1983"
                     WIDTH="248"
@@ -662,7 +662,7 @@
                     WIDTH="164"
                     HEIGHT="40">
             <Shape><Polygon POINTS="796 981 796 990 958 992 960 981 960 952 796 952 796 981"/></Shape>
-	    <String CONTENT=" Gaulis 69."
+	    <String CONTENT="Gaulis 69."
                     HPOS="796"
                     VPOS="952"
                     WIDTH="164"
@@ -1019,7 +1019,7 @@
                     WIDTH="307"
                     HEIGHT="45">
             <Shape><Polygon POINTS="1084 1879 885 1875 871 1877 852 1877 833 1877 814 1877 796 1877 796 1909 794 1920 1099 1920 1101 1913 1097 1896 1084 1879"/></Shape>
-	    <String CONTENT=" Mennet 78, 79, 81."
+	    <String CONTENT="Mennet 78, 79, 81."
                     HPOS="794"
                     VPOS="1875"
                     WIDTH="307"
@@ -1053,7 +1053,7 @@
                     WIDTH="265"
                     HEIGHT="47">
             <Shape><Polygon POINTS="909 1947 890 1947 871 1947 852 1947 833 1947 814 1947 796 1947 796 1981 796 1992 1061 1992 1061 1981 1061 1950 913 1945 909 1947"/></Shape>
-	    <String CONTENT=" Monteverde 200."
+	    <String CONTENT="Monteverde 200."
                     HPOS="796"
                     VPOS="1945"
                     WIDTH="265"
