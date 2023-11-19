@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_Zuerich_XitwB0w.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1369"
+          HEIGHT="2243"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1369"
+                  HEIGHT="2243">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6bc174e5"
+                    
+                    BASELINE="351 352 566 345 1239 349" 
+                    HPOS="347.0"
+                    VPOS="304.0"
+                    WIDTH="891.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="349 351 347 358 1236 358 1238 347 1236 310 349 304 349 351"/></Shape>
+	    <String CONTENT="W. Röthlisberger in Thielle bei Neuchâtel."
+                    HPOS="347.0"
+                    VPOS="304.0"
+                    WIDTH="891.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b621fff0"
+                    
+                    BASELINE="261 409 807 405" 
+                    HPOS="261.0"
+                    VPOS="362.0"
+                    WIDTH="546.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="261 409 261 416 806 413 807 405 804 373 594 362 592 362 590 362 589 362 576 371 512 364 510 364 508 364 506 364 506 366 497 373 278 364 276 364 274 364 261 409"/></Shape>
+	    <String CONTENT="242. Ansicht des alten Thielle."
+                    HPOS="261.0"
+                    VPOS="362.0"
+                    WIDTH="546.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31041650"
+                    
+                    BASELINE="261 454 662 448" 
+                    HPOS="261.0"
+                    VPOS="407.0"
+                    WIDTH="401.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="540 407 521 409 503 409 484 409 473 409 461 418 364 409 362 409 360 409 359 409 359 411 347 420 299 409 297 409 295 409 274 416 261 454 261 459 662 454 662 448 658 418 546 407 540 407"/></Shape>
+	    <String CONTENT="243. Todte Wildenten."
+                    HPOS="261.0"
+                    VPOS="407.0"
+                    WIDTH="401.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46d046bd"
+                    
+                    BASELINE="489 519 1099 523" 
+                    HPOS="488.0"
+                    VPOS="472.0"
+                    WIDTH="611.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="489 519 488 527 1095 530 1099 523 1099 484 1067 474 1066 474 951 474 950 474 948 474 946 474 946 476 936 484 893 474 892 474 890 474 888 474 879 484 877 484 835 474 834 474 746 482 727 472 725 472 723 472 721 472 699 482 663 472 662 472 660 472 658 472 632 482 630 482 489 482 489 519"/></Shape>
+	    <String CONTENT="Ottilie Rœderstein in Zürich."
+                    HPOS="488.0"
+                    VPOS="472.0"
+                    WIDTH="611.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21752ffe"
+                    
+                    BASELINE="261 583 504 577" 
+                    HPOS="261.0"
+                    VPOS="536.0"
+                    WIDTH="243.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="261 583 261 590 504 585 504 577 501 545 357 536 355 536 353 536 351 536 336 547 274 538 273 538 271 538 269 538 265 540 261 583"/></Shape>
+	    <String CONTENT="244. Portrait."
+                    HPOS="261.0"
+                    VPOS="536.0"
+                    WIDTH="243.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a20b886"
+                    
+                    BASELINE="261 626 454 626" 
+                    HPOS="261.0"
+                    VPOS="586.0"
+                    WIDTH="193.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="261 626 261 633 454 633 454 626 454 601 432 592 430 592 428 592 426 592 424 592 424 594 415 603 351 603 336 588 336 586 334 586 332 586 278 586 261 626"/></Shape>
+	    <String CONTENT="245. »"
+                    HPOS="261.0"
+                    VPOS="586.0"
+                    WIDTH="193.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c09b24b"
+                    
+                    BASELINE="263 669 491 669" 
+                    HPOS="263.0"
+                    VPOS="628.0"
+                    WIDTH="228.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="375 628 359 628 342 635 331 628 319 628 312 628 263 635 263 669 263 680 491 680 491 669 491 637 389 628 375 628"/></Shape>
+	    <String CONTENT="246. Ismael."
+                    HPOS="263.0"
+                    VPOS="628.0"
+                    WIDTH="228.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cb8cdc1"
+                    
+                    BASELINE="525 736 1071 740" 
+                    HPOS="523.0"
+                    VPOS="697.0"
+                    WIDTH="548.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="1049 700 1030 700 1011 700 993 700 974 700 955 700 936 699 918 699 910 699 908 700 907 702 893 700 877 699 862 699 843 699 824 699 811 697 806 700 800 702 798 700 794 697 787 697 768 697 766 697 761 699 755 700 751 699 744 697 731 697 712 697 699 697 691 699 680 700 525 697 525 736 523 745 1067 747 1071 740 1071 704 1060 700 1049 700"/></Shape>
+	    <String CONTENT="Baptist Hœrbst in Zürich."
+                    HPOS="523.0"
+                    VPOS="697.0"
+                    WIDTH="548.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8250cdb3"
+                    
+                    BASELINE="263 800 662 800 826 800 1191 794" 
+                    HPOS="259.0"
+                    VPOS="755.0"
+                    WIDTH="930.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="261 798 261 807 1187 807 1189 792 1185 768 1006 757 1004 757 1002 757 981 768 959 757 957 757 955 757 907 764 843 755 841 755 839 755 837 755 815 768 811 771 607 771 605 770 589 757 587 757 585 757 583 757 503 758 501 758 499 758 499 760 491 766 484 758 482 758 480 758 394 758 392 758 390 758 368 770 366 771 364 770 334 758 332 758 271 758 269 758 267 758 265 758 265 760 259 764 261 798"/></Shape>
+	    <String CONTENT="248. « Vivat Patria». Broncirte Gypsstatue."
+                    HPOS="259.0"
+                    VPOS="755.0"
+                    WIDTH="930.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e6f9652"
+                    
+                    BASELINE="544 867 1051 871" 
+                    HPOS="542.0"
+                    VPOS="820.0"
+                    WIDTH="509.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="544 867 542 874 1047 878 1051 871 1051 833 1017 822 1015 822 901 822 899 822 897 822 895 822 895 824 888 829 886 831 880 829 849 822 847 822 845 822 789 829 778 829 776 828 768 822 768 820 766 820 764 820 763 820 761 820 742 828 736 829 731 828 705 820 703 820 701 820 699 820 671 828 658 829 544 826 544 867"/></Shape>
+	    <String CONTENT="Hans Hœrbst in Zürich."
+                    HPOS="542.0"
+                    VPOS="820.0"
+                    WIDTH="509.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ead1cc40"
+                    
+                    BASELINE="265 930 564 927 976 928 1195 928" 
+                    HPOS="261.0"
+                    VPOS="887.0"
+                    WIDTH="932.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="263 928 263 932 1191 934 1193 927 1191 899 1174 887 1172 887 1170 887 1168 887 576 899 564 889 564 887 562 887 561 887 370 887 368 887 366 887 344 899 334 889 334 887 332 887 331 887 273 887 271 887 269 887 267 887 267 889 265 889 261 891 263 928"/></Shape>
+	    <String CONTENT="249. Studienkopf (Hochrelief)."
+                    HPOS="261.0"
+                    VPOS="887.0"
+                    WIDTH="932.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e57923a1"
+                    
+                    BASELINE="579 1001 1009 996" 
+                    HPOS="577.0"
+                    VPOS="949.0"
+                    WIDTH="432.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="996 958 867 949 865 949 864 949 862 949 850 960 849 960 845 960 806 951 804 951 802 951 800 951 791 960 789 960 781 960 729 951 727 951 577 958 579 1001 579 1011 1009 1005 1009 996 1008 990 996 958"/></Shape>
+	    <String CONTENT="F. Müller in Zürich."
+                    HPOS="577.0"
+                    VPOS="949.0"
+                    WIDTH="432.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bcca434"
+                    
+                    BASELINE="267 1061 742 1057" 
+                    HPOS="265.0"
+                    VPOS="1014.0"
+                    WIDTH="477.0"
+                    HEIGHT="53.0">
+            <Shape><Polygon POINTS="736 1026 648 1014 647 1014 645 1014 619 1026 585 1014 583 1014 581 1014 579 1014 577 1014 577 1016 566 1026 366 1016 364 1016 362 1016 360 1016 360 1018 349 1028 274 1016 273 1016 271 1016 269 1016 269 1018 267 1018 265 1020 267 1061 267 1067 742 1063 742 1057 740 1052 736 1026"/></Shape>
+	    <String CONTENT="251. Dorfstrasse, Ct. Bern."
+                    HPOS="265.0"
+                    VPOS="1014.0"
+                    WIDTH="477.0"
+                    HEIGHT="53.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_922f9f54"
+                    
+                    BASELINE="267 1104 703 1100" 
+                    HPOS="265.0"
+                    VPOS="1059.0"
+                    WIDTH="438.0"
+                    HEIGHT="53.0">
+            <Shape><Polygon POINTS="527 1059 508 1059 499 1067 402 1061 396 1061 377 1061 360 1061 340 1069 293 1061 284 1061 273 1061 265 1067 267 1104 267 1112 701 1108 703 1100 699 1069 544 1059 527 1059"/></Shape>
+	    <String CONTENT="252. Hirsche im Winter."
+                    HPOS="265.0"
+                    VPOS="1059.0"
+                    WIDTH="438.0"
+                    HEIGHT="53.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdf59177"
+                    
+                    BASELINE="267 1147 506 1147" 
+                    HPOS="267.0"
+                    VPOS="1104.0"
+                    WIDTH="239.0"
+                    HEIGHT="53.0">
+            <Shape><Polygon POINTS="398 1104 379 1104 374 1104 359 1114 284 1104 267 1117 267 1147 267 1157 506 1157 506 1147 506 1115 400 1104 398 1104"/></Shape>
+	    <String CONTENT="253. Pflüger."
+                    HPOS="267.0"
+                    VPOS="1104.0"
+                    WIDTH="239.0"
+                    HEIGHT="53.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58106f73"
+                    
+                    BASELINE="267 1192 619 1186" 
+                    HPOS="267.0"
+                    VPOS="1149.0"
+                    WIDTH="352.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="452 1149 433 1149 415 1149 396 1149 377 1149 370 1149 359 1157 357 1158 355 1157 340 1149 321 1149 278 1155 267 1177 267 1192 267 1198 619 1192 619 1186 615 1157 460 1149 452 1149"/></Shape>
+	    <String CONTENT="257. Wintermorgen."
+                    HPOS="267.0"
+                    VPOS="1149.0"
+                    WIDTH="352.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71299e32"
+                    
+                    BASELINE="267 1235 570 1229" 
+                    HPOS="265.0"
+                    VPOS="1190.0"
+                    WIDTH="305.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="396 1190 377 1192 362 1192 357 1200 291 1192 284 1192 271 1192 269 1192 265 1196 267 1235 267 1242 568 1237 570 1229 566 1198 409 1190 396 1190"/></Shape>
+	    <String CONTENT="258. Herbstwald."
+                    HPOS="265.0"
+                    VPOS="1190.0"
+                    WIDTH="305.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ba46822"
+                    
+                    BASELINE="267 1276 643 1276" 
+                    HPOS="267.0"
+                    VPOS="1235.0"
+                    WIDTH="376.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="641 1263 637 1244 280 1235 278 1235 276 1235 274 1235 267 1241 267 1276 267 1289 643 1289 643 1276 641 1271 641 1263"/></Shape>
+	    <String CONTENT="260. Am Zürichhorn."
+                    HPOS="267.0"
+                    VPOS="1235.0"
+                    WIDTH="376.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

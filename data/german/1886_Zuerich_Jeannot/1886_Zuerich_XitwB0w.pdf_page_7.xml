@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_Zuerich_XitwB0w.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1385"
+          HEIGHT="2229"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1385"
+                  HEIGHT="2229">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e4ffc77c"
+                    
+                    BASELINE="412 347 1119 347" 
+                    HPOS="412.0"
+                    VPOS="306.0"
+                    WIDTH="707.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="1100 319 1081 315 1072 312 420 306 412 308 412 347 412 358 1119 358 1119 347 1117 323 1100 319"/></Shape>
+	    <String CONTENT="Blanche Chavannes in Lausannes."
+                    HPOS="412.0"
+                    VPOS="306.0"
+                    WIDTH="707.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cfd17b5"
+                    
+                    BASELINE="236 410 656 414" 
+                    HPOS="234.0"
+                    VPOS="367.0"
+                    WIDTH="422.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="236 388 236 410 234 417 652 421 656 414 654 382 511 369 509 369 507 369 479 380 477 380 442 367 440 367 438 367 436 367 397 378 343 367 342 367 340 367 308 378 306 378 304 378 254 369 252 369 250 369 237 375 236 388"/></Shape>
+	    <String CONTENT="57. Une table d’Artiste."
+                    HPOS="234.0"
+                    VPOS="367.0"
+                    WIDTH="422.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_deaf0814"
+                    
+                    BASELINE="399 503 1128 503" 
+                    HPOS="399.0"
+                    VPOS="456.0"
+                    WIDTH="729.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="1106 473 1087 471 1068 471 1050 469 1031 469 1013 468 994 468 976 466 966 466 962 466 961 466 957 466 938 464 920 464 907 464 899 466 892 464 884 462 883 462 864 462 849 460 845 464 842 466 832 464 810 458 808 458 790 458 786 456 754 462 732 466 399 460 399 503 399 514 1128 514 1128 503 1124 473 1106 473"/></Shape>
+	    <String CONTENT="Paul von Ravenstein in Karlsruhe."
+                    HPOS="399.0"
+                    VPOS="456.0"
+                    WIDTH="729.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d9427f5"
+                    
+                    BASELINE="234 568 840 572" 
+                    HPOS="232.0"
+                    VPOS="525.0"
+                    WIDTH="608.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="234 568 232 573 286 585 288 585 838 577 840 572 838 540 695 527 693 527 552 536 539 525 537 525 535 525 533 525 531 525 501 536 399 525 397 525 395 525 358 536 334 525 332 525 330 525 329 525 303 536 250 527 249 527 234 568"/></Shape>
+	    <String CONTENT="58. Kapelle in Cortina d’Ampezzo."
+                    HPOS="232.0"
+                    VPOS="525.0"
+                    WIDTH="608.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6cb6147"
+                    
+                    BASELINE="461 659 1072 659" 
+                    HPOS="461.0"
+                    VPOS="612.0"
+                    WIDTH="611.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="1055 633 1044 622 868 612 866 612 864 612 844 622 816 612 814 612 812 612 765 622 736 612 734 612 732 612 661 622 611 612 609 612 561 622 472 612 470 612 468 612 466 612 466 614 461 620 461 659 461 670 1072 670 1072 659 1068 651 1055 633"/></Shape>
+	    <String CONTENT="Julien Renevier in Lausanne."
+                    HPOS="461.0"
+                    VPOS="612.0"
+                    WIDTH="611.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ee4daf0"
+                    
+                    BASELINE="237 728 875 728" 
+                    HPOS="237.0"
+                    VPOS="685.0"
+                    WIDTH="638.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="237 728 237 737 875 737 875 728 875 696 535 685 533 685 531 685 529 685 514 694 470 685 468 685 466 685 464 685 464 687 455 696 375 696 321 685 319 685 317 685 291 694 252 685 250 685 249 685 247 685 245 685 237 690 237 728"/></Shape>
+	    <String CONTENT="60. Inneres der Kirche von Lugano."
+                    HPOS="237.0"
+                    VPOS="685.0"
+                    WIDTH="638.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_661bf3c6"
+                    
+                    BASELINE="477 817 1055 817" 
+                    HPOS="477.0"
+                    VPOS="769.0"
+                    WIDTH="578.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="1054 795 1035 769 1033 769 1031 769 1000 778 979 769 977 769 976 769 974 769 944 778 816 769 814 769 477 774 477 817 477 826 1055 826 1055 817 1055 802 1054 795"/></Shape>
+	    <String CONTENT="Ewert van Muyden in Genf."
+                    HPOS="477.0"
+                    VPOS="769.0"
+                    WIDTH="578.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f0274c7"
+                    
+                    BASELINE="237 880 948 884" 
+                    HPOS="236.0"
+                    VPOS="839.0"
+                    WIDTH="712.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="237 880 236 886 944 889 948 884 946 852 881 841 879 841 877 841 842 850 619 841 617 841 572 848 539 839 537 839 535 839 533 839 513 848 390 839 388 839 386 839 355 848 327 839 325 839 323 839 321 839 288 848 258 839 256 839 254 839 237 880"/></Shape>
+	    <String CONTENT="61. Carrière in der Campagna von Rom."
+                    HPOS="236.0"
+                    VPOS="839.0"
+                    WIDTH="712.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb3c37b4"
+                    
+                    BASELINE="349 932 1182 926" 
+                    HPOS="347.0"
+                    VPOS="891.0"
+                    WIDTH="835.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="1165 906 1147 899 1139 895 356 891 355 891 353 891 351 891 351 893 349 893 347 893 349 932 349 939 1180 941 1182 926 1174 908 1165 906"/></Shape>
+	    <String CONTENT="(Von der Sektion Basel in die Verloosung gewählt.)"
+                    HPOS="347.0"
+                    VPOS="891.0"
+                    WIDTH="835.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44a5cbe6"
+                    
+                    BASELINE="529 1016 1000 1016" 
+                    HPOS="529.0"
+                    VPOS="967.0"
+                    WIDTH="471.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="994 1010 987 978 901 967 899 967 897 967 896 967 883 978 836 969 834 969 832 969 831 969 816 978 778 967 777 967 775 967 773 967 741 978 697 967 695 967 693 967 691 967 667 978 611 967 609 967 607 967 581 978 546 967 544 967 542 967 540 967 539 967 529 975 529 1016 529 1025 1000 1025 1000 1016 996 1004 994 1010"/></Shape>
+	    <String CONTENT="Sophie David in Genf."
+                    HPOS="529.0"
+                    VPOS="967.0"
+                    WIDTH="471.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db961f4a"
+                    
+                    BASELINE="243 1073 927 1073" 
+                    HPOS="243.0"
+                    VPOS="1032.0"
+                    WIDTH="684.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="243 1042 243 1073 243 1084 927 1084 927 1073 927 1043 431 1032 429 1032 427 1032 425 1032 414 1042 395 1032 394 1032 392 1032 390 1032 355 1042 340 1032 338 1032 336 1032 334 1032 332 1032 295 1042 256 1032 243 1042"/></Shape>
+	    <String CONTENT="63 a. b. 2 Blumenstücke, pendants, zus."
+                    HPOS="243.0"
+                    VPOS="1032.0"
+                    WIDTH="684.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_604a36d2"
+                    
+                    BASELINE="526 1181 1011 1177" 
+                    HPOS="524.0"
+                    VPOS="1131.0"
+                    WIDTH="487.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="1007 1172 1005 1166 989 1146 970 1142 953 1138 888 1131 886 1131 884 1131 862 1142 834 1131 832 1131 831 1131 829 1131 827 1131 827 1133 816 1142 539 1133 526 1133 526 1134 524 1134 526 1181 526 1188 1011 1186 1011 1177 1009 1173 1007 1172"/></Shape>
+	    <String CONTENT="Marie Sandoz in Locle."
+                    HPOS="524.0"
+                    VPOS="1131.0"
+                    WIDTH="487.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b6bebdb"
+                    
+                    BASELINE="239 1237 678 1240" 
+                    HPOS="237.0"
+                    VPOS="1196.0"
+                    WIDTH="441.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="239 1220 239 1237 237 1242 674 1246 678 1240 676 1209 537 1198 535 1198 533 1198 509 1207 505 1207 501 1207 461 1196 459 1196 457 1196 254 1203 239 1220"/></Shape>
+	    <String CONTENT="64. Le Gardien du logis."
+                    HPOS="237.0"
+                    VPOS="1196.0"
+                    WIDTH="441.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c805ba0"
+                    
+                    BASELINE="492 1328 1039 1324" 
+                    HPOS="490.0"
+                    VPOS="1277.0"
+                    WIDTH="549.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="1029 1290 923 1290 888 1277 886 1277 884 1277 883 1277 858 1289 832 1277 831 1277 829 1277 827 1277 801 1289 765 1277 764 1277 762 1277 760 1277 730 1287 665 1279 663 1279 661 1279 659 1279 659 1281 648 1290 500 1279 498 1279 496 1279 494 1279 494 1281 492 1281 490 1281 492 1328 492 1339 1037 1339 1039 1324 1037 1311 1029 1290"/></Shape>
+	    <String CONTENT="Niclaus Pfyffer in Luzern."
+                    HPOS="490.0"
+                    VPOS="1277.0"
+                    WIDTH="549.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bda9f5e"
+                    
+                    BASELINE="241 1394 752 1394" 
+                    HPOS="241.0"
+                    VPOS="1363.0"
+                    WIDTH="511.0"
+                    HEIGHT="41.0">
+            <Shape><Polygon POINTS="241 1394 241 1404 752 1404 752 1394 752 1363 241 1363 241 1394"/></Shape>
+	    <String CONTENT="65. Waldweg im Vorgebirge."
+                    HPOS="241.0"
+                    VPOS="1363.0"
+                    WIDTH="511.0"
+                    HEIGHT="41.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62f3b50d"
+                    
+                    BASELINE="526 1500 1011 1500" 
+                    HPOS="526.0"
+                    VPOS="1465.0"
+                    WIDTH="485.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="998 1465 526 1465 526 1500 526 1510 1011 1510 1011 1500 1007 1476 998 1465"/></Shape>
+	    <String CONTENT="August Potter in Genf."
+                    HPOS="526.0"
+                    VPOS="1465.0"
+                    WIDTH="485.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aee46b4b"
+                    
+                    BASELINE="241 1569 862 1564" 
+                    HPOS="241.0"
+                    VPOS="1528.0"
+                    WIDTH="621.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="351 1530 332 1530 314 1532 295 1534 277 1534 258 1536 247 1547 241 1569 241 1577 860 1571 862 1564 858 1534 358 1528 351 1530"/></Shape>
+	    <String CONTENT="66. Hütten in Camargues bei Genf."
+                    HPOS="241.0"
+                    VPOS="1528.0"
+                    WIDTH="621.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5a7d5bb"
+                    
+                    BASELINE="241 1612 877 1608" 
+                    HPOS="239.0"
+                    VPOS="1569.0"
+                    WIDTH="638.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="239 1580 241 1612 241 1619 877 1617 877 1608 873 1580 570 1569 568 1569 567 1569 533 1580 507 1571 505 1571 503 1571 386 1580 330 1571 329 1571 327 1571 295 1580 252 1571 239 1580"/></Shape>
+	    <String CONTENT="67. Aus der Umgebung von Toulon."
+                    HPOS="239.0"
+                    VPOS="1569.0"
+                    WIDTH="638.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8204eb17"
+                    
+                    BASELINE="509 1705 1024 1705" 
+                    HPOS="509.0"
+                    VPOS="1668.0"
+                    WIDTH="515.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="1013 1668 509 1668 509 1705 509 1714 1024 1714 1024 1705 1020 1681 1013 1668"/></Shape>
+	    <String CONTENT="J. Reichlen in Freiburg."
+                    HPOS="509.0"
+                    VPOS="1668.0"
+                    WIDTH="515.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_073d8bb1"
+                    
+                    BASELINE="243 1773 721 1773" 
+                    HPOS="243.0"
+                    VPOS="1731.0"
+                    WIDTH="478.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="330 1731 329 1731 329 1733 317 1742 258 1733 243 1749 243 1773 243 1783 721 1783 721 1773 721 1742 678 1731 676 1731 600 1731 598 1731 596 1731 594 1731 581 1742 539 1731 537 1731 535 1731 533 1731 505 1742 488 1731 487 1731 485 1731 483 1731 481 1731 479 1731 466 1744 414 1744 334 1731 332 1731"/></Shape>
+	    <String CONTENT="68. Gang nach der Kirche."
+                    HPOS="243.0"
+                    VPOS="1731.0"
+                    WIDTH="478.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f52c915"
+                    
+                    BASELINE="243 1816 442 1816" 
+                    HPOS="241.0"
+                    VPOS="1775.0"
+                    WIDTH="199.0"
+                    HEIGHT="50.0">
+            <Shape><Polygon POINTS="241 1825 440 1825 440 1814 440 1786 330 1775 329 1775 327 1775 325 1775 314 1786 241 1786 241 1814"/></Shape>
+	    <String CONTENT="69. Studie."
+                    HPOS="241.0"
+                    VPOS="1775.0"
+                    WIDTH="199.0"
+                    HEIGHT="50.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf3f7d31"
+                    
+                    BASELINE="516 1902 1024 1902" 
+                    HPOS="516.0"
+                    VPOS="1857.0"
+                    WIDTH="508.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="1018 1872 1011 1866 630 1857 628 1857 568 1866 533 1857 531 1857 529 1857 527 1857 526 1857 516 1863 516 1902 516 1913 1024 1913 1024 1902 1022 1879 1018 1872"/></Shape>
+	    <String CONTENT="Jost Muheim in Luzern."
+                    HPOS="516.0"
+                    VPOS="1857.0"
+                    WIDTH="508.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76f41cc9"
+                    
+                    BASELINE="249 1970 875 1967" 
+                    HPOS="249.0"
+                    VPOS="1935.0"
+                    WIDTH="626.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="866 1935 258 1935 250 1952 249 1970 249 1981 875 1978 875 1967 873 1965 866 1935"/></Shape>
+	    <String CONTENT="70. Kerstelenbach im Maderanerthal."
+                    HPOS="249.0"
+                    VPOS="1935.0"
+                    WIDTH="626.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

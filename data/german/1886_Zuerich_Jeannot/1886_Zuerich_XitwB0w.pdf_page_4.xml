@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1886_Zuerich_XitwB0w.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1450"
+          HEIGHT="2230"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1450"
+                  HEIGHT="2230">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_aef6073b"
+                    
+                    BASELINE="410 655 910 655" 
+                    HPOS="410.0"
+                    VPOS="616.0"
+                    WIDTH="500.0"
+                    HEIGHT="49.0">
+            <Shape><Polygon POINTS="894 622 875 622 856 622 838 622 819 622 801 622 782 620 764 620 745 620 726 620 708 620 689 620 671 620 652 618 633 618 615 618 596 618 593 618 591 620 490 620 468 616 466 616 448 616 429 616 410 635 410 655 410 665 910 665 910 655 909 650 894 622"/></Shape>
+	    <String CONTENT="Edouard Ravel in Genf."
+                    HPOS="410.0"
+                    VPOS="616.0"
+                    WIDTH="500.0"
+                    HEIGHT="49.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99a09f84"
+                    
+                    BASELINE="146 724 513 724" 
+                    HPOS="146.0"
+                    VPOS="683.0"
+                    WIDTH="367.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="373 683 146 689 146 724 146 734 513 734 513 724 513 695 375 683 373 683"/></Shape>
+	    <String CONTENT="1. Les premiers pas."
+                    HPOS="146.0"
+                    VPOS="683.0"
+                    WIDTH="367.0"
+                    HEIGHT="51.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_174fea58"
+                    
+                    BASELINE="325 804 972 800" 
+                    HPOS="323.0"
+                    VPOS="752.0"
+                    WIDTH="649.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="955 765 953 763 685 752 684 752 682 752 680 752 680 754 669 763 626 756 624 756 622 756 620 756 620 758 613 763 600 756 598 756 596 756 594 756 550 765 507 754 505 754 503 754 501 754 477 765 449 754 448 754 332 754 330 754 329 754 327 754 327 756 325 756 323 756 325 804 325 813 970 813 972 800 970 799 955 765"/></Shape>
+	    <String CONTENT="Ludwig Skell in Tölz (Baiern)."
+                    HPOS="323.0"
+                    VPOS="752.0"
+                    WIDTH="649.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f10b8362"
+                    
+                    BASELINE="141 871 801 871" 
+                    HPOS="141.0"
+                    VPOS="828.0"
+                    WIDTH="660.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="141 871 141 880 801 880 801 871 801 838 782 828 780 828 778 828 777 828 741 838 526 828 524 828 522 828 501 838 459 828 457 828 455 828 453 828 453 830 444 839 379 839 327 828 325 828 256 838 202 828 200 828 198 828 174 838 163 828 161 828 159 828 158 828 156 828 154 828 141 871"/></Shape>
+	    <String CONTENT="3. Wasserfall an der Benedictenwand."
+                    HPOS="141.0"
+                    VPOS="828.0"
+                    WIDTH="660.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44bb1064"
+                    
+                    BASELINE="325 951 975 951" 
+                    HPOS="325.0"
+                    VPOS="905.0"
+                    WIDTH="650.0"
+                    HEIGHT="55.0">
+            <Shape><Polygon POINTS="968 912 949 905 948 905 946 905 944 905 916 914 886 905 884 905 883 905 881 905 879 905 868 914 816 905 814 905 812 905 788 914 780 906 780 905 778 905 777 905 689 905 687 905 685 905 663 914 635 905 633 905 632 905 630 905 628 905 617 916 537 916 487 905 485 905 483 905 481 905 472 912 462 905 461 905 459 905 457 905 360 914 349 905 347 905 345 905 343 905 342 905 325 912 325 951 325 960 975 958 975 951 975 923 968 912"/></Shape>
+	    <String CONTENT="August Bauer in Weil (Baden)."
+                    HPOS="325.0"
+                    VPOS="905.0"
+                    WIDTH="650.0"
+                    HEIGHT="55.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_341466f8"
+                    
+                    BASELINE="141 1022 1037 1018" 
+                    HPOS="141.0"
+                    VPOS="975.0"
+                    WIDTH="896.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="141 1022 141 1027 1037 1023 1037 1018 1033 986 782 975 780 975 778 975 754 984 715 975 713 975 711 975 710 975 708 975 708 977 698 986 613 986 589 975 587 975 585 975 583 975 563 986 552 977 550 977 548 977 546 977 418 986 394 977 392 977 390 977 388 977 386 977 371 986 202 977 200 977 198 977 174 986 161 977 159 977 158 977 156 977 154 977 152 977 141 1022"/></Shape>
+	    <String CONTENT="6. Spätherbst in den Vorbergen des Schwarzwaldes."
+                    HPOS="141.0"
+                    VPOS="975.0"
+                    WIDTH="896.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bc02652"
+                    
+                    BASELINE="394 1098 905 1098" 
+                    HPOS="394.0"
+                    VPOS="1051.0"
+                    WIDTH="511.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="394 1098 394 1107 905 1107 905 1098 905 1059 892 1051 890 1051 888 1051 886 1051 842 1061 821 1051 819 1051 817 1051 816 1051 788 1061 736 1051 734 1051 732 1051 730 1051 730 1053 721 1062 622 1062 589 1051 587 1051 585 1051 583 1051 559 1061 533 1051 531 1051 529 1051 440 1061 410 1051 408 1051 407 1051 405 1051 403 1051 394 1057 394 1098"/></Shape>
+	    <String CONTENT="Gustave Castan in Genf."
+                    HPOS="394.0"
+                    VPOS="1051.0"
+                    WIDTH="511.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e589c99"
+                    
+                    BASELINE="143 1167 732 1167" 
+                    HPOS="143.0"
+                    VPOS="1122.0"
+                    WIDTH="589.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="143 1167 143 1176 732 1176 732 1167 732 1133 695 1122 693 1122 691 1122 643 1131 598 1122 596 1122 594 1122 593 1122 593 1124 583 1133 559 1122 557 1122 470 1122 468 1122 466 1122 464 1122 464 1124 455 1133 425 1122 423 1122 421 1122 420 1122 418 1122 407 1133 379 1122 377 1122 375 1122 373 1122 371 1122 356 1133 319 1124 317 1124 316 1124 243 1133 237 1133 236 1133 211 1122 210 1122 208 1122 206 1122 204 1122 193 1133 165 1124 163 1124 161 1124 159 1124 143 1131 143 1167"/></Shape>
+	    <String CONTENT="7. Souvenir de la Vallée d’Arolla."
+                    HPOS="143.0"
+                    VPOS="1122.0"
+                    WIDTH="589.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90d3d0a1"
+                    
+                    BASELINE="317 1246 977 1243" 
+                    HPOS="316.0"
+                    VPOS="1196.0"
+                    WIDTH="661.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="972 1206 758 1196 756 1196 754 1196 719 1206 706 1196 704 1196 702 1196 700 1196 698 1196 680 1206 665 1196 663 1196 661 1196 659 1196 658 1196 656 1196 641 1207 628 1198 626 1198 624 1198 622 1198 620 1198 598 1207 546 1198 544 1198 542 1198 540 1198 529 1209 446 1209 436 1200 436 1198 435 1198 433 1198 362 1198 360 1198 358 1198 356 1198 356 1200 349 1206 338 1198 336 1198 334 1198 332 1198 330 1198 329 1198 316 1206 317 1246 317 1254 977 1250 977 1243 974 1207 972 1206"/></Shape>
+	    <String CONTENT="Adolf von Meckel in Karlsruhe."
+                    HPOS="316.0"
+                    VPOS="1196.0"
+                    WIDTH="661.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e213624"
+                    
+                    BASELINE="139 1317 697 1311" 
+                    HPOS="137.0"
+                    VPOS="1269.0"
+                    WIDTH="560.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="139 1274 137 1278 139 1317 139 1323 697 1317 697 1311 693 1280 509 1269 507 1269 505 1269 464 1280 353 1271 351 1271 349 1271 314 1282 197 1272 195 1272 193 1272 172 1282 154 1274 139 1274"/></Shape>
+	    <String CONTENT="8. Engpass in der Wüste Juda."
+                    HPOS="137.0"
+                    VPOS="1269.0"
+                    WIDTH="560.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4928cb1e"
+                    
+                    BASELINE="137 1358 570 1358" 
+                    HPOS="137.0"
+                    VPOS="1315.0"
+                    WIDTH="433.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="448 1315 446 1315 444 1315 427 1326 386 1315 384 1315 382 1315 381 1315 355 1326 330 1315 323 1317 321 1317 312 1324 299 1317 286 1317 282 1317 249 1326 237 1317 230 1317 215 1317 137 1326 137 1358 137 1367 570 1367 570 1358 570 1328 449 1315 448 1315"/></Shape>
+	    <String CONTENT="9. Abend in der Wüste."
+                    HPOS="137.0"
+                    VPOS="1315.0"
+                    WIDTH="433.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d0890ac"
+                    
+                    BASELINE="122 1403 633 1399" 
+                    HPOS="120.0"
+                    VPOS="1369.0"
+                    WIDTH="513.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="122 1403 122 1408 619 1416 620 1416 622 1416 624 1416 633 1406 633 1399 630 1369 120 1369 122 1403"/></Shape>
+	    <String CONTENT="10. Morgen am Berninapasse."
+                    HPOS="120.0"
+                    VPOS="1369.0"
+                    WIDTH="513.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_570be52c"
+                    
+                    BASELINE="288 1479 1005 1482" 
+                    HPOS="286.0"
+                    VPOS="1432.0"
+                    WIDTH="719.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="998 1442 985 1434 975 1434 944 1443 922 1434 920 1434 918 1434 916 1434 896 1443 896 1445 816 1445 814 1443 804 1434 803 1434 801 1434 799 1434 797 1434 764 1443 760 1443 758 1443 736 1434 734 1434 732 1434 730 1434 700 1442 695 1443 687 1442 658 1434 656 1434 654 1434 576 1442 568 1442 566 1442 559 1434 559 1432 557 1432 555 1432 553 1432 552 1432 520 1442 514 1442 509 1442 470 1432 468 1432 466 1432 446 1440 440 1442 288 1440 288 1479 286 1486 1001 1488 1005 1482 1005 1451 998 1442"/></Shape>
+	    <String CONTENT="Friederike Frey in Freiburg i. B."
+                    HPOS="286.0"
+                    VPOS="1432.0"
+                    WIDTH="719.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1b0a0af"
+                    
+                    BASELINE="120 1547 425 1551" 
+                    HPOS="118.0"
+                    VPOS="1503.0"
+                    WIDTH="307.0"
+                    HEIGHT="56.0">
+            <Shape><Polygon POINTS="120 1547 118 1555 421 1559 425 1551 425 1514 395 1505 394 1505 392 1505 338 1514 336 1514 332 1514 280 1505 278 1505 234 1512 223 1503 221 1503 219 1503 217 1503 120 1510 120 1547"/></Shape>
+	    <String CONTENT="11. Früchtestück."
+                    HPOS="118.0"
+                    VPOS="1503.0"
+                    WIDTH="307.0"
+                    HEIGHT="56.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e462388"
+                    
+                    BASELINE="392 1620 892 1616" 
+                    HPOS="390.0"
+                    VPOS="1574.0"
+                    WIDTH="502.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="392 1620 392 1626 892 1622 892 1616 888 1581 407 1574 405 1574 403 1574 401 1574 390 1579 392 1620"/></Shape>
+	    <String CONTENT="Arthur Calame in Genf."
+                    HPOS="390.0"
+                    VPOS="1574.0"
+                    WIDTH="502.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1325cbc"
+                    
+                    BASELINE="118 1687 613 1687" 
+                    HPOS="118.0"
+                    VPOS="1644.0"
+                    WIDTH="495.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="118 1687 118 1698 613 1698 613 1687 613 1655 461 1644 459 1644 457 1644 455 1644 446 1652 435 1644 433 1644 431 1644 429 1644 427 1644 425 1644 412 1653 397 1644 395 1644 394 1644 392 1644 390 1644 362 1653 347 1644 345 1644 343 1644 342 1644 340 1644 323 1653 304 1644 303 1644 301 1644 256 1653 208 1644 206 1644 204 1644 171 1653 137 1644 135 1644 133 1644 131 1644 130 1644 122 1648 118 1687"/></Shape>
+	    <String CONTENT="12. Olivenhain bei Mentone."
+                    HPOS="118.0"
+                    VPOS="1644.0"
+                    WIDTH="495.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d638927"
+                    
+                    BASELINE="375 1754 916 1757" 
+                    HPOS="373.0"
+                    VPOS="1709.0"
+                    WIDTH="543.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="914 1730 910 1720 864 1711 862 1711 769 1718 751 1720 739 1718 698 1711 697 1711 695 1711 678 1718 672 1720 667 1718 646 1709 645 1709 643 1709 641 1709 639 1709 630 1717 626 1718 375 1715 375 1754 373 1763 912 1767 916 1757 914 1730 914 1730"/></Shape>
+	    <String CONTENT="Max Roman in Karlsruhe."
+                    HPOS="373.0"
+                    VPOS="1709.0"
+                    WIDTH="543.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08236e7f"
+                    
+                    BASELINE="117 1826 514 1823" 
+                    HPOS="115.0"
+                    VPOS="1780.0"
+                    WIDTH="399.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="117 1826 117 1832 501 1839 503 1839 505 1839 507 1839 507 1837 514 1830 514 1823 511 1791 375 1780 373 1780 371 1780 369 1780 360 1789 349 1780 347 1780 345 1780 343 1780 342 1780 340 1780 325 1789 197 1782 195 1782 193 1782 165 1791 133 1782 131 1782 130 1782 128 1782 126 1782 115 1789 117 1826"/></Shape>
+	    <String CONTENT="13. Motiv bei Perugia."
+                    HPOS="115.0"
+                    VPOS="1780.0"
+                    WIDTH="399.0"
+                    HEIGHT="59.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4113010a"
+                    
+                    BASELINE="392 1906 892 1902" 
+                    HPOS="390.0"
+                    VPOS="1856.0"
+                    WIDTH="502.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="392 1906 392 1915 890 1912 892 1902 888 1867 725 1856 723 1856 721 1856 698 1865 672 1856 671 1856 669 1856 667 1856 665 1856 654 1865 483 1858 481 1858 479 1858 457 1867 407 1858 405 1858 403 1858 401 1858 390 1865 392 1906"/></Shape>
+	    <String CONTENT="Amalie Rost in Leipzig."
+                    HPOS="390.0"
+                    VPOS="1856.0"
+                    WIDTH="502.0"
+                    HEIGHT="59.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c3b0931"
+                    
+                    BASELINE="118 1973 462 1973" 
+                    HPOS="118.0"
+                    VPOS="1940.0"
+                    WIDTH="344.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="459 1940 126 1940 118 1951 118 1973 118 1986 462 1986 462 1973 462 1951 459 1940"/></Shape>
+	    <String CONTENT="14. Blumenbouquet."
+                    HPOS="118.0"
+                    VPOS="1940.0"
+                    WIDTH="344.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
