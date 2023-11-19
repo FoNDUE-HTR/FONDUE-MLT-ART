@@ -39,7 +39,7 @@ Heavy correction has been done by S. Gabay.
 
 ## How to cite
 
-Cf. [htr-united.yml](https://github.com/FoNDUE-HTR/FONDUE-MLT-ART/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-MLT-ART/blob/main/htr-united.yml) file.
 
 ## Licence
 
