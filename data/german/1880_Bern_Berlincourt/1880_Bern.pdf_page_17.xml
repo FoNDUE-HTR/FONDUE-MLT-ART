@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1880_Bern.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1405"
+          HEIGHT="2210"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1405"
+                  HEIGHT="2210">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_ded6b897"
+                    
+                    BASELINE="464 407 789 403" 
+                    HPOS="464"
+                    VPOS="360"
+                    WIDTH="325"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="778 368 743 366 739 366 720 366 702 364 684 364 665 364 647 364 628 362 619 370 584 362 573 362 558 360 549 370 503 360 499 360 481 370 477 372 464 407 464 421 787 414 789 403 785 375 778 368"/></Shape>
+	    <String CONTENT="Usteri, A. Nyon."
+                    HPOS="464"
+                    VPOS="360"
+                    WIDTH="325"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16ee0d7c"
+                    
+                    BASELINE="132 464 1012 458" 
+                    HPOS="132"
+                    VPOS="414"
+                    WIDTH="880"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="997 432 979 430 960 429 942 429 923 427 905 425 886 423 868 423 864 421 859 427 853 421 850 421 831 419 826 418 792 427 789 427 787 427 759 414 757 414 755 414 754 414 752 414 752 416 739 427 737 427 708 416 706 416 704 416 702 416 700 416 687 425 685 427 684 425 674 418 672 418 671 418 669 418 630 425 612 429 593 425 545 416 543 416 492 425 475 427 470 425 451 416 449 416 448 416 446 416 444 416 444 418 436 425 431 429 411 423 379 418 377 418 376 418 374 418 374 419 368 423 365 427 331 423 302 419 296 421 280 421 280 423 272 430 208 427 204 427 186 429 167 430 149 430 138 445 132 464 132 473 1010 467 1012 458 1008 445 997 432"/></Shape>
+	    <String CONTENT="189. 124 Bildniss des Herrn M. Dubs, nach einer¬"
+                    HPOS="132"
+                    VPOS="414"
+                    WIDTH="880"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e15ca24"
+                    
+                    BASELINE="285 506 519 510" 
+                    HPOS="283"
+                    VPOS="464"
+                    WIDTH="236"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="285 464 285 506 283 517 516 519 519 510 519 478 484 465 483 465 481 465 479 465 449 473 431 476 302 464 285 464"/></Shape>
+	    <String CONTENT="Photographie."
+                    HPOS="283"
+                    VPOS="464"
+                    WIDTH="236"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_194252dd"
+                    
+                    BASELINE="195 583 1041 580" 
+                    HPOS="193"
+                    VPOS="535"
+                    WIDTH="848"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="986 541 968 541 956 539 940 546 938 546 918 537 912 537 901 537 875 546 872 546 868 546 838 537 837 537 835 537 833 537 831 537 822 545 820 546 754 546 754 545 744 537 744 535 743 535 741 535 739 535 685 543 663 546 593 543 499 537 497 537 495 537 494 537 494 539 490 541 483 548 438 541 413 537 315 537 313 537 311 537 309 537 307 539 296 548 280 539 276 537 274 537 272 537 271 537 267 545 248 545 230 546 212 548 193 548 195 583 195 591 1041 587 1041 580 1038 548 1001 541 986 541"/></Shape>
+	    <String CONTENT="Vollenweider, Gustav von Bern, in München."
+                    HPOS="193"
+                    VPOS="535"
+                    WIDTH="848"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_246117ba"
+                    
+                    BASELINE="136 639 453 637" 
+                    HPOS="134"
+                    VPOS="594"
+                    WIDTH="319"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="134 616 136 639 136 651 449 657 453 637 449 609 409 609 409 607 396 596 396 594 394 594 392 594 300 594 298 594 296 594 295 594 282 605 278 609 206 609 200 604 191 596 191 594 189 594 188 594 186 594 141 602 134 616"/></Shape>
+	    <String CONTENT="190. Stillleben."
+                    HPOS="134"
+                    VPOS="594"
+                    WIDTH="319"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d743f2a"
+                    
+                    BASELINE="134 758 210 762 283 760 1008 760" 
+                    HPOS="130"
+                    VPOS="712"
+                    WIDTH="876"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="132 756 130 775 1004 775 1006 758 1006 727 986 716 984 716 901 716 899 716 897 716 896 716 896 718 886 725 844 716 842 716 840 716 838 716 827 723 816 714 816 712 814 712 813 712 746 712 744 712 743 712 741 712 741 714 730 723 639 714 637 714 636 714 634 714 634 716 625 723 623 727 567 727 562 723 549 714 547 714 545 714 543 714 542 714 540 714 527 723 521 725 516 723 495 714 494 714 492 714 490 714 488 714 477 721 473 725 453 721 411 714 409 714 407 714 405 714 396 721 390 725 385 721 377 716 376 716 374 716 372 716 370 716 355 721 350 723 348 721 341 714 341 712 339 712 337 712 335 712 291 720 263 727 199 727 186 720 169 712 167 712 165 712 132 718 132 756"/></Shape>
+	    <String CONTENT="191. Kopf eines Greisen. (Eigenthum des Musée"
+                    HPOS="130"
+                    VPOS="712"
+                    WIDTH="876"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_481325e9"
+                    
+                    BASELINE="374 703 877 703" 
+                    HPOS="374"
+                    VPOS="659"
+                    WIDTH="503"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="872 685 857 672 789 672 785 668 776 664 761 664 743 664 728 663 704 666 676 670 658 666 636 659 634 659 632 659 630 659 613 664 597 670 588 664 582 659 580 659 578 659 577 659 575 659 566 663 549 670 374 659 374 703 374 714 877 714 877 703 872 685 872 685"/></Shape>
+	    <String CONTENT="Vuillermet, Ch. Lausanne."
+                    HPOS="374"
+                    VPOS="659"
+                    WIDTH="503"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aa67637"
+                    
+                    BASELINE="317 808 462 804" 
+                    HPOS="317"
+                    VPOS="766"
+                    WIDTH="145"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="333 806 320 801 317 808 317 814 462 812 462 804 460 777 422 766 420 766 418 766 344 775 333 806"/></Shape>
+	    <String CONTENT="Arlaud)."
+                    HPOS="317"
+                    VPOS="766"
+                    WIDTH="145"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b92ff95"
+                    
+                    BASELINE="134 931 215 928 278 931 1010 928" 
+                    HPOS="130"
+                    VPOS="885"
+                    WIDTH="878"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="132 930 132 939 855 944 857 944 1006 933 1008 926 1004 896 951 885 949 885 870 895 850 898 728 898 724 895 719 889 719 887 717 887 715 887 713 887 676 893 660 896 645 893 623 887 621 887 619 887 529 893 460 896 348 891 287 889 285 889 283 889 282 889 280 891 267 898 130 891 132 930"/></Shape>
+	    <String CONTENT="192. Der Heldenkampf der Schwyzer am rothen"
+                    HPOS="130"
+                    VPOS="885"
+                    WIDTH="878"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a237de28"
+                    
+                    BASELINE="354 876 894 871" 
+                    HPOS="352"
+                    VPOS="826"
+                    WIDTH="542"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="886 852 868 837 850 837 831 837 813 837 802 836 748 836 739 836 720 834 711 834 708 837 696 834 684 834 665 834 652 832 647 834 623 837 582 832 534 826 532 826 531 826 518 832 497 839 352 830 354 876 354 885 892 880 894 871 886 852 886 852"/></Shape>
+	    <String CONTENT="Vigier, Walter in Solothurn."
+                    HPOS="352"
+                    VPOS="826"
+                    WIDTH="542"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_149c5db6"
+                    
+                    BASELINE="315 977 547 977 1015 977 1104 972" 
+                    HPOS="311"
+                    VPOS="937"
+                    WIDTH="791"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="313 976 313 981 1098 987 1102 970 1098 937 1023 937 1021 937 1019 937 986 952 543 952 531 939 531 937 529 937 527 937 451 937 449 937 448 937 446 937 429 950 311 937 313 976"/></Shape>
+	    <String CONTENT="Thurm 1798. 3500"
+                    HPOS="311"
+                    VPOS="937"
+                    WIDTH="791"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ff73d12"
+                    
+                    BASELINE="313 1029 1010 1023" 
+                    HPOS="311"
+                    VPOS="979"
+                    WIDTH="699"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="313 1029 313 1038 1008 1031 1010 1023 1004 983 813 988 803 987 785 979 783 979 781 979 739 987 719 990 685 988 590 981 588 981 586 981 567 990 545 981 543 981 542 981 540 981 519 992 516 994 440 994 433 994 337 983 335 983 333 983 311 992 313 1029"/></Shape>
+	    <String CONTENT="„Nicht nur die kräftigen Männer, selbst"
+                    HPOS="311"
+                    VPOS="979"
+                    WIDTH="699"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b37967b"
+                    
+                    BASELINE="272 1075 1008 1075" 
+                    HPOS="272"
+                    VPOS="1033"
+                    WIDTH="736"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="272 1070 272 1075 272 1084 1008 1084 1008 1075 1008 1044 925 1033 923 1033 921 1033 894 1042 641 1033 639 1033 637 1033 636 1033 623 1042 604 1033 602 1033 601 1033 499 1042 488 1033 486 1033 484 1033 413 1033 411 1033 365 1042 344 1033 342 1033 341 1033 339 1033 317 1042 291 1033 289 1033 287 1033 285 1033 283 1033 272 1070"/></Shape>
+	    <String CONTENT="Greise, Weiber und Minderjährige gingen"
+                    HPOS="272"
+                    VPOS="1033"
+                    WIDTH="736"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba5d2fd7"
+                    
+                    BASELINE="272 1125 1008 1121" 
+                    HPOS="271"
+                    VPOS="1079"
+                    WIDTH="737"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="271 1086 272 1125 272 1132 1006 1128 1008 1121 1004 1090 750 1079 748 1079 746 1079 726 1088 562 1081 560 1081 558 1081 556 1081 556 1082 547 1090 333 1081 331 1081 330 1081 306 1090 280 1081 271 1086"/></Shape>
+	    <String CONTENT="in die Schlacht. Weiber und Töchter zogen"
+                    HPOS="271"
+                    VPOS="1079"
+                    WIDTH="737"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_067ee003"
+                    
+                    BASELINE="276 1173 1004 1167" 
+                    HPOS="274"
+                    VPOS="1127"
+                    WIDTH="730"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="276 1173 276 1180 1003 1174 1004 1167 1001 1138 936 1127 934 1127 802 1136 757 1138 728 1134 676 1128 674 1128 672 1128 650 1134 636 1138 582 1134 518 1128 516 1128 514 1128 512 1128 512 1130 510 1130 508 1132 503 1139 274 1132 276 1173"/></Shape>
+	    <String CONTENT="Kanonen von Brunnen bergan gen Rothen¬"
+                    HPOS="274"
+                    VPOS="1127"
+                    WIDTH="730"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1378287"
+                    
+                    BASELINE="274 1219 1003 1215" 
+                    HPOS="272"
+                    VPOS="1174"
+                    WIDTH="731"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="274 1219 274 1226 1001 1222 1003 1215 999 1186 862 1174 861 1174 859 1174 857 1174 842 1184 824 1174 822 1174 820 1174 818 1174 781 1184 755 1174 754 1174 752 1174 750 1174 728 1184 676 1174 674 1174 623 1186 282 1176 280 1176 278 1176 276 1176 276 1178 274 1178 272 1178 274 1219"/></Shape>
+	    <String CONTENT="thurm. Sie waren meistens mit Morgen¬"
+                    HPOS="272"
+                    VPOS="1174"
+                    WIDTH="731"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ea05f20"
+                    
+                    BASELINE="272 1268 1008 1265" 
+                    HPOS="271"
+                    VPOS="1224"
+                    WIDTH="737"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="272 1268 272 1278 1006 1274 1008 1265 1004 1233 656 1224 654 1224 652 1224 612 1233 295 1226 293 1226 291 1226 271 1233 272 1268"/></Shape>
+	    <String CONTENT="sternen bewaffnet und trugen Hirtenhemden"
+                    HPOS="271"
+                    VPOS="1224"
+                    WIDTH="737"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d55caec"
+                    
+                    BASELINE="274 1316 1008 1311" 
+                    HPOS="272"
+                    VPOS="1270"
+                    WIDTH="736"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="274 1316 274 1326 1006 1322 1008 1311 1001 1270 980 1279 927 1272 916 1270 914 1270 894 1272 826 1279 818 1274 816 1272 816 1270 814 1270 813 1270 811 1270 792 1274 755 1281 743 1274 737 1272 735 1272 733 1272 672 1276 580 1281 553 1278 516 1272 514 1272 468 1279 440 1283 420 1279 390 1274 389 1274 272 1281 274 1316"/></Shape>
+	    <String CONTENT="über ihre Kleidung; sie schanzten, thaten"
+                    HPOS="272"
+                    VPOS="1270"
+                    WIDTH="736"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b689abb3"
+                    
+                    BASELINE="276 1366 1008 1359" 
+                    HPOS="274"
+                    VPOS="1318"
+                    WIDTH="734"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="276 1366 276 1373 1008 1366 1008 1359 1004 1329 844 1318 842 1318 840 1318 820 1329 816 1331 755 1331 754 1329 746 1322 746 1320 744 1320 743 1320 741 1320 693 1329 684 1329 274 1329 276 1366"/></Shape>
+	    <String CONTENT="Botendienste, brachten Lebensmittel, be¬"
+                    HPOS="274"
+                    VPOS="1318"
+                    WIDTH="734"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b34aa211"
+                    
+                    BASELINE="276 1414 1006 1405" 
+                    HPOS="274"
+                    VPOS="1366"
+                    WIDTH="732"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="276 1414 276 1421 1004 1414 1006 1405 1004 1377 969 1366 968 1366 966 1366 855 1377 768 1368 767 1368 765 1368 739 1377 720 1368 719 1368 717 1368 715 1368 689 1379 566 1370 564 1370 505 1381 444 1372 442 1372 440 1372 416 1383 335 1373 333 1373 274 1384 276 1414"/></Shape>
+	    <String CONTENT="wachten die Fuhren und besorgten die"
+                    HPOS="274"
+                    VPOS="1366"
+                    WIDTH="732"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7207d9a7"
+                    
+                    BASELINE="276 1460 1006 1460" 
+                    HPOS="276"
+                    VPOS="1418"
+                    WIDTH="730"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="276 1460 276 1469 1006 1469 1006 1460 1006 1418 873 1418 872 1418 870 1418 838 1429 805 1418 803 1418 802 1418 800 1418 798 1418 798 1419 787 1430 743 1430 730 1418 728 1418 726 1418 724 1418 722 1418 684 1427 665 1418 663 1418 661 1418 660 1418 625 1429 554 1418 553 1418 490 1429 276 1418 276 1460"/></Shape>
+	    <String CONTENT="Verwundeten; ihnen halfen die Kinder;"
+                    HPOS="276"
+                    VPOS="1418"
+                    WIDTH="730"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39ac189f"
+                    
+                    BASELINE="278 1508 1006 1502" 
+                    HPOS="276"
+                    VPOS="1469"
+                    WIDTH="730"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="278 1508 278 1517 1006 1512 1006 1502 1003 1473 276 1469 278 1508"/></Shape>
+	    <String CONTENT="Viele nahmen selbst Theil am Kampf. Mann"
+                    HPOS="276"
+                    VPOS="1469"
+                    WIDTH="730"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69f6c5b8"
+                    
+                    BASELINE="274 1559 1004 1554" 
+                    HPOS="272"
+                    VPOS="1512"
+                    WIDTH="732"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="995 1519 896 1512 894 1512 829 1521 818 1512 816 1512 814 1512 813 1512 608 1523 599 1523 595 1523 514 1513 512 1513 510 1513 479 1524 475 1524 459 1524 326 1515 324 1515 272 1524 274 1559 274 1572 1004 1559 1004 1554 1003 1550 995 1519"/></Shape>
+	    <String CONTENT="und Weib und Kinder in gleicher Gefahr"
+                    HPOS="272"
+                    VPOS="1512"
+                    WIDTH="732"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f8fb2e6"
+                    
+                    BASELINE="272 1607 885 1600" 
+                    HPOS="271"
+                    VPOS="1561"
+                    WIDTH="614"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="272 1607 272 1615 883 1607 885 1600 879 1561 271 1572 272 1607"/></Shape>
+	    <String CONTENT="nnd einander treu bis in den Tod.“"
+                    HPOS="271"
+                    VPOS="1561"
+                    WIDTH="614"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82eefa75"
+                    
+                    BASELINE="418 1674 826 1668" 
+                    HPOS="416"
+                    VPOS="1624"
+                    WIDTH="410"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="822 1646 816 1633 748 1624 746 1624 695 1633 682 1635 667 1633 634 1626 632 1626 569 1631 516 1637 416 1631 418 1674 418 1681 826 1675 826 1668 824 1661 822 1646"/></Shape>
+	    <String CONTENT="Wymann-Mory. Bern."
+                    HPOS="416"
+                    VPOS="1624"
+                    WIDTH="410"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_036b588f"
+                    
+                    BASELINE="130 1731 805 1728 1032 1723 1108 1723" 
+                    HPOS="127"
+                    VPOS="1679"
+                    WIDTH="979"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="129 1729 129 1734 1104 1727 1106 1721 1102 1679 875 1696 706 1694 696 1686 687 1681 685 1681 684 1681 682 1681 626 1688 612 1690 610 1688 597 1681 595 1681 593 1681 591 1681 590 1681 567 1690 560 1692 553 1690 521 1681 519 1681 518 1681 516 1681 514 1681 514 1683 505 1692 503 1694 438 1698 433 1692 422 1685 422 1683 420 1683 418 1683 416 1683 414 1683 394 1694 392 1694 389 1694 350 1686 348 1686 346 1686 344 1686 344 1688 337 1696 333 1698 326 1696 287 1685 285 1685 283 1685 282 1685 254 1698 252 1698 239 1685 239 1683 237 1683 236 1683 151 1683 149 1683 147 1683 145 1683 127 1692 129 1729"/></Shape>
+	    <String CONTENT="193. 66 Im Thal von Lauterbrunnen. 350"
+                    HPOS="127"
+                    VPOS="1679"
+                    WIDTH="979"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e531d00e"
+                    
+                    BASELINE="130 1779 936 1773 1032 1773 1104 1768" 
+                    HPOS="127"
+                    VPOS="1729"
+                    WIDTH="975"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="129 1777 129 1784 1102 1777 1102 1766 1097 1729 1019 1742 883 1742 862 1731 861 1731 859 1731 857 1731 820 1742 781 1731 779 1731 778 1731 726 1731 685 1733 684 1733 682 1733 682 1734 672 1742 510 1733 497 1733 495 1733 494 1733 492 1733 492 1734 481 1745 363 1745 341 1734 339 1734 337 1734 335 1734 265 1745 127 1736 129 1777"/></Shape>
+	    <String CONTENT="194. 126 Ruinen von Weissenau bei Interlaken. 400"
+                    HPOS="127"
+                    VPOS="1729"
+                    WIDTH="975"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1017d406"
+                    
+                    BASELINE="130 1823 258 1830 619 1819 1030 1817 1100 1817" 
+                    HPOS="127"
+                    VPOS="1782"
+                    WIDTH="971"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="129 1821 129 1832 280 1843 282 1843 433 1841 435 1841 436 1841 436 1839 438 1839 446 1830 448 1828 459 1830 527 1839 529 1839 597 1828 625 1823 774 1823 781 1826 787 1832 789 1832 791 1832 792 1832 794 1832 796 1832 803 1826 811 1823 1027 1823 1028 1825 1039 1834 1041 1834 1043 1834 1045 1834 1097 1823 1098 1815 1095 1784 669 1793 519 1786 453 1782 451 1782 449 1782 438 1786 413 1793 318 1786 283 1784 282 1784 280 1784 278 1784 278 1786 276 1786 265 1799 127 1788 129 1821"/></Shape>
+	    <String CONTENT="195. 232 Waldweg bei Bern. 700"
+                    HPOS="127"
+                    VPOS="1782"
+                    WIDTH="971"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cb79220"
+                    
+                    BASELINE="130 1871 215 1874 276 1874 499 1871 1034 1865 1104 1869" 
+                    HPOS="127"
+                    VPOS="1832"
+                    WIDTH="975"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="129 1869 129 1874 1100 1876 1102 1867 1098 1832 501 1845 488 1834 488 1832 486 1832 484 1832 333 1832 331 1832 291 1832 283 1834 282 1834 280 1834 280 1836 267 1847 127 1834 129 1869"/></Shape>
+	    <String CONTENT="196. Studienkopf. 200"
+                    HPOS="127"
+                    VPOS="1832"
+                    WIDTH="975"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed51e75a"
+                    
+                    BASELINE="130 1922 219 1922 274 1920 630 1917 1036 1917 1106 1913" 
+                    HPOS="127"
+                    VPOS="1876"
+                    WIDTH="977"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="129 1920 129 1931 1104 1926 1104 1911 1098 1876 1010 1889 932 1880 931 1880 929 1880 927 1880 927 1882 918 1891 802 1891 536 1878 508 1878 507 1878 448 1880 446 1880 444 1880 444 1882 433 1891 295 1880 283 1880 282 1880 280 1880 278 1880 278 1882 265 1895 212 1895 199 1882 199 1880 197 1880 195 1880 193 1880 127 1880 129 1920"/></Shape>
+	    <String CONTENT="197. Frühling im Walde. 280"
+                    HPOS="127"
+                    VPOS="1876"
+                    WIDTH="977"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45d1c078"
+                    
+                    BASELINE="130 1970 212 1966 278 1968 785 1968 1062 1965 1104 1965" 
+                    HPOS="127"
+                    VPOS="1922"
+                    WIDTH="975"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="129 1968 129 1990 217 1974 274 1976 285 1987 285 1989 287 1989 289 1989 291 1989 383 1979 453 1989 455 1989 512 1977 543 1989 545 1989 547 1990 593 1990 652 1990 652 1989 654 1989 656 1989 656 1987 665 1979 672 1987 674 1987 676 1987 678 1989 754 1989 754 1987 755 1987 783 1972 1034 1972 1049 1985 1049 1987 1050 1987 1052 1987 1054 1989 1100 1989 1102 1963 1100 1922 1063 1922 1062 1922 1060 1922 1058 1922 1058 1924 1043 1939 868 1939 857 1928 855 1928 853 1928 851 1928 850 1928 848 1928 848 1930 838 1939 772 1939 687 1924 685 1924 684 1924 645 1935 628 1924 626 1924 625 1924 623 1924 518 1939 466 1924 464 1924 462 1924 460 1924 401 1935 377 1924 376 1924 287 1924 285 1924 283 1924 282 1924 282 1926 265 1941 210 1941 189 1924 188 1924 186 1924 184 1924 127 1924 129 1968"/></Shape>
+	    <String CONTENT="198. Bei Montelier am Murtensee. 70"
+                    HPOS="127"
+                    VPOS="1922"
+                    WIDTH="975"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
