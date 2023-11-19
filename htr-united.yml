@@ -1,54 +1,54 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 authors:
-  - name: Gabay
-    surname: Simon
-    orcid: 0000-0001-9094-4475
-    roles:
-    - transcriber
-    - project-manager
-    - quality-control
-  - name: Joyeux-Prunel
-    surname: Béatrice
-    orcid: 0000-0003-1046-7002
-    roles:
-    - transcriber
-  - name: Rizzello
-    surname: Martina
-    orcid: 0000-0003-0131-192X
-    roles:
-    - transcriber
-  - name: Berlincourt
-    surname: Valéry
-    orcid: 0000-0001-5739-8839
-    roles:
-    - transcriber
-  - name: Rizzi
-    surname: Elena Maria
-    orcid: 0000-0002-8542-7091
-    roles:
-    - transcriber
-  - name: Tesser
-    surname: Stefania
-    affiliation: Ca' Foscari University
-    orcid: 0000-0001-9553-1100
-    roles:
-    - transcriber
-  - name: Bukvic
-    surname: Victoria
-    roles:
-    - transcriber
-  - name: Diaz
-    surname: Jaime
-    roles:
-    - transcriber
-  - name: Aebi
-    surname: Guillaume
-    roles:
-    - transcriber
-  - name: Bickel
-    surname: Raoul
-    roles:
-    - transcriber
+- name: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Simon
+- name: Joyeux-Prunel
+  orcid: 0000-0003-1046-7002
+  roles:
+  - transcriber
+  surname: Béatrice
+- name: Rizzello
+  orcid: 0000-0003-0131-192X
+  roles:
+  - transcriber
+  surname: Martina
+- name: Berlincourt
+  orcid: 0000-0001-5739-8839
+  roles:
+  - transcriber
+  surname: Valéry
+- name: Rizzi
+  orcid: 0000-0002-8542-7091
+  roles:
+  - transcriber
+  surname: Elena Maria
+- affiliation: Ca' Foscari University
+  name: Tesser
+  orcid: 0000-0001-9553-1100
+  roles:
+  - transcriber
+  surname: Stefania
+- name: Bukvic
+  roles:
+  - transcriber
+  surname: Victoria
+- name: Diaz
+  roles:
+  - transcriber
+  surname: Jaime
+- name: Aebi
+  roles:
+  - transcriber
+  surname: Guillaume
+- name: Bickel
+  roles:
+  - transcriber
+  surname: Raoul
 characters:
   members:
   - e
