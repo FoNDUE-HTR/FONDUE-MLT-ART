@@ -44,8 +44,8 @@ characters:
   - A
   - S
   - G
-  - ','
   - '6'
+  - ','
   - '7'
   - v
   - '8'
@@ -57,8 +57,8 @@ characters:
   - z
   - y
   - D
-  - W
   - C
+  - W
   - R
   - k
   - K
@@ -73,6 +73,7 @@ characters:
   - T
   - J
   - ́
+  - –
   - —
   - N
   - Z
@@ -87,8 +88,8 @@ characters:
   - ;
   - X
   - œ
-  - Q
   - ¬
+  - Q
   - »
   - '"'
   - ̧
@@ -102,7 +103,7 @@ characters:
   - '?'
   - /
   - «
-  - –
+  - …
   - '&'
   mode: NFD
 citation-file-link: https://raw.githubusercontent.com/FoNDUE-HTR/FONDUE-MLT-ART/main/CITATION.cff
@@ -129,11 +130,11 @@ time:
 title: FONDUE-MLT-ART
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-ART
 volume:
-- count: 101254
+- count: 101537
   metric: characters
 - count: 158
   metric: files
-- count: 4194
+- count: 4217
   metric: lines
 - count: 60
   metric: pages
